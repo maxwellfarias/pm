@@ -1,244 +1,251 @@
 # Guia de Estudo — Lei Maria da Penha (Lei nº 11.340/2006)
 
-> *"O conhecimento aprofundado desta lei não é apenas uma exigência de prova — é um compromisso com a dignidade humana. Você está no caminho certo!"*
+## Objetivo
+
+Guia focado em **retenção de longo prazo** para provas de concurso, com ênfase em pegadinhas, prazos, exceções e mnemônicos.
 
 ---
 
-## 1. Resumo Executivo (Técnica Feynman)
+## 1. Tabela de Pontos Críticos — Pegadinhas de Prova
 
-Imagine que uma mulher sofre violência dentro de casa — pode ser agressão física, humilhação constante, controle financeiro ou até ameaças. Antes de 2006, a lei tratava esses casos como "brigas domésticas" de menor potencial ofensivo. A **Lei Maria da Penha** mudou isso completamente.
+### 1.1 Prazos
 
-Em termos simples, a lei faz **três coisas principais**:
+| Prazo | Dispositivo | Conteúdo |
+|-------|-------------|----------|
+| **48 horas** | Art. 12, III | Autoridade policial remete expediente ao juiz com pedido de medidas protetivas |
+| **48 horas** | Art. 18 | Juiz decide sobre medidas protetivas após receber o expediente |
+| **24 horas** | Art. 12-C, §1º | Delegado ou policial que aplicar afastamento deve comunicar ao juiz, que decide em **igual prazo (24h)** |
+| **6 meses** | Art. 9º, §2º, II | Manutenção do **vínculo trabalhista** da ofendida afastada do trabalho |
+| **6 meses** | Art. 23, VI | Prazo máximo do **auxílio-aluguel** concedido à ofendida |
+| **45 dias** | Art. 46 | Vacatio legis da lei |
+| **1 ano** | Art. 37 | Pré-constituição mínima de associação para defesa de interesses transindividuais |
 
-1. **Define o que é violência doméstica** — não é só bater. São **5 formas**: física, psicológica, sexual, patrimonial e moral.
-2. **Cria mecanismos de proteção rápida** — as **medidas protetivas de urgência**, que podem ser concedidas em até 48 horas, afastando o agressor e protegendo a vítima.
-3. **Afasta a aplicação dos Juizados Especiais (Lei 9.099/95)** — ou seja, nada de pena de cesta básica ou multa isolada. A violência doméstica contra a mulher é tratada com a seriedade que merece.
+### 1.2 Penas e Valores
 
-A lei recebe o nome de **Maria da Penha Maia Fernandes**, farmacêutica cearense que sofreu duas tentativas de homicídio pelo marido e ficou paraplégica. Após anos de impunidade, o caso chegou à **Comissão Interamericana de Direitos Humanos da OEA**, que condenou o Brasil por omissão.
+| Crime / Situação | Pena | Dispositivo |
+|-------------------|------|-------------|
+| **Descumprimento de medida protetiva** | Reclusão de **2 a 5 anos** + multa (Lei 14.994/2024) | Art. 24-A |
+| **Lesão corporal doméstica** (art. 129, §9º, CP) | Detenção de **3 meses a 3 anos** | Art. 44 |
+| **Aumento de pena** — vítima com deficiência (§11) | **+1/3** | Art. 44 |
 
-**Fundamentos constitucionais e internacionais:**
-- Art. 226, §8º da **Constituição Federal**
-- **CEDAW** (Convenção sobre Eliminação de Todas as Formas de Discriminação contra a Mulher)
-- **Convenção de Belém do Pará** (Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher)
+### 1.3 Competências e Exceções
+
+| Ponto Crítico | Detalhes |
+|---------------|----------|
+| **Não se aplica Lei 9.099/95** (JECrim) | Art. 41 — independentemente da pena prevista |
+| **Vedação de cesta básica e multa isolada** | Art. 17 — proibidas penas de prestação pecuniária e multa isolada |
+| **Juizado tem competência cível E criminal** | Art. 14 — competência híbrida |
+| **Partilha de bens excluída** | Art. 14-A, §1º — o Juizado **não** julga partilha |
+| **Ação de divórcio no Juizado** | Art. 14-A — a ofendida **pode** propor divórcio/dissolução de união estável |
+| **Competência por opção da ofendida** (cível) | Art. 15 — domicílio/residência da ofendida, lugar do fato, ou domicílio do agressor |
+| **Renúncia à representação** | Art. 16 — só perante o **juiz**, em audiência, antes do **recebimento da denúncia**, ouvido o MP |
+| **Fiança no flagrante do art. 24-A** | §2º — apenas **autoridade judicial** pode conceder |
+| **Medidas protetivas independem de BO/inquérito/ação penal** | Art. 19, §5º (Lei 14.550/2023) |
+| **Vigência das medidas protetivas** | Art. 19, §6º — vigoram enquanto **persistir o risco** |
+| **Prisão preventiva** | Art. 20 — cabível em qualquer fase (inquérito ou instrução) |
+
+### 1.4 Quem Pode Afastar o Agressor (Art. 12-C)
+
+| Autoridade | Condição |
+|------------|----------|
+| **Juiz** | Sempre |
+| **Delegado** | Município **não** sede de comarca |
+| **Policial** | Município **não** sede de comarca + **sem delegado** disponível |
+
+> **Pegadinha:** Delegado e policial SÓ podem afastar quando o município **não for sede de comarca**. A comunicação ao juiz deve ser em **24 horas**.
+
+### 1.5 Sigilo
+
+| O que é sigiloso | Dispositivo |
+|------------------|-------------|
+| Nome da ofendida nos processos | Art. 17-A (Lei 14.857/2024) |
+| Dados da ofendida e dependentes em matrícula escolar | Art. 9º, §8º |
+| **Não** é sigiloso: nome do autor do fato | Art. 17-A, parágrafo único |
 
 ---
 
-## 2. Tabela de Pontos Críticos — Pegadinhas de Prova
-
-| **Tema** | **Detalhe Crítico** | **Pegadinha Comum** |
-|---|---|---|
-| **Prazo para remessa ao juiz** | **48 horas** — autoridade policial remete expediente com pedido de medidas protetivas (art. 12, III) | Confundir com 24h. O prazo de 24h é para o juiz decidir sobre medida aplicada por delegado/policial (art. 12-C, §1º) |
-| **Prazo do juiz para decidir** | **48 horas** para conhecer e decidir sobre medidas protetivas (art. 18) | Achar que o juiz tem prazo diferente do da remessa |
-| **Afastamento do lar pelo delegado** | Apenas quando o **Município não for sede de comarca** (art. 12-C, II) | Afirmar que o delegado pode afastar em qualquer município |
-| **Afastamento do lar pelo policial** | Município não sede de comarca **E** sem delegado disponível (art. 12-C, III) | Esquecer o requisito cumulativo |
-| **Comunicação ao juiz (12-C)** | Prazo máximo de **24 horas** e decisão em **igual prazo** | Confundir com as 48h do art. 18 |
-| **Renúncia à representação** | Só perante o **juiz**, em **audiência especial**, **antes do recebimento da denúncia**, ouvido o MP (art. 16) | Afirmar que pode ser feita na delegacia |
-| **Lei 9.099/95** | **Não se aplica** aos crimes com violência doméstica contra a mulher (art. 41) | Questões que tentam aplicar transação penal ou composição civil |
-| **Pena vedada** | Cesta básica, prestação pecuniária e substituição por multa isolada (art. 17) | Afirmar que só a cesta básica é vedada |
-| **Vínculo trabalhista** | Manutenção por até **6 meses** quando necessário afastamento (art. 9º, §2º, II) | Confundir com prazo indeterminado |
-| **Auxílio-aluguel** | Por período **não superior a 6 meses** (art. 23, VI) | Achar que não tem limite temporal |
-| **Orientação sexual** | A lei aplica-se **independentemente de orientação sexual** (art. 2º e art. 5º, parágrafo único) | Afirmar que só se aplica a casais heterossexuais |
-| **Descumprimento de medida protetiva** | Pena: **reclusão de 2 a 5 anos e multa** (art. 24-A, redação Lei 14.994/2024) | Citar a pena antiga (detenção, 3 meses a 2 anos) |
-| **Fiança no flagrante** | Apenas a **autoridade judicial** pode conceder (art. 24-A, §2º) | Afirmar que o delegado pode arbitrar fiança |
-| **Competência por opção da ofendida** | Domicílio da ofendida, lugar do fato ou domicílio do agressor (art. 15) | Esquecer que a escolha é da **ofendida** |
-| **Ação penal (ADI 4424/STF)** | Lesão corporal no âmbito da Lei Maria da Penha é de **ação penal pública incondicionada** | Afirmar que depende de representação |
-| **Nome da ofendida** | Fica sob **sigilo** nos processos (art. 17-A, Lei 14.857/2024) | Achar que o sigilo abrange o nome do agressor (não abrange) |
-| **Medidas protetivas — independência** | Independem de tipificação penal, ação penal/cível, inquérito policial ou BO (art. 19, §5º) | Exigir BO para concessão de medida protetiva |
-
----
-
-## 3. Estrutura de Mapa Mental
+## 2. Estrutura de Mapa Mental
 
 ```
 LEI MARIA DA PENHA (11.340/2006)
 │
-├── 1. FUNDAMENTOS
-│   ├── CF/88 — Art. 226, §8º
-│   ├── CEDAW
-│   └── Convenção de Belém do Pará
+├── ÂMBITOS DE APLICAÇÃO (Art. 5º)
+│   ├── Unidade doméstica (convívio permanente, com ou sem vínculo familiar)
+│   ├── Família (laços naturais, afinidade ou vontade expressa)
+│   └── Relação íntima de afeto (independe de coabitação)
+│       └── Independe de orientação sexual (parágrafo único)
 │
-├── 2. ÂMBITO DE APLICAÇÃO (Art. 5º)
-│   ├── Unidade doméstica (convívio permanente, com ou sem vínculo)
-│   ├── Família (laços naturais, afinidade ou vontade)
-│   ├── Relação íntima de afeto (independe de coabitação)
-│   └── Independe de orientação sexual
-│
-├── 3. FORMAS DE VIOLÊNCIA (Art. 7º) — "FiPSePatMo"
+├── 5 FORMAS DE VIOLÊNCIA (Art. 7º)
 │   ├── Física
-│   ├── Psicológica
-│   ├── Sexual
-│   ├── Patrimonial
-│   └── Moral
+│   ├── Psicológica (inclui violação de intimidade — Lei 13.772/2018)
+│   ├── Sexual (inclui forçar gravidez, aborto, prostituição)
+│   ├── Patrimonial (retenção, subtração, destruição de bens)
+│   └── Moral (calúnia, difamação, injúria)
 │
-├── 4. ASSISTÊNCIA E ATENDIMENTO
-│   ├── Medidas integradas de prevenção (Art. 8º)
-│   ├── Assistência à mulher (Art. 9º)
-│   │   ├── Remoção prioritária (servidora pública)
-│   │   ├── Manutenção do vínculo trabalhista (até 6 meses)
-│   │   ├── Prioridade de matrícula escolar dos dependentes
-│   │   └── Auxílio-aluguel (até 6 meses)
-│   └── Atendimento policial (Arts. 10-12)
-│       ├── Especializado e ininterrupto
-│       ├── Preferencialmente por servidoras mulheres
-│       └── Prazo 48h para remeter pedido ao juiz
-│
-├── 5. MEDIDAS PROTETIVAS DE URGÊNCIA
-│   ├── Prazo: 48h para o juiz decidir (Art. 18)
-│   ├── Que obrigam o AGRESSOR (Art. 22)
-│   │   ├── Suspensão de posse/porte de arma
+├── MEDIDAS PROTETIVAS DE URGÊNCIA
+│   ├── QUE OBRIGAM O AGRESSOR (Art. 22)
+│   │   ├── Suspensão/restrição de armas
 │   │   ├── Afastamento do lar
-│   │   ├── Proibição de aproximação/contato
-│   │   ├── Restrição de visitas a menores
+│   │   ├── Proibição de condutas (aproximação, contato, frequentar lugares)
+│   │   ├── Restrição/suspensão de visitas
 │   │   ├── Alimentos provisionais
-│   │   ├── Programas de recuperação
-│   │   └── Acompanhamento psicossocial
-│   ├── À OFENDIDA (Arts. 23-24)
+│   │   ├── Programas de recuperação/reeducação
+│   │   ├── Acompanhamento psicossocial
+│   │   └── Monitoração eletrônica (Lei 15.125/2025)
+│   │
+│   ├── À OFENDIDA (Art. 23)
 │   │   ├── Encaminhamento a programa de proteção
 │   │   ├── Recondução ao domicílio
+│   │   ├── Afastamento do lar (sem prejuízo de bens/guarda/alimentos)
 │   │   ├── Separação de corpos
-│   │   ├── Matrícula dos dependentes
-│   │   ├── Auxílio-aluguel
-│   │   └── Proteção patrimonial
-│   └── DESCUMPRIMENTO (Art. 24-A)
-│       └── Reclusão: 2 a 5 anos + multa
+│   │   ├── Matrícula prioritária dos dependentes
+│   │   └── Auxílio-aluguel (até 6 meses)
+│   │
+│   └── PATRIMONIAIS (Art. 24)
+│       ├── Restituição de bens
+│       ├── Proibição de atos negociais sobre bens comuns
+│       ├── Suspensão de procurações
+│       └── Caução provisória por danos
 │
-├── 6. PROCEDIMENTOS
-│   ├── Juizados de Violência Doméstica (competência cível + criminal)
-│   ├── Competência por opção da ofendida (Art. 15)
-│   ├── Renúncia à representação: só perante juiz + audiência (Art. 16)
-│   ├── Vedação: cesta básica, multa isolada (Art. 17)
-│   └── NÃO se aplica Lei 9.099/95 (Art. 41)
+├── PROCEDIMENTOS
+│   ├── Autoridade policial (Art. 12) — 48h para remeter ao juiz
+│   ├── Juiz (Art. 18) — 48h para decidir
+│   ├── Não se aplica Lei 9.099 (Art. 41)
+│   └── Vedada cesta básica / multa isolada (Art. 17)
 │
-└── 7. DISPOSIÇÕES RELEVANTES
-    ├── Prisão preventiva para garantir medidas protetivas
-    ├── Sigilo do nome da ofendida (Art. 17-A)
-    ├── Agressor ressarce SUS (Art. 9º, §4º)
-    └── Banco de dados do CNJ para medidas protetivas (Art. 38-A)
+├── CRIME DE DESCUMPRIMENTO (Art. 24-A)
+│   └── Reclusão 2-5 anos + multa
+│
+├── ATENDIMENTO
+│   ├── Policial especializado, preferencialmente feminino (Art. 10-A)
+│   ├── Equipe multidisciplinar (psicossocial, jurídica, saúde)
+│   └── Defensoria Pública garantida (Art. 28)
+│
+└── ASSISTÊNCIA À MULHER (Art. 9º)
+    ├── Prioridade no SUS e SUSP
+    ├── Vínculo trabalhista mantido até 6 meses
+    ├── Remoção prioritária (servidora pública)
+    ├── Matrícula prioritária dos dependentes
+    └── Ressarcimento pelo agressor (custos SUS + dispositivos de segurança)
 ```
 
 ---
 
-## 4. Mnemosyne — Mnemônicos
+## 3. Mnemônicos (Mnemosyne)
 
-### 4.1 As 5 formas de violência (Art. 7º)
+### 3.1 As 5 Formas de Violência (Art. 7º) — **"Fi.Psi.Se.Pa.Mo"**
 
-**"FiPSePatMo"** — ou a frase:
+> **F**ísica, **Psi**cológica, **Se**xual, **Pa**trimonial, **Mo**ral
 
-> **"Fi**gueira **P**equena **Se**mpre **Pat**ina na **Mo**ça"
+Frase memorável: **"Foi PSIcólogo SEm PAgamento? é MOralmente errado"**
 
-- **Fi**sica
-- **P**sicológica
-- **Se**xual
-- **Pat**rimonial
-- **Mo**ral
+---
 
-### 4.2 Medidas protetivas que obrigam o agressor (Art. 22)
+### 3.2 Os 3 Âmbitos da Violência Doméstica (Art. 5º) — **"U.F.A!"**
 
-**"SAPA PRA"** — o agressor vira um sapo:
+- **U** = **U**nidade doméstica
+- **F** = **F**amília
+- **A** = Relação íntima de **A**feto
 
-- **S**uspensão de posse/porte de arma
+> Frase: **"UFA! Escapei da violência"** — nos três âmbitos.
+
+---
+
+### 3.3 Medidas Protetivas ao Agressor (Art. 22) — **"SAPRAVE"**
+
+- **S**uspensão de armas
 - **A**fastamento do lar
-- **P**roibição de aproximação/contato/frequentação
+- **P**roibição de condutas (aproximação/contato)
+- **R**estrição de visitas
 - **A**limentos provisionais
-- **P**rograma de recuperação
-- **R**estrição de visitas a menores
-- **A**companhamento psicossocial
-
-### 4.3 Quem pode afastar o agressor do lar (Art. 12-C)
-
-**"JuDePo"** — Juiz, Delegado, Policial (nessa ordem de prioridade)
-
-- **Ju**iz — sempre pode
-- **De**legado — quando município não for sede de comarca
-- **Po**licial — quando não for sede de comarca E sem delegado disponível
-
-### 4.4 Competência por opção da ofendida (Art. 15)
-
-**"DoFA"** — "Do fato ao agressor"
-
-- **Do**micílio da ofendida
-- Lugar do **F**ato
-- Domicílio do **A**gressor
-
-### 4.5 Providências da autoridade policial (Art. 11)
-
-**"PETIA"** — a polícia PETIA pela mulher:
-
-- **P**roteção policial (comunicando MP e Judiciário)
-- **E**ncaminhamento ao hospital/IML
-- **T**ransporte para abrigo
-- **I**r junto para retirar pertences
-- Informar direitos (**A**visar)
-
-### 4.6 Prazo-chave: 48h
-
-> **"48 é o prazo da PRESSA"**
-> - **P**olícia **R**emete **E**xpediente → **48h**
-> - Jui**S** decide **S**obre medid**A** → **48h**
+- **V**inculação a programas de reeducação
+- **E**letrônica (monitoração)
 
 ---
 
-## 5. Estudo de Caso Rápido
+### 3.4 Quem Afasta o Agressor (Art. 12-C) — **"JuDePo"**
 
-### Caso 1 — As múltiplas formas de violência
+- **Ju**iz → sempre
+- **De**legado → sem comarca
+- **Po**licial → sem comarca E sem delegado
 
-**Situação:** Ana vive com Carlos há 3 anos em união estável. Carlos controla todo o dinheiro da casa, proíbe Ana de trabalhar (**violência patrimonial** — art. 7º, IV), xinga-a diariamente de "inútil" e "louca" (**violência psicológica** — art. 7º, II), e publicou nas redes sociais que Ana seria infiel (**violência moral/difamação** — art. 7º, V). Após uma discussão, Carlos deu um tapa em Ana (**violência física** — art. 7º, I).
-
-**Aplicação da Lei:**
-- Ana procura a delegacia e registra BO. A autoridade policial, em **48 horas**, remete o pedido de medidas protetivas ao juiz (art. 12, III).
-- O juiz, também em **48 horas**, defere: **afastamento de Carlos do lar** (art. 22, II), **proibição de aproximação** (art. 22, III), **alimentos provisionais** (art. 22, V) e **restituição dos bens retidos** (art. 24, I).
-- A lesão corporal é processada por **ação penal pública incondicionada** (ADI 4424/STF), ou seja, mesmo que Ana "desista", o processo continua.
-- **Não cabe** transação penal, composição civil nem pena de cesta básica (arts. 17 e 41).
+> Frase: **"O JUIZ sempre pode, o DELEGADO se não tiver comarca, o POLICIAL só no desespero"**
 
 ---
 
-### Caso 2 — Descumprimento de medida protetiva
+### 3.5 Prazos — **"48-48-24-6"**
 
-**Situação:** Beatriz obteve medida protetiva contra seu ex-companheiro, Pedro, que foi proibido de se aproximar a menos de 300 metros. Duas semanas depois, Pedro aparece na porta do trabalho de Beatriz, gritando ameaças.
+- **48h** — Polícia remete ao juiz (Art. 12, III)
+- **48h** — Juiz decide (Art. 18)
+- **24h** — Comunicação ao juiz quando delegado/policial afasta (Art. 12-C, §1º)
+- **6 meses** — Vínculo trabalhista / auxílio-aluguel
 
-**Aplicação da Lei:**
-- Pedro comete o crime do **art. 24-A**: descumprimento de medida protetiva de urgência, com pena de **reclusão de 2 a 5 anos e multa** (redação dada pela Lei 14.994/2024).
-- Pedro é preso em flagrante. A **fiança só pode ser concedida pelo juiz** (art. 24-A, §2º) — o delegado **não** pode arbitrá-la.
-- O juiz pode decretar **prisão preventiva** para garantir a execução das medidas protetivas (art. 20 c/c art. 313, IV do CPP).
-- Beatriz é notificada sobre a prisão de Pedro (art. 21), podendo solicitar **reforço das medidas protetivas**, inclusive com **monitoração eletrônica** do agressor (art. 22, §5º — Lei 15.125/2025).
-
----
-
-## 6. Flashcards (Estilo Anki)
-
-### Flashcard 1
-| **Frente** | **Verso** |
-|---|---|
-| Quais são as **5 formas de violência** doméstica e familiar previstas no art. 7º da Lei Maria da Penha? | **Física** (integridade/saúde corporal), **Psicológica** (dano emocional, controle, manipulação), **Sexual** (relação forçada, impedir contracepção), **Patrimonial** (retenção/destruição de bens, documentos, recursos) e **Moral** (calúnia, difamação, injúria). Mnemônico: **FiPSePatMo**. |
-
-### Flashcard 2
-| **Frente** | **Verso** |
-|---|---|
-| Qual o **prazo** para a autoridade policial remeter o pedido de medidas protetivas ao juiz? E qual o prazo para o juiz decidir? | Ambos os prazos são de **48 horas**. A autoridade policial remete em 48h (art. 12, III) e o juiz decide em 48h (art. 18). **Atenção:** o prazo de **24 horas** refere-se à comunicação ao juiz quando o afastamento for feito por delegado ou policial (art. 12-C, §1º). |
-
-### Flashcard 3
-| **Frente** | **Verso** |
-|---|---|
-| Qual a **pena** pelo descumprimento de medida protetiva de urgência (art. 24-A)? Quem pode conceder fiança em caso de flagrante? | Pena: **reclusão de 2 a 5 anos e multa** (redação da Lei 14.994/2024). Em caso de flagrante, **somente a autoridade judicial** pode conceder fiança — o delegado **não** pode (art. 24-A, §2º). |
-
-### Flashcard 4
-| **Frente** | **Verso** |
-|---|---|
-| A Lei 9.099/95 (Juizados Especiais) aplica-se aos crimes de violência doméstica contra a mulher? | **Não.** O art. 41 da Lei Maria da Penha veda expressamente a aplicação da Lei 9.099/95, **independentemente da pena prevista**. Isso significa: sem transação penal, sem composição civil dos danos e sem suspensão condicional do processo nos moldes da Lei 9.099. Também é vedada pena de cesta básica ou substituição por multa isolada (art. 17). |
-
-### Flashcard 5
-| **Frente** | **Verso** |
-|---|---|
-| A violência doméstica contra a mulher em relação **homoafetiva** é abrangida pela Lei Maria da Penha? E o agressor pode ser mulher? | **Sim** para ambas. O art. 5º, parágrafo único, estabelece que as relações pessoais **independem de orientação sexual**. Assim, uma mulher que sofra violência de sua companheira em relação homoafetiva está protegida pela lei. O art. 2º reforça que **toda mulher**, independentemente de orientação sexual, goza dos direitos da lei. |
+> Frase: **"Quarenta e oito DOBRADO, vinte e quatro pra confirmar, SEIS pra trabalhar"**
 
 ---
 
-## Dicas Finais de Prova
+### 3.6 Competência por Opção da Ofendida — Processos Cíveis (Art. 15) — **"DoFaDo"**
 
-1. **Leia o enunciado com atenção** quando citar prazos: 48h (policial e juiz) vs. 24h (comunicação do afastamento emergencial).
-2. A banca adora trocar "**reclusão**" por "detenção" no art. 24-A — fique atento à atualização legislativa de 2024.
-3. **Medidas protetivas independem de BO, inquérito ou ação penal** (art. 19, §5º) — essa é uma alteração recente (Lei 14.550/2023) e muito cobrada.
-4. A **ação penal** para lesão corporal no âmbito da Maria da Penha é **pública incondicionada** (STF, ADI 4424) — questão clássica de prova.
-5. O **auxílio-aluguel** (art. 23, VI) e a **manutenção do vínculo trabalhista** (art. 9º, §2º, II) possuem o mesmo prazo máximo: **6 meses**.
+- **Do**micílio/residência da ofendida
+- **Fa**to (lugar do fato)
+- **Do**micílio do agressor
 
-> *Você está construindo um conhecimento sólido. Cada artigo que você domina é um passo mais perto da aprovação. Continue firme!*
+---
+
+### 3.7 Vedações Importantes — **"Não JECa, Não CeMu"**
+
+- **Não JECa** = Não se aplica a Lei do **JEC**rim (9.099/95) — Art. 41
+- **Não CeMu** = Não cabe **Ce**sta básica nem **Mu**lta isolada — Art. 17
+
+---
+
+### 3.8 Providências da Autoridade Policial (Art. 11) — **"PETIA"**
+
+- **P**roteção policial (comunicar MP e Judiciário)
+- **E**ncaminhar ao hospital/IML
+- **T**ransporte para abrigo (risco de vida)
+- **I**r retirar pertences (acompanhar)
+- **A**visar dos direitos (informar à ofendida)
+
+---
+
+### 3.9 Violência Patrimonial — Condutas (Art. 7º, IV) — **"ReSuDe"**
+
+- **Re**tenção
+- **Su**btração
+- **De**struição (parcial ou total)
+
+---
+
+## 4. Trechos Literais Essenciais
+
+> **Art. 5º** — "Para os efeitos desta Lei, configura violência doméstica e familiar contra a mulher qualquer **ação ou omissão baseada no gênero** que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial."
+
+> **Art. 5º, Parágrafo único** — "As relações pessoais enunciadas neste artigo **independem de orientação sexual**."
+
+> **Art. 6º** — "A violência doméstica e familiar contra a mulher constitui uma das formas de **violação dos direitos humanos**."
+
+> **Art. 16** — "Só será admitida a **renúncia à representação perante o juiz**, em audiência especialmente designada com tal finalidade, **antes do recebimento da denúncia** e ouvido o Ministério Público."
+
+> **Art. 17** — "É **vedada** a aplicação [...] de **penas de cesta básica** ou outras de prestação pecuniária, bem como a **substituição de pena que implique o pagamento isolado de multa**."
+
+> **Art. 19, §5º** — "As medidas protetivas de urgência serão concedidas **independentemente da tipificação penal** da violência, do ajuizamento de ação penal ou cível, da existência de inquérito policial ou do registro de boletim de ocorrência."
+
+> **Art. 41** — "Aos crimes praticados com violência doméstica e familiar contra a mulher, **independentemente da pena prevista**, não se aplica a Lei nº 9.099, de 26 de setembro de 1995."
+
+> **Art. 40-A** — "Esta Lei será aplicada a **todas as situações** previstas no seu art. 5º, **independentemente da causa ou da motivação** dos atos de violência e da condição do ofensor ou da ofendida."
+
+---
+
+## 5. Alertas Finais para Prova
+
+1. **A lei se aplica independentemente de orientação sexual** (Art. 5º, p.u.) — relações homoafetivas femininas estão incluídas.
+2. **Violência doméstica é violação de direitos humanos** (Art. 6º) — não apenas crime.
+3. **Medidas protetivas não exigem BO, inquérito ou ação penal** (Art. 19, §5º) — ponto recorrente em provas.
+4. **O descumprimento de medida protetiva agora é RECLUSÃO** (2-5 anos), não mais detenção — alterado pela Lei 14.994/2024.
+5. **Auxílio-aluguel** é novidade (Lei 14.674/2023) — prazo máximo de **6 meses**.
+6. **Monitoração eletrônica** pode ser cumulada com medidas protetivas (Lei 15.125/2025).
+7. **O nome da ofendida é sigiloso nos processos** (Art. 17-A, Lei 14.857/2024), mas o nome do agressor **não**.
+8. **Atendimento policial**: preferencialmente por servidores do **sexo feminino** (Art. 10-A).
+9. **Assistência prioritária no SUS e SUSP** — redação dada pela Lei 14.887/2024.
+10. **A ofendida NÃO pode entregar intimação ao agressor** (Art. 21, p.u.).
