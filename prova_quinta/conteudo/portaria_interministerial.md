@@ -1,518 +1,228 @@
-
-Brasão das Armas Nacionais da República Federativa do Brasil
-
+PORTARIA INTERMINISTERIAL SEDH/MJ Nº 2, DE 15 DE DEZEMBRO DE
+2010
+DOU 16.12.2010
+Estabelece as Diretrizes Nacionais de Promoção e Defesa dos Direitos Humanos dos
+Profissionais de Segurança Pública.
+O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE DIREITOS HUMANOS
+DA PRESIDÊNCIA DA REPÚBLICA e o MINISTRO DE ESTADO DA JUSTIÇA,
+no uso das atribuições que lhes conferem os incisos I e II, do parágrafo único, do art. 87,
+da Constituição Federal de 1988, resolvem:
+Art. 1º Ficam estabelecidas as Diretrizes Nacionais de Promoção e Defesa dos Direitos
+Humanos dos Profissionais de Segurança Pública, na forma do Anexo desta Portaria.
+Art. 2º A Secretaria de Direitos Humanos da Presidência da República e o Ministério da
+Justiça estabelecerão mecanismos para estimular e monitorar iniciativas que visem à
+implementação de ações para efetivação destas diretrizes em todas as unidades
+federadas, respeitada a repartição de competências prevista no art. 144 da Constituição
+Federal de 1988.
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+PAULO DE TARSO VANNUCHI
+Ministro de Estado Chefe da Secretaria de Direitos Humanos da
 Presidência da República
-Secretaria-Geral
-Subchefia para Assuntos Jurídicos
-
-LEI Nº 13.869, DE 5 DE SETEMBRO DE 2019
-
-Texto compilado
-
-Mensagem de veto
-
-Vigência
-
-Promulgação partes vetadas
-
-Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).
-
-O  PRESIDENTE DA REPÚBLICA
-
-Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
-
-CAPÍTULO I
-
-DISPOSIÇÕES GERAIS
-
-Art. 1º  Esta Lei define os crimes de abuso de autoridade, cometidos por agente público, servidor ou não, que, no exercício de suas funções ou a pretexto de exercê-las, abuse do poder que lhe tenha sido atribuído.
-
-§ 1º  As condutas descritas nesta Lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal.
-
-§ 2º  A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade.
-
-CAPÍTULO II
-
-DOS SUJEITOS DO CRIME
-
-Art. 2º  É sujeito ativo do crime de abuso de autoridade qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal, dos Municípios e de Território, compreendendo, mas não se limitando a:
-
-I - servidores públicos e militares ou pessoas a eles equiparadas;
-
-II - membros do Poder Legislativo;
-
-III - membros do Poder Executivo;
-
-IV - membros do Poder Judiciário;
-
-V - membros do Ministério Público;
-
-VI - membros dos tribunais ou conselhos de contas.
-
-Parágrafo único.  Reputa-se agente público, para os efeitos desta Lei, todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função em órgão ou entidade abrangidos pelo caput deste artigo.
-
-CAPÍTULO III
-
-DA AÇÃO PENAL
-
-Art. 3º  (VETADO).  
-
-Art. 3º  Os crimes previstos nesta Lei são de ação penal pública incondicionada.        (Promulgação partes vetadas)
-
-§ 1º  Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal.
-
-§ 2º  A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia.
-
-CAPÍTULO IV
-
-DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS
-
-Seção I
-
-Dos Efeitos da Condenação
-
-Art. 4º  São efeitos da condenação:
-
-I - tornar certa a obrigação de indenizar o dano causado pelo crime, devendo o juiz, a requerimento do ofendido, fixar na sentença o valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos por ele sofridos;
-
-II - a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 1 (um) a 5 (cinco) anos;
-
-III - a perda do cargo, do mandato ou da função pública.
-
-Parágrafo único. Os efeitos previstos nos incisos II e III do caput deste artigo são condicionados à ocorrência de reincidência em crime de abuso de autoridade e não são automáticos, devendo ser declarados motivadamente na sentença.
-
-Seção II
-
-Das Penas Restritivas de Direitos
-
-Art. 5º  As penas restritivas de direitos substitutivas das privativas de liberdade previstas nesta Lei são:
-
-I - prestação de serviços à comunidade ou a entidades públicas;
-
-II - suspensão do exercício do cargo, da função ou do mandato, pelo prazo de 1 (um) a 6 (seis) meses, com a perda dos vencimentos e das vantagens;
-
-III - (VETADO).
-
-Parágrafo único. As penas restritivas de direitos podem ser aplicadas autônoma ou cumulativamente.
-
-CAPÍTULO V
-
-DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA
-
- 
-
-Art. 6º  As penas previstas nesta Lei serão aplicadas independentemente das sanções de natureza civil ou administrativa cabíveis.
-
-Parágrafo único. As notícias de crimes previstos nesta Lei que descreverem falta funcional serão informadas à autoridade competente com vistas à apuração.
-
-Art. 7º  As responsabilidades civil e administrativa são independentes da criminal, não se podendo mais questionar sobre a existência ou a autoria do fato quando essas questões tenham sido decididas no juízo criminal.
-
-Art. 8º  Faz coisa julgada em âmbito cível, assim como no administrativo-disciplinar, a sentença penal que reconhecer ter sido o ato praticado em estado de necessidade, em legítima defesa, em estrito cumprimento de dever legal ou no exercício regular de direito.
-
-CAPÍTULO VI
-
-DOS CRIMES E DAS PENAS
-
-Art. 9º  (VETADO).   
-
-Art. 9º  Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais:        (Promulgação partes vetadas)
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:
-
-I - relaxar a prisão manifestamente ilegal;
-
-II - substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;
-
-III - deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’
-
-Art. 10.  Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Art. 11.  (VETADO).
-
-Art. 12.  Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem:
-
-I - deixa de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou;
-
-II - deixa de comunicar, imediatamente, a prisão de qualquer pessoa e o local onde se encontra à sua família ou à pessoa por ela indicada;
-
-III - deixa de entregar ao preso, no prazo de 24 (vinte e quatro) horas, a nota de culpa, assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas;
-
-IV - prolonga a execução de pena privativa de liberdade, de prisão temporária, de prisão preventiva, de medida de segurança ou de internação, deixando, sem motivo justo e excepcionalíssimo, de executar o alvará de soltura imediatamente após recebido ou de promover a soltura do preso quando esgotado o prazo judicial ou legal.
-
-Art. 13.  Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:
-
-I - exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública;
-
-II - submeter-se a situação vexatória ou a constrangimento não autorizado em lei;
-
-III - (VETADO).  
-
-III - produzir prova contra si mesmo ou contra terceiro:        (Promulgação partes vetadas)
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência.
-
-Art. 14.  (VETADO).
-
-Art. 15.  Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Parágrafo único.  (VETADO).   
-
-Parágrafo único.  Incorre na mesma pena quem prossegue com o interrogatório:        (Promulgação partes vetadas)
-
-I - de pessoa que tenha decidido exercer o direito ao silêncio; ou
-
-II - de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono.
-
-Violência Institucional        (Incluído pela Lei nº 14.321, de 2022)
-
-Art. 15-A. Submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade:     (Incluído pela Lei nº 14.321, de 2022)
-
-I - a situação de violência; ou      (Incluído pela Lei nº 14.321, de 2022)
-
-II - outras situações potencialmente geradoras de sofrimento ou estigmatização:       (Incluído pela Lei nº 14.321, de 2022)
-
-Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.      (Incluído pela Lei nº 14.321, de 2022)
-
-§ 1º Se o agente público permitir que terceiro intimide a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena aumentada de 2/3 (dois terços).     (Incluído pela Lei nº 14.321, de 2022)
-
-§ 2º Se o agente público intimidar a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena em dobro.   (Incluído pela Lei nº 14.321, de 2022)
-
-Art. 16.  (VETADO).   
-
-Art. 16.  Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão:        (Promulgação partes vetadas)
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função.
-
-Art. 17.  (VETADO).
-
-Art. 18.  Submeter o preso a interrogatório policial durante o período de repouso noturno, salvo se capturado em flagrante delito ou se ele, devidamente assistido, consentir em prestar declarações:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Art. 19.  Impedir ou retardar, injustificadamente, o envio de pleito de preso à autoridade judiciária competente para a apreciação da legalidade de sua prisão ou das circunstâncias de sua custódia:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Parágrafo único. Incorre na mesma pena o magistrado que, ciente do impedimento ou da demora, deixa de tomar as providências tendentes a saná-lo ou, não sendo competente para decidir sobre a prisão, deixa de enviar o pedido à autoridade judiciária que o seja.
-
-Art. 20.  (VETADO).   
-
-Art. 20.  Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado:        (Promulgação partes vetadas)
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência.
-
-Art. 21.  Manter presos de ambos os sexos na mesma cela ou espaço de confinamento:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade ou em ambiente inadequado, observado o disposto na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).
-
-Art. 22.  Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial ou fora das condições estabelecidas em lei:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-§ 1º  Incorre na mesma pena, na forma prevista no caput deste artigo, quem:
-
-I - coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências;
-
-II - (VETADO);
-
-III - cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas).
-
-§ 2º  Não haverá crime se o ingresso for para prestar socorro, ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou de desastre.
-
-Art. 23.  Inovar artificiosamente, no curso de diligência, de investigação ou de processo, o estado de lugar, de coisa ou de pessoa, com o fim de eximir-se de responsabilidade ou de responsabilizar criminalmente alguém ou agravar-lhe a responsabilidade:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem pratica a conduta com o intuito de:
-
-I - eximir-se de responsabilidade civil ou administrativa por excesso praticado no curso de diligência;
-
-II - omitir dados ou informações ou divulgar dados ou informações incompletos para desviar o curso da investigação, da diligência ou do processo.
-
-Art. 24.  Constranger, sob violência ou grave ameaça, funcionário ou empregado de instituição hospitalar pública ou privada a admitir para tratamento pessoa cujo óbito já tenha ocorrido, com o fim de alterar local ou momento de crime, prejudicando sua apuração:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, além da pena correspondente à violência.
-
-Art. 25.  Proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem faz uso de prova, em desfavor do investigado ou fiscalizado, com prévio conhecimento de sua ilicitude.
-
-Art. 26.  (VETADO).
-
-Art. 27.  Requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, à falta de qualquer indício da prática de crime, de ilícito funcional ou de infração administrativa:        (Vide ADIN 6234)        (Vide ADIN 6240)
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Não há crime quando se tratar de sindicância ou investigação preliminar sumária, devidamente justificada.
-
-Art. 28.  Divulgar gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Art. 29.  Prestar informação falsa sobre procedimento judicial, policial, fiscal ou administrativo com o fim de prejudicar interesse de investigado:         (Vide ADIN 6234)       (Vide ADIN 6240)
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  (VETADO).
-
-Art. 30.  (VETADO).  
-
-Art. 30.  Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente:        (Promulgação partes vetadas) 
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Art. 31.  Estender injustificadamente a investigação, procrastinando-a em prejuízo do investigado ou fiscalizado:          (Vide ADIN 6234)       (Vide ADIN 6240)
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem, inexistindo prazo para execução ou conclusão de procedimento, o estende de forma imotivada, procrastinando-o em prejuízo do investigado ou do fiscalizado.
-
-Art. 32.  (VETADO).   
-
-Art. 32.  Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível:        (Promulgação partes vetadas)
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Art. 33.  Exigir informação ou cumprimento de obrigação, inclusive o dever de fazer ou de não fazer, sem expresso amparo legal:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem se utiliza de cargo ou função pública ou invoca a condição de agente público para se eximir de obrigação legal ou para obter vantagem ou privilégio indevido.
-
-Art. 34.  (VETADO).
-
-Art. 35.  (VETADO).
-
-Art. 36.  Decretar, em processo judicial, a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida da parte e, ante a demonstração, pela parte, da excessividade da medida, deixar de corrigi-la:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Art. 37.  Demorar demasiada e injustificadamente no exame de processo de que tenha requerido vista em órgão colegiado, com o intuito de procrastinar seu andamento ou retardar o julgamento:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Art. 38.  (VETADO).  
-
-Art. 38.  Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação:        (Promulgação partes vetadas)
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-CAPÍTULO VII
-
-DO PROCEDIMENTO
-
-Art. 39.  Aplicam-se ao processo e ao julgamento dos delitos previstos nesta Lei, no que couber, as disposições do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e da Lei nº 9.099, de 26 de setembro de 1995.
-
-CAPÍTULO VIII
-
-DISPOSIÇÕES FINAIS
-
-Art. 40.  O art. 2º da Lei nº 7.960, de 21 de dezembro de 1989, passa a vigorar com a seguinte redação:
-
-“Art.2º .......................................................................................................
-
-........................................................................................................................
-
-§ 4º-A  O mandado de prisão conterá necessariamente o período de duração da prisão temporária estabelecido no caput deste artigo, bem como o dia em que o preso deverá ser libertado.
-
-.........................................................................................................................
-
-§ 7º  Decorrido o prazo contido no mandado de prisão, a autoridade responsável pela custódia deverá, independentemente de nova ordem da autoridade judicial, pôr imediatamente o preso em liberdade, salvo se já tiver sido comunicada da prorrogação da prisão temporária ou da decretação da prisão preventiva.
-
-§ 8º  Inclui-se o dia do cumprimento do mandado de prisão no cômputo do prazo de prisão temporária.” (NR)
-
-Art. 41.  O art. 10 da Lei nº 9.296, de 24 de julho de 1996, passa a vigorar com a seguinte redação:
-
-“Art. 10.  Constitui crime realizar interceptação de comunicações telefônicas, de informática ou telemática, promover escuta ambiental ou quebrar segredo da Justiça, sem autorização judicial ou com objetivos não autorizados em lei:
-
-Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena a autoridade judicial que determina a execução de conduta prevista no caput deste artigo com objetivo não autorizado em lei.” (NR)
-
-Art. 42.  A Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), passa a vigorar acrescida do seguinte art. 227-A:
-
-“Art. 227-A  Os efeitos da condenação prevista no inciso I do caput do art. 92 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para os crimes previstos nesta Lei, praticados por servidores públicos com abuso de autoridade, são condicionados à ocorrência de reincidência.
-
-Parágrafo único.  A perda do cargo, do mandato ou da função, nesse caso, independerá da pena aplicada na reincidência.”
-
-Art. 43.  (VETADO).  
-
-Art. 43.  A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B:        (Promulgação partes vetadas)
-
-‘Art. 7º-B  Constitui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei:
-
-Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.’”
-
-Art. 44.  Revogam-se a Lei nº 4.898, de 9 de dezembro de 1965, e o § 2º do art. 150 e o art. 350, ambos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).
-
-Art. 45.  Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação oficial.
-
-Brasília, 5 de setembro de 2019; 198o da Independência e 131o da República.
-
-JAIR MESSIAS BOLSONARO
-
-Sérgio Moro
-
-Wagner de Campos Rosário
-
-Jorge Antonio de Oliveira Francisco
-
-André Luiz de Almeida Mendonça
-
-Este texto não substitui o publicado no DOU de 5.9.2019 - Edição extra-A e retificado em 18.9.2019
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Brasão das Armas Nacionais da República Federativa do Brasil
-
-Presidência da República
-Secretaria-Geral
-Subchefia para Assuntos Jurídicos
-
-  LEI Nº 13.869, DE 5 DE SETEMBRO DE 2019
-
- 	
-Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).
-
-O   PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5o do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei no 13.869, de 5 de setembro de 2019:
-
-“CAPÍTULO III
-DA AÇÃO PENAL
-
-Art. 3º  Os crimes previstos nesta Lei são de ação penal pública incondicionada.
-
-§ 1º  Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal.
-
-§ 2º  A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia.”
-
-“CAPÍTULO VI
-DOS CRIMES E DAS PENAS
-
-‘Art. 9º  Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:
-
-I - relaxar a prisão manifestamente ilegal;
-
-II - substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;
-
-III - deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’
-
-‘Art. 13.  Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:
-
-.........................................................................................................................
-
-III - produzir prova contra si mesmo ou contra terceiro:
-
-........................................................................................................................’
-
-‘Art. 15.  Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:
-
-.........................................................................................................................
-
-Parágrafo único.  Incorre na mesma pena quem prossegue com o interrogatório:
-
-I - de pessoa que tenha decidido exercer o direito ao silêncio; ou
-
-II - de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono.’
-
-‘Art. 16.  Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função.’
-
-‘Art. 20.  Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
-
-Parágrafo único.  Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência.’
-
-‘Art. 30.  Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente:
-
-Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.’
-
-‘Art. 32.  Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’
-
-‘Art. 38.  Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação:
-
-Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’”
-
-“CAPÍTULO VIII
-DISPOSIÇÕES FINAIS
-
-.......................................................................................................................
-
-Art. 43.  A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B:
-
-‘Art. 7º-B  Constitui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei:
-
-Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.’”
-
-Brasília, 27 de setembro de 2019; 198o  da Independência e 131o  da República.
-
-JAIR MESSIAS BOLSONARO
-
-Este texto não substitui o publicado no DOU de 27.9.2019 - Edição extra - A
-
-*
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+LUIZ PAULO TELES FERREIRA BARRETO
+Ministro de Estado da Justiça
+ANEXO
+DIREITOS CONSTITUCIONAIS E PARTICIPAÇÃO CIDADÃ
+1) Adequar as leis e regulamentos disciplinares que versam sobre direitos e deveres dos
+profissionais de segurança pública à Constituição Federal de 1988.
+2) Valorizar a participação das instituições e dos profissionais de segurança pública nos
+processos democráticos de debate, divulgação, estudo, reflexão e formulação das
+políticas públicas relacionadas com a área, tais como conferências, conselhos,
+seminários, pesquisas, encontros e fóruns temáticos.
+3) Assegurar o exercício do direito de opinião e a liberdade de expressão dos
+profissionais de segurança pública, especialmente por meio da Internet, blogs, sites e
+fóruns de discussão, à luz da Constituição Federal de 1988.
+4) Garantir escalas de trabalho que contemplem o exercício do direito de voto por todos
+os profissionais de segurança pública.
+VALORIZAÇÃO DA VIDA
+5) Proporcionar equipamentos de proteção individual e coletiva aos profissionais de
+segurança pública, em quantidade e qualidade adequadas, garantindo sua reposição
+permanente, considerados o desgaste e prazos de validade.
+6) Assegurar que os equipamentos de proteção individual contemplem as diferenças de
+gênero e de compleição física.
+7) Garantir aos profissionais de segurança pública instrução e treinamento continuado
+quanto ao uso correto dos equipamentos de proteção individual.
+8) Zelar pela adequação, manutenção e permanente renovação de todos os veículos
+utilizados no exercício profissional, bem como assegurar instalações dignas em todas as
+instituições, com ênfase para as condições de segurança, higiene, saúde e ambiente de
+trabalho.
+9) Considerar, no repasse de verbas federais aos entes federados, a efetiva
+disponibilização de equipamentos de proteção individual aos profissionais de segurança
+pública.
+DIREITO À DIVERSIDADE
+10) Adotar orientações, medidas e práticas concretas voltadas à prevenção, identificação
+e enfrentamento do racismo nas instituições de segurança pública, combatendo qualquer
+modalidade de preconceito.
+11) Garantir respeito integral aos direitos constitucionais das profissionais de segurança
+pública femininas, considerando as especificidades relativas à gestação e à
+amamentação, bem como as exigências permanentes de cuidado com filhos crianças e
+adolescentes, assegurando a elas instalações físicas e equipamentos individuais
+específicos sempre que necessário.
+12) Proporcionar espaços e oportunidades nas instituições de segurança pública para
+organização de eventos de integração familiar entre todos os profissionais, com ênfase
+em atividades recreativas, esportivas e culturais voltadas a crianças, adolescentes e
+jovens.
+13) Fortalecer e disseminar nas instituições a cultura de nãodiscriminação e de pleno
+respeito à liberdade de orientação sexual do profissional de segurança pública, com
+ênfase no combate à homofobia.
+14) Aproveitar o conhecimento e a vivência dos profissionais de segurança pública
+idosos, estimulando a criação de espaços institucionais para transmissão de
+experiências, bem como a formação de equipes de trabalho composta por servidores de
+diferentes faixas etárias para exercitar a integração inter-geracional.
+15) Estabelecer práticas e serviços internos que contemplem a preparação do
+profissional de segurança pública para o período de aposentadoria, estimulando o
+prosseguimento em atividades de participação cidadã após a fase de serviço ativo.
+16) Implementar os paradigmas de acessibilidade e empregabilidade das pessoas com
+deficiência em instalações e equipamentos do sistema de segurança pública,
+assegurando a reserva constitucional de vagas nos concursos públicos.
+SAÚDE
+17) Oferecer ao profissional de segurança pública e a seus familiares, serviços
+permanentes e de boa qualidade para acompanhamento e tratamento de saúde.
+18) Assegurar o acesso dos profissionais do sistema de segurança pública ao
+atendimento independente e especializado em saúde mental.
+19) Desenvolver programas de acompanhamento e tratamento destinados aos
+profissionais de segurança pública envolvidos em ações com resultado letal ou alto
+nível de estresse.
+20) Implementar políticas de prevenção, apoio e tratamento do alcoolismo, tabagismo
+ou outras formas de drogadição e dependência química entre profissionais de segurança
+pública.
+21) Desenvolver programas de prevenção ao suicídio, disponibilizando atendimento
+psiquiátrico, núcleos terapêuticos de apoio e divulgação de informações sobre o assunto.
+22) Criar núcleos terapêuticos de apoio voltados ao enfrentamento da depressão,
+estresse e outras alterações psíquicas.
+23) Possibilitar acesso a exames clínicos e laboratoriais periódicos para identificação
+dos fatores mais comuns de risco à saúde.
+24) Prevenir as conseqüências do uso continuado de equipamentos de proteção
+individual e outras doenças profissionais ocasionadas por esforço repetitivo, por meio
+de acompanhamento médico especializado.
+25) Estimular a prática regular de exercícios físicos, garantindo a adoção de
+mecanismos que permitam o cômputo de horas de atividade física como parte da
+jornada semanal de trabalho.
+26) Elaborar cartilhas voltadas à reeducação alimentar como forma de diminuição de
+condições de risco à saúde e como fator de bem-estar profissional e auto-estima.
+REABILITAÇÃO E REINTEGRAÇÃO
+27) Promover a reabilitação dos profissionais de segurança pública que adquiram lesões,
+traumas, deficiências ou doenças ocupacionais em decorrência do exercício de suas
+atividades.
+28) Consolidar, como valor institucional, a importância da readaptação e da
+reintegração dos profissionais de segurança pública ao trabalho em casos de lesões,
+traumas, deficiências ou doenças ocupacionais adquiridos em decorrência do exercício
+de suas atividades.
+29) Viabilizar mecanismos de readaptação dos profissionais de segurança pública e
+deslocamento para novas funções ou postos de trabalho como alternativa ao afastamento
+definitivo e à inatividade em decorrência de acidente de trabalho, ferimentos ou
+seqüelas.
+DIGNIDADE E SEGURANÇA NO TRABALHO
+30) Manter política abrangente de prevenção de acidentes e ferimentos, incluindo a
+padronização de métodos e rotinas, atividades de atualização e capacitação, bem como a
+constituição de comissão especializada para coordenar esse trabalho.
+31) Garantir aos profissionais de segurança pública acesso ágil e permanente a toda
+informação necessária para o correto desempenho de suas funções, especialmente no
+tocante à legislação a ser observada.
+32) Erradicar todas as formas de punição envolvendo maus tratos, tratamento cruel,
+desumano ou degradante contra os profissionais de segurança pública, tanto no
+cotidiano funcional como em atividades de formação e treinamento.
+33) Combater o assédio sexual e moral nas instituições, veiculando campanhas internas
+de educação e garantindo canais para o recebimento e apuração de denúncias.
+34) Garantir que todos os atos decisórios de superiores hierárquicos dispondo sobre
+punições, escalas, lotação e transferências sejam devidamente motivados e
+fundamentados.
+35) Assegurar a regulamentação da jornada de trabalho dos profissionais de segurança
+pública, garantindo o exercício do direito à convivência familiar e comunitária.
+SEGUROS E AUXÍLIOS
+36) Apoiar projetos de leis que instituam seguro especial aos profissionais de segurança
+pública, para casos de acidentes e traumas incapacitantes ou morte em serviço.
+37) Organizar serviços de apoio, orientação psicológica e assistência social às famílias
+de profissionais de segurança pública para casos de morte em serviço.
+38) Estimular a instituição de auxílio-funeral destinado às famílias de profissionais de
+segurança pública ativos e inativos.
+ASSISTÊNCIA JURÍDICA
+39) Firmar parcerias com Defensorias Públicas, serviços de atendimento jurídico de
+faculdades de Direito, núcleos de advocacia pro bono e outras instâncias de advocacia
+gratuita para assessoramento e defesa dos profissionais de segurança pública, em casos
+decorrentes do exercício profissional.
+40) Proporcionar assistência jurídica para fins de recebimento de seguro, pensão, auxílio
+ou outro direito de familiares, em caso de morte do profissional de segurança pública.
+HABITAÇÃO
+41) Garantir a implementação e a divulgação de políticas e planos de habitação voltados
+aos profissionais de segurança pública, com a concessão de créditos e financiamentos
+diferenciados.
+CULTURA E LAZER
+42) Conceber programas e parcerias que estimulem o acesso à cultura pelos
+profissionais de segurança pública e suas famílias, mediante vales para desconto ou
+ingresso gratuito em cinemas, teatros, museus e outras atividades, e que garantam o
+incentivo à produção cultural própria.
+43) Promover e estimular a realização de atividades culturais e esportivas nas
+instalações físicas de academias de polícia, quartéis e outros prédios das corporações,
+em finais de semana ou outros horários de disponibilidade de espaços e equipamentos.
+44) Estimular a realização de atividades culturais e esportivas desenvolvidas por
+associações, sindicatos e clubes dos profissionais de segurança pública.
+EDUCAÇÃO
+45) Estimular os profissionais de segurança pública a frequentar programas de formação
+continuada, estabelecendo como objetivo de longo prazo a universalização da graduação
+universitária.
+46) Promover a adequação dos currículos das academias à Matriz Curricular Nacional,
+assegurando a inclusão de disciplinas voltadas ao ensino e à compreensão do sistema e
+da política nacional de segurança pública e dos Direitos Humanos.
+47) Promover nas instituições de segurança pública uma cultura que valorize o
+aprimoramento profissional constante de seus servidores também em outras áreas do
+conhecimento, distintas da segurança pública.
+48) Estimular iniciativas voltadas ao aperfeiçoamento profissional e à formação
+continuada dos profissionais de segurança pública, como o projeto de ensino a distância
+do governo federal e a Rede Nacional de Altos Estudos em Segurança Pública
+(Renaesp).
+49) Assegurar o aperfeiçoamento profissional e a formação continuada como direitos do
+profissional de segurança pública.
+PRODUÇÃO DE CONHECIMENTOS
+50) Assegurar a produção e divulgação regular de dados e números envolvendo mortes,
+lesões e doenças graves sofridas por profissionais de segurança pública no exercício ou
+em decorrência da profissão.
+51) Utilizar os dados sobre os processos disciplinares e administrativos movidos em
+face de profissionais de segurança pública para identificar vulnerabilidades dos
+treinamentos e inadequações na gestão de recursos humanos.
+52) Aprofundar e sistematizar os conhecimentos sobre diagnose e prevenção de doenças
+ocupacionais entre profissionais de segurança pública.
+53) Identificar locais com condições de trabalho especialmente perigosas ou insalubres,
+visando à prevenção e redução de danos e de riscos à vida e à saúde dos profissionais de
+segurança pública.
+54) Estimular parcerias entre universidades e instituições de segurança pública para
+diagnóstico e elaboração de projetos voltados à melhoria das condições de trabalho dos
+profissionais de segurança pública.
+55) Realizar estudos e pesquisas com a participação de profissionais de segurança
+pública sobre suas condições de trabalho e a eficácia dos programas e serviços a eles
+disponibilizados por suas instituições.
+ESTRUTURAS E EDUCAÇÃO EM DIREITOS HUMANOS
+56) Constituir núcleos, divisões e unidades especializadas em Direitos Humanos nas
+academias e na estrutura regular das instituições de segurança pública, incluindo entre 
+suas tarefas a elaboração de livros, cartilhas e outras publicações que divulguem dados e
+conhecimentos sobre o tema.
+57) Promover a multiplicação de cursos avançados de Direitos Humanos nas
+instituições, que contemplem o ensino de matérias práticas e teóricas e adotem o Plano
+Nacional de Educação em Direitos Humanos como referência.
+58) Atualizar permanentemente o ensino de Direitos Humanos nas academias,
+reforçando nos cursos a compreensão de que os profissionais de segurança pública
+também são titulares de Direitos Humanos, devem agir como defensores e promotores
+desses direitos e precisam ser vistos desta forma pela comunidade.
+59) Direcionar as atividades de formação no sentido de consolidar a compreensão de
+que a atuação do profissional de segurança pública orientada por padrões internacionais
+de respeito aos Direitos Humanos não dificulta, nem enfraquece a atividade das
+instituições de segurança pública, mas confere-lhes credibilidade, respeito social e
+eficiência superior.
+VALORIZAÇÃO PROFISSIONAL
+60) Contribuir para a implementação de planos voltados à valorização profissional e
+social dos profissionais de segurança pública, assegurado o respeito a critérios básicos
+de dignidade salarial.
+61) Multiplicar iniciativas para promoção da saúde e da qualidade de vida dos
+profissionais de segurança pública.
+62) Apoiar o desenvolvimento, a regulamentação e o aperfeiçoamento dos programas de
+atenção biopsicossocial já existentes.
+63) Profissionalizar a gestão das instituições de segurança pública, fortalecendo uma
+cultura gerencial enfocada na necessidade de elaborar diagnósticos, planejar, definir
+metas explícitas e monitorar seu cumprimento.
+64) Ampliar a formação técnica específica para gestores da área de segurança pública.
+65) Veicular campanhas de valorização profissional voltadas ao fortalecimento da
+imagem institucional dos profissionais de segurança pública.
+66) Definir e monitorar indicadores de satisfação e de realização profissional dos
+profissionais de segurança pública.
+67) Estimular a participação dos profissionais de segurança pública na elaboração de
+todas as políticas e programas que os envolvam
+DOU
