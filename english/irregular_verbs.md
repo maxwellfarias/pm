@@ -1,574 +1,222 @@
-# 📚 Guia Definitivo: Tempos Verbais e Estruturas de Frase em Inglês
+# 📖 Verbos Irregulares em Inglês — Lista Completa por Frequência
 
-> Um guia completo para dominar a gramática inglesa, do básico ao avançado.
+> Lista ordenada pelos verbos **mais importantes e frequentes** no inglês moderno, do essencial ao avançado. Estudar nesta ordem maximiza seu aprendizado: os 50 primeiros cobrem a maior parte das conversas do dia a dia.
 
------
-
-## 🗺️ 1. Tabela Periódica dos Tempos Verbais
-
-Esta tabela oferece uma visão panorâmica dos 12 tempos verbais principais do inglês, organizados por tempo (Present, Past, Future) e aspecto (Simple, Continuous, Perfect, Perfect Continuous).
-
-|Aspecto ↓ / Tempo →   |**PRESENT**            |**PAST**              |**FUTURE**                  |
-|----------------------|-----------------------|----------------------|----------------------------|
-|**Simple**            |I **work**             |I **worked**          |I **will work**             |
-|**Continuous**        |I **am working**       |I **was working**     |I **will be working**       |
-|**Perfect**           |I **have worked**      |I **had worked**      |I **will have worked**      |
-|**Perfect Continuous**|I **have been working**|I **had been working**|I **will have been working**|
-
-### 🎯 Resumo Conceitual dos Aspectos
-
-- **Simple** → Fatos, hábitos, ações completas.
-- **Continuous (Progressive)** → Ações em andamento em um momento específico.
-- **Perfect** → Ações concluídas relacionadas a outro ponto no tempo.
-- **Perfect Continuous** → Duração de ações que se estendem até outro ponto no tempo.
+**Legenda:** Base Form (infinitivo) | Past Simple (passado) | Past Participle (particípio) | Tradução
 
 -----
 
-## 🔍 2. Detalhamento de Cada Tempo Verbal
+## 🥇 TIER 1 — Os 30 Essenciais (domine estes primeiro!)
 
-### 2.1 Present Simple
-
-**Definição:** Usado para fatos, verdades universais, hábitos, rotinas e ações permanentes.
-
-**Estrutura:**
-
-```
-Afirmativa:    Subject + verb (+ s/es na 3ª pessoa)
-Negativa:      Subject + do/does + not + verb
-Interrogativa: Do/Does + subject + verb?
-```
-
-**Exemplos:**
-
-```
-✔ She works at a hospital.          (regular)
-✔ He goes to school every day.      (irregular)
-✘ They don't like spicy food.
-? Does he speak French?
-```
-
-**Advérbios/Expressões comuns:** *always, usually, often, sometimes, rarely, never, every day/week/month, on Mondays.*
-
-**📝 Exercícios:**
-
-1. (Fácil) Complete: “She ___ (play) tennis on Sundays.”
-1. (Fácil) Torne negativa: “I drink coffee.”
-1. (Médio) Faça a pergunta: “He lives in Berlin.”
-1. (Médio) Corrija: “My brother don’t like fish.”
-1. (Difícil) Traduza: “Ela raramente assiste TV à noite.”
-
------
-
-### 2.2 Present Continuous
-
-**Definição:** Ações acontecendo **agora**, ao redor do momento atual, ou planos futuros confirmados.
-
-**Estrutura:**
-
-```
-Afirmativa:    Subject + am/is/are + verb-ing
-Negativa:      Subject + am/is/are + not + verb-ing
-Interrogativa: Am/Is/Are + subject + verb-ing?
-```
-
-**Exemplos:**
-
-```
-✔ I am studying right now.
-✔ They are meeting John tomorrow.  (plano futuro)
-✘ She isn't sleeping.
-? Are you listening to me?
-```
-
-**Advérbios/Expressões comuns:** *now, right now, at the moment, currently, today, this week, Look!, Listen!*
-
-> ⚠️ **Atenção:** Verbos de estado (*know, love, believe, want, seem*) geralmente **NÃO** são usados no continuous.
-
-**📝 Exercícios:**
-
-1. Complete: “Look! It ___ (rain).”
-1. Torne interrogativa: “She is cooking dinner.”
-1. Corrija: “I am knowing the answer.”
-1. Traduza: “Eles estão viajando esta semana.”
-1. Escreva uma frase com plano futuro usando *meeting*.
+|# |Base Form |Past Simple|Past Participle|Tradução                 |
+|--|----------|-----------|---------------|-------------------------|
+|1 |**be**    |was / were |been           |ser / estar              |
+|2 |**have**  |had        |had            |ter                      |
+|3 |**do**    |did        |done           |fazer                    |
+|4 |**say**   |said       |said           |dizer                    |
+|5 |**go**    |went       |gone           |ir                       |
+|6 |**get**   |got        |got / gotten   |pegar / obter            |
+|7 |**make**  |made       |made           |fazer / fabricar         |
+|8 |**know**  |knew       |known          |saber / conhecer         |
+|9 |**think** |thought    |thought        |pensar                   |
+|10|**take**  |took       |taken          |pegar / levar            |
+|11|**see**   |saw        |seen           |ver                      |
+|12|**come**  |came       |come           |vir                      |
+|13|**give**  |gave       |given          |dar                      |
+|14|**find**  |found      |found          |encontrar                |
+|15|**tell**  |told       |told           |contar / dizer           |
+|16|**feel**  |felt       |felt           |sentir                   |
+|17|**become**|became     |become         |tornar-se                |
+|18|**leave** |left       |left           |deixar / partir          |
+|19|**put**   |put        |put            |colocar                  |
+|20|**mean**  |meant      |meant          |significar / querer dizer|
+|21|**keep**  |kept       |kept           |manter / guardar         |
+|22|**let**   |let        |let            |deixar / permitir        |
+|23|**begin** |began      |begun          |começar                  |
+|24|**bring** |brought    |brought        |trazer                   |
+|25|**hold**  |held       |held           |segurar                  |
+|26|**write** |wrote      |written        |escrever                 |
+|27|**stand** |stood      |stood          |ficar em pé              |
+|28|**hear**  |heard      |heard          |ouvir                    |
+|29|**run**   |ran        |run            |correr                   |
+|30|**pay**   |paid       |paid           |pagar                    |
 
 -----
 
-### 2.3 Present Perfect
+## 🥈 TIER 2 — Os Próximos 40 (alta frequência)
 
-**Definição:** Ações do passado com conexão no presente; experiências de vida; ações recentemente concluídas.
-
-**Estrutura:**
-
-```
-Afirmativa:    Subject + have/has + past participle
-Negativa:      Subject + have/has + not + past participle
-Interrogativa: Have/Has + subject + past participle?
-```
-
-**Exemplos:**
-
-```
-✔ I have visited Paris three times.
-✔ She has just finished her homework.
-✘ We haven't seen that movie yet.
-? Have you ever eaten sushi?
-```
-
-**Advérbios/Expressões comuns:** *ever, never, already, yet, just, for, since, recently, so far, lately.*
-
-> 💡 **Dica de Pronúncia:** As contrações **’ve** (/v/) e **’s** (/z/) são quase sempre usadas na fala: *I’ve seen it*, *She’s gone*.
-
-**📝 Exercícios:**
-
-1. Complete: “I ___ (never/be) to Japan.”
-1. Use *for* ou *since*: “She has lived here ___ 2010.”
-1. Torne negativa: “They have finished the project.”
-1. Traduza: “Você já comeu comida tailandesa?”
-1. Diferencie: “I lived in Rome” vs. “I have lived in Rome.”
-
------
-
-### 2.4 Present Perfect Continuous
-
-**Definição:** Enfatiza a **duração** de uma ação que começou no passado e continua até agora (ou acabou de terminar).
-
-**Estrutura:**
-
-```
-Afirmativa:    Subject + have/has + been + verb-ing
-Negativa:      Subject + have/has + not + been + verb-ing
-Interrogativa: Have/Has + subject + been + verb-ing?
-```
-
-**Exemplos:**
-
-```
-✔ I have been studying for three hours.
-✔ She has been working here since 2020.
-✘ He hasn't been feeling well lately.
-? How long have you been waiting?
-```
-
-**Expressões comuns:** *for, since, how long, all day, lately, recently.*
-
-**📝 Exercícios:**
-
-1. Complete: “They ___ (wait) for two hours.”
-1. Traduza: “Ele está aprendendo inglês há cinco anos.”
-1. Diferencie: *Present Perfect* vs. *Present Perfect Continuous*.
-1. Pergunta: “How long / you / live / here?”
-1. Corrija: “I am knowing her for years.”
+|# |Base Form     |Past Simple|Past Participle|Tradução               |
+|--|--------------|-----------|---------------|-----------------------|
+|31|**meet**      |met        |met            |encontrar / conhecer   |
+|32|**sit**       |sat        |sat            |sentar                 |
+|33|**speak**     |spoke      |spoken         |falar                  |
+|34|**lie**       |lay        |lain           |deitar                 |
+|35|**lead**      |led        |led            |liderar / conduzir     |
+|36|**read**      |read       |read           |ler                    |
+|37|**grow**      |grew       |grown          |crescer / cultivar     |
+|38|**lose**      |lost       |lost           |perder                 |
+|39|**fall**      |fell       |fallen         |cair                   |
+|40|**send**      |sent       |sent           |enviar                 |
+|41|**build**     |built      |built          |construir              |
+|42|**understand**|understood |understood     |entender               |
+|43|**draw**      |drew       |drawn          |desenhar / puxar       |
+|44|**break**     |broke      |broken         |quebrar                |
+|45|**spend**     |spent      |spent          |gastar / passar (tempo)|
+|46|**cut**       |cut        |cut            |cortar                 |
+|47|**rise**      |rose       |risen          |levantar / subir       |
+|48|**drive**     |drove      |driven         |dirigir                |
+|49|**buy**       |bought     |bought         |comprar                |
+|50|**wear**      |wore       |worn           |vestir / usar          |
+|51|**choose**    |chose      |chosen         |escolher               |
+|52|**seek**      |sought     |sought         |buscar / procurar      |
+|53|**throw**     |threw      |thrown         |jogar / atirar         |
+|54|**catch**     |caught     |caught         |pegar / capturar       |
+|55|**deal**      |dealt      |dealt          |lidar / negociar       |
+|56|**win**       |won        |won            |vencer / ganhar        |
+|57|**forget**    |forgot     |forgotten      |esquecer               |
+|58|**lay**       |laid       |laid           |colocar / pôr          |
+|59|**sell**      |sold       |sold           |vender                 |
+|60|**fight**     |fought     |fought         |lutar                  |
+|61|**bear**      |bore       |borne / born   |suportar / nascer      |
+|62|**teach**     |taught     |taught         |ensinar                |
+|63|**eat**       |ate        |eaten          |comer                  |
+|64|**drink**     |drank      |drunk          |beber                  |
+|65|**sleep**     |slept      |slept          |dormir                 |
+|66|**sing**      |sang       |sung           |cantar                 |
+|67|**ride**      |rode       |ridden         |montar / cavalgar      |
+|68|**rise**      |rose       |risen          |levantar-se            |
+|69|**fly**       |flew       |flown          |voar                   |
+|70|**swim**      |swam       |swum           |nadar                  |
 
 -----
 
-### 2.5 Past Simple
+## 🥉 TIER 3 — Frequência Média
 
-**Definição:** Ações concluídas em momento específico do passado.
-
-**Estrutura:**
-
-```
-Afirmativa:    Subject + verb-ed (ou irregular form)
-Negativa:      Subject + did + not + verb
-Interrogativa: Did + subject + verb?
-```
-
-**Exemplos:**
-
-```
-✔ She visited her grandma yesterday.  (regular)
-✔ He went to the gym last night.       (irregular)
-✘ I didn't watch the game.
-? Did they arrive on time?
-```
-
-**Expressões comuns:** *yesterday, last week/month/year, ago, in 2010, when I was a child.*
-
-**📝 Exercícios:**
-
-1. Past de: *go, eat, write, buy, see*.
-1. Negativa: “She called me.”
-1. Pergunta: “They lived in Spain.”
-1. Traduza: “Eu vi esse filme semana passada.”
-1. Diferencie: *ago* vs. *before*.
-
------
-
-### 2.6 Past Continuous
-
-**Definição:** Ação em progresso em um momento específico do passado; cenário para outra ação.
-
-**Estrutura:**
-
-```
-Afirmativa:    Subject + was/were + verb-ing
-Negativa:      Subject + was/were + not + verb-ing
-Interrogativa: Was/Were + subject + verb-ing?
-```
-
-**Exemplos:**
-
-```
-✔ I was reading when she called.
-✔ They were playing football at 5 p.m.
-✘ He wasn't listening.
-? Were you sleeping?
-```
-
-**Expressões comuns:** *while, when, as, at that moment, all day yesterday.*
-
-**📝 Exercícios:**
-
-1. Combine: “I / cook / dinner / when / phone / ring.”
-1. Traduza: “Estava chovendo quando saímos.”
-1. Negativa: “She was studying.”
-1. Pergunta: “What / you / do / at 8 p.m.?”
-1. Explique a diferença entre Past Simple e Past Continuous.
+|#  |Base Form  |Past Simple     |Past Participle |Tradução                 |
+|---|-----------|----------------|----------------|-------------------------|
+|71 |**beat**   |beat            |beaten          |bater / derrotar         |
+|72 |**bend**   |bent            |bent            |dobrar / curvar          |
+|73 |**bite**   |bit             |bitten          |morder                   |
+|74 |**bleed**  |bled            |bled            |sangrar                  |
+|75 |**blow**   |blew            |blown           |soprar                   |
+|76 |**burn**   |burnt / burned  |burnt / burned  |queimar                  |
+|77 |**burst**  |burst           |burst           |estourar / explodir      |
+|78 |**cast**   |cast            |cast            |lançar / escalar (elenco)|
+|79 |**cost**   |cost            |cost            |custar                   |
+|80 |**creep**  |crept           |crept           |rastejar                 |
+|81 |**dig**    |dug             |dug             |cavar                    |
+|82 |**dive**   |dove / dived    |dived           |mergulhar                |
+|83 |**dream**  |dreamt / dreamed|dreamt / dreamed|sonhar                   |
+|84 |**fit**    |fit / fitted    |fit / fitted    |caber / ajustar          |
+|85 |**flee**   |fled            |fled            |fugir                    |
+|86 |**forbid** |forbade         |forbidden       |proibir                  |
+|87 |**forgive**|forgave         |forgiven        |perdoar                  |
+|88 |**freeze** |froze           |frozen          |congelar                 |
+|89 |**hang**   |hung            |hung            |pendurar                 |
+|90 |**hide**   |hid             |hidden          |esconder                 |
+|91 |**hit**    |hit             |hit             |bater / atingir          |
+|92 |**hurt**   |hurt            |hurt            |machucar                 |
+|93 |**kneel**  |knelt           |knelt           |ajoelhar                 |
+|94 |**lend**   |lent            |lent            |emprestar (a alguém)     |
+|95 |**light**  |lit             |lit             |acender                  |
+|96 |**quit**   |quit            |quit            |desistir / sair          |
+|97 |**ring**   |rang            |rung            |tocar (campainha)        |
+|98 |**shake**  |shook           |shaken          |sacudir / tremer         |
+|99 |**shine**  |shone           |shone           |brilhar                  |
+|100|**shoot**  |shot            |shot            |atirar                   |
+|101|**show**   |showed          |shown           |mostrar                  |
+|102|**shut**   |shut            |shut            |fechar                   |
+|103|**sink**   |sank            |sunk            |afundar                  |
+|104|**slide**  |slid            |slid            |deslizar                 |
+|105|**smell**  |smelt / smelled |smelt / smelled |cheirar                  |
+|106|**spell**  |spelt / spelled |spelt / spelled |soletrar                 |
+|107|**spill**  |spilt / spilled |spilt / spilled |derramar                 |
+|108|**spin**   |spun            |spun            |girar                    |
+|109|**spit**   |spat            |spat            |cuspir                   |
+|110|**split**  |split           |split           |dividir / rachar         |
+|111|**spread** |spread          |spread          |espalhar                 |
+|112|**spring** |sprang          |sprung          |pular / saltar           |
+|113|**steal**  |stole           |stolen          |roubar                   |
+|114|**stick**  |stuck           |stuck           |grudar / prender         |
+|115|**sting**  |stung           |stung           |picar (inseto)           |
+|116|**strike** |struck          |struck          |golpear / atingir        |
+|117|**swear**  |swore           |sworn           |jurar / xingar           |
+|118|**sweep**  |swept           |swept           |varrer                   |
+|119|**swing**  |swung           |swung           |balançar                 |
+|120|**tear**   |tore            |torn            |rasgar                   |
 
 -----
 
-### 2.7 Past Perfect
+## 🎖️ TIER 4 — Menos Frequentes (mas úteis no avançado)
 
-**Definição:** Ação que aconteceu **antes de outra ação** no passado (o “passado do passado”).
-
-**Estrutura:**
-
-```
-Afirmativa:    Subject + had + past participle
-Negativa:      Subject + had + not + past participle
-Interrogativa: Had + subject + past participle?
-```
-
-**Exemplos:**
-
-```
-✔ When I arrived, she had already left.
-✘ They hadn't finished when we got there.
-? Had you eaten before the meeting?
-```
-
-**Expressões comuns:** *already, just, never, by the time, before, after, when.*
-
-> 💡 **Pronúncia:** A contração **’d** (*I’d, she’d, they’d*) representa *had* neste tempo.
-
-**📝 Exercícios:**
-
-1. Complete: “By the time we arrived, the movie ___ (start).”
-1. Traduza: “Ela nunca tinha visto neve antes.”
-1. Combine duas frases com Past Perfect + Past Simple.
-1. Negativa: “He had finished his homework.”
-1. Diferencie ’d = *had* vs. ’d = *would*.
-
------
-
-### 2.8 Past Perfect Continuous
-
-**Definição:** Enfatiza a **duração** de uma ação contínua que ocorreu antes de outra no passado.
-
-**Estrutura:**
-
-```
-Afirmativa: Subject + had + been + verb-ing
-```
-
-**Exemplos:**
-
-```
-✔ She had been working for hours when the power went out.
-✘ They hadn't been waiting long.
-? Had you been studying before the test?
-```
-
-**📝 Exercícios:**
-
-1. Complete: “He ___ (run) for an hour before he stopped.”
-1. Traduza: “Estava chovendo há dias quando o rio transbordou.”
-1. Diferencie Past Perfect vs. Past Perfect Continuous.
-1. Negativa: “They had been arguing.”
-1. Escreva uma frase sua com esse tempo.
+|#  |Base Form    |Past Simple     |Past Participle  |Tradução                |
+|---|-------------|----------------|-----------------|------------------------|
+|121|**arise**    |arose           |arisen           |surgir                  |
+|122|**awake**    |awoke           |awoken           |acordar                 |
+|123|**bet**      |bet             |bet              |apostar                 |
+|124|**bind**     |bound           |bound            |amarrar / ligar         |
+|125|**breed**    |bred            |bred             |criar (animais)         |
+|126|**cling**    |clung           |clung            |agarrar-se              |
+|127|**dwell**    |dwelt           |dwelt            |habitar / morar         |
+|128|**feed**     |fed             |fed              |alimentar               |
+|129|**flee**     |fled            |fled             |fugir                   |
+|130|**forecast** |forecast        |forecast         |prever                  |
+|131|**foresee**  |foresaw         |foreseen         |prever / antever        |
+|132|**grind**    |ground          |ground           |moer / triturar         |
+|133|**lean**     |leant / leaned  |leant / leaned   |apoiar-se               |
+|134|**leap**     |leapt           |leapt            |saltar                  |
+|135|**learn**    |learnt / learned|learnt / learned |aprender                |
+|136|**mistake**  |mistook         |mistaken         |confundir-se            |
+|137|**overcome** |overcame        |overcome         |superar                 |
+|138|**overtake** |overtook        |overtaken        |ultrapassar             |
+|139|**plead**    |pled / pleaded  |pled / pleaded   |suplicar                |
+|140|**prove**    |proved          |proven / proved  |provar                  |
+|141|**rid**      |rid             |rid              |livrar-se               |
+|142|**seek**     |sought          |sought           |procurar                |
+|143|**sew**      |sewed           |sewn             |costurar                |
+|144|**shed**     |shed            |shed             |derramar (lágrimas)     |
+|145|**shrink**   |shrank          |shrunk           |encolher                |
+|146|**slay**     |slew            |slain            |matar / massacrar       |
+|147|**sow**      |sowed           |sown             |semear                  |
+|148|**stink**    |stank           |stunk            |feder                   |
+|149|**stride**   |strode          |stridden         |caminhar a passos largos|
+|150|**strive**   |strove          |striven          |esforçar-se             |
+|151|**swell**    |swelled         |swollen          |inchar                  |
+|152|**thrive**   |throve / thrived|thriven / thrived|prosperar               |
+|153|**tread**    |trod            |trodden          |pisar                   |
+|154|**undergo**  |underwent       |undergone        |submeter-se / passar por|
+|155|**undertake**|undertook       |undertaken       |empreender              |
+|156|**uphold**   |upheld          |upheld           |sustentar / manter      |
+|157|**weave**    |wove            |woven            |tecer                   |
+|158|**weep**     |wept            |wept             |chorar                  |
+|159|**wind**     |wound           |wound            |enrolar / dar corda     |
+|160|**withdraw** |withdrew        |withdrawn        |retirar / sacar         |
 
 -----
 
-### 2.9 Future Simple (Will) e “Going to”
+## 💡 Dicas de Estudo
 
-**Definição:**
-
-- **Will** → decisões espontâneas, previsões, promessas, ofertas.
-- **Going to** → planos, intenções, previsões baseadas em evidências.
-
-**Estrutura:**
-
-```
-Will:     Subject + will + verb
-Going to: Subject + am/is/are + going to + verb
-```
-
-**Exemplos:**
-
-```
-✔ I'll help you with that! (decisão espontânea)
-✔ I'm going to study medicine. (plano)
-✔ Look at those clouds! It's going to rain. (evidência)
-✔ She will be a great doctor. (previsão)
-```
-
-> 💡 **Pronúncia:** **’ll** (*I’ll, he’ll, we’ll*) é a contração natural de *will*. Soa como /l/ adicionado ao pronome.
-
-**⚖️ Will vs. Going to — Comparação Rápida:**
-
-|Situação                      |Use         |
-|------------------------------|------------|
-|Decisão no momento            |**Will**    |
-|Plano já feito                |**Going to**|
-|Previsão geral                |**Will**    |
-|Previsão com evidência visível|**Going to**|
-|Promessas/ofertas             |**Will**    |
-
-**📝 Exercícios:**
-
-1. Will ou going to? “Look out! You ___ (fall).”
-1. “I ___ (call) you tomorrow, I promise.”
-1. “We ___ (visit) Italy next summer. We already bought the tickets.”
-1. Traduza: “Acho que vai chover.”
-1. Escreva uma decisão espontânea com *will*.
+1. **Agrupe por padrão sonoro** — verbos como *sing/sang/sung*, *ring/rang/rung*, *swim/swam/swum* seguem o mesmo padrão i→a→u.
+1. **Verbos “invariáveis”** (mesma forma nas 3 colunas): *cut, put, hit, hurt, let, set, shut, cost, read* (pronúncia muda!), *burst, spread*.
+1. **Pronúncia de “read”**: presente /riːd/ (ríd), passado e particípio /rɛd/ (réd).
+1. **Got vs. Gotten**: *got* é padrão no inglês britânico; *gotten* é comum no inglês americano como particípio.
+1. **Burnt vs. Burned**: ambas as formas são corretas. *Burnt* é mais britânico; *burned* mais americano.
+1. **Estude em blocos de 10** — é mais eficaz que tentar decorar todos de uma vez.
+1. **Use em frases reais**, não apenas em listas isoladas. Contexto fixa melhor.
 
 -----
 
-### 2.10 Future Continuous
+## 📊 Estratégia de Memorização por Prioridade
 
-**Definição:** Ação em progresso em um momento específico do futuro.
-
-**Estrutura:** `Subject + will + be + verb-ing`
-
-**Exemplos:**
-
-```
-✔ This time tomorrow, I will be flying to London.
-✘ She won't be working on Sunday.
-? Will you be using the car tonight?
-```
-
-**📝 Exercícios:**
-
-1. Complete: “At 8 p.m. tomorrow, I ___ (watch) a movie.”
-1. Traduza: “Ela estará dormindo quando você chegar.”
-1. Pergunta: “What / you / do / this time next week?”
-1. Negativa: “They will be working late.”
-1. Escreva uma frase original.
+|Tier      |Verbos |Meta                            |Tempo estimado|
+|----------|-------|--------------------------------|--------------|
+|**Tier 1**|1–30   |Cobre ~80% da conversação diária|1–2 semanas   |
+|**Tier 2**|31–70  |Leitura e escrita fluente       |2–3 semanas   |
+|**Tier 3**|71–120 |Nível intermediário-avançado    |1 mês         |
+|**Tier 4**|121–160|Nível avançado / literatura     |contínuo      |
 
 -----
 
-### 2.11 Future Perfect
+**Total: 160 verbos irregulares** — os mais importantes da língua inglesa, cuidadosamente ordenados para o estudo progressivo.
 
-**Definição:** Ação que **estará concluída** antes de um momento específico no futuro.
-
-**Estrutura:** `Subject + will + have + past participle`
-
-**Exemplos:**
-
-```
-✔ By 2030, I will have graduated.
-✘ She won't have finished by then.
-? Will you have eaten before the meeting?
-```
-
-**Expressões comuns:** *by, by the time, before, by then.*
-
-**📝 Exercícios:**
-
-1. “By next year, I ___ (save) enough money.”
-1. Traduza: “Até sexta, eles terão terminado o projeto.”
-1. Negativa: “He will have arrived by 9.”
-1. Pergunta com *by the time*.
-1. Diferencie Future Simple vs. Future Perfect.
-
------
-
-### 2.12 Future Perfect Continuous
-
-**Definição:** Enfatiza a **duração** de uma ação que estará ocorrendo até um ponto no futuro.
-
-**Estrutura:** `Subject + will + have + been + verb-ing`
-
-**Exemplos:**
-
-```
-✔ By December, I will have been working here for ten years.
-```
-
-**📝 Exercícios:**
-
-1. “By 2030, she ___ (teach) for 20 years.”
-1. Traduza: “Em maio, estaremos morando aqui há cinco anos.”
-1. Negativa da frase acima.
-1. Crie pergunta com *how long*.
-1. Escreva uma frase sua.
-
------
-
-## ❓ 3. A Arte de Perguntar
-
-### 3.1 Yes/No Questions vs. Wh- Questions
-
-|Tipo      |Estrutura                            |Exemplo             |
-|----------|-------------------------------------|--------------------|
-|**Yes/No**|Auxiliary + subject + verb?          |*Do you like pizza?*|
-|**Wh-**   |Wh-word + auxiliary + subject + verb?|*Where do you live?*|
-
-**Wh- words principais:** *what, where, when, why, who, whose, which, how, how much, how many, how long.*
-
-### 3.2 Negative Questions
-
-Usadas para expressar **surpresa**, **reclamação** ou **buscar confirmação**.
-
-```
-✔ Don't you like chocolate?       (surpresa)
-✔ Isn't she beautiful?            (confirmação)
-✔ Haven't you finished yet?       (reclamação)
-```
-
-### 3.3 Question Tags
-
-Pequenas perguntas no final da frase usadas para confirmar informação. Regra básica: **afirmativa → tag negativa**, e vice-versa.
-
-```
-✔ You're coming, aren't you?
-✔ She doesn't smoke, does she?
-✔ They've met before, haven't they?
-✔ Let's go, shall we?            (exceção)
-✔ Open the door, will you?       (imperativo)
-```
-
-**📝 Exercícios:**
-
-1. Adicione a tag: “He is a doctor, ___?”
-1. Adicione: “You don’t like her, ___?”
-1. Transforme em negative question: “You know him.”
-1. Faça uma Wh- question sobre: “She went to Paris **last year**.”
-1. Traduza: “Você não vem, vem?”
-
------
-
-## 💬 4. Respostas Curtas e Longas
-
-### 4.1 Estrutura de Short Answers
-
-Sempre repetem o **auxiliar** (não o verbo principal).
-
-|Pergunta           |Short Answer (sim)|Short Answer (não)|
-|-------------------|------------------|------------------|
-|*Do you like it?*  |Yes, I do.        |No, I don’t.      |
-|*Is she here?*     |Yes, she is.      |No, she isn’t.    |
-|*Have you seen it?*|Yes, I have.      |No, I haven’t.    |
-|*Will he come?*    |Yes, he will.     |No, he won’t.     |
-|*Can you swim?*    |Yes, I can.       |No, I can’t.      |
-
-### 4.2 Contracted vs. Full Forms (Ênfase)
-
-Formas completas são usadas para **ênfase** ou **formalidade**:
-
-```
-Casual:   No, I don't.
-Enfático: No, I do NOT.
-
-Casual:   Yes, she is.  (Obs: não se contrai a afirmativa curta!)
-Errado:   Yes, she's. ✘
-```
-
-> ⚠️ **Regra importante:** Em respostas curtas afirmativas, **NUNCA** se contrai o auxiliar: *Yes, I am* ✔ / *Yes, I’m* ✘.
-
-**📝 Exercícios:**
-
-1. Responda (Sim): “Are you tired?”
-1. Responda (Não): “Has she called?”
-1. Responda (Sim, enfático): “Do you love me?”
-1. Corrija: “Yes, I’m.” / “No, she’sn’t.”
-1. Traduza: “Não, ele não viu.”
-
------
-
-## 🎤 5. Dicas Gerais de Pronúncia — Contrações
-
-|Contração|Representa |Exemplo                  |Som       |
-|---------|-----------|-------------------------|----------|
-|**’s**   |is / has   |*She’s here / She’s gone*|/z/ ou /s/|
-|**’re**  |are        |*We’re ready*            |/ər/      |
-|**’ve**  |have       |*I’ve seen it*           |/v/       |
-|**’d**   |had / would|*I’d gone / I’d like*    |/d/       |
-|**’ll**  |will       |*He’ll come*             |/l/       |
-|**won’t**|will not   |*I won’t go*             |/woʊnt/   |
-|**n’t**  |not        |*don’t, isn’t, can’t*    |/nt/      |
-
-
-> 🗣️ **Dica de ouro:** Falantes nativos **sempre contraem** em contextos informais. Não contrair soa excessivamente formal ou enfático.
-
------
-
-## ✅ GABARITO (Respostas dos Exercícios)
-
-### 2.1 Present Simple
-
-1. plays  2. I don’t drink coffee.  3. Does he live in Berlin?  4. doesn’t  5. She rarely watches TV at night.
-
-### 2.2 Present Continuous
-
-1. is raining  2. Is she cooking dinner?  3. I know the answer.  4. They are traveling this week.  5. *I’m meeting John tomorrow.*
-
-### 2.3 Present Perfect
-
-1. have never been  2. since  3. They haven’t finished the project.  4. Have you ever eaten Thai food?  5. A primeira é específica (passado terminado); a segunda conecta ao presente.
-
-### 2.4 Present Perfect Continuous
-
-1. have been waiting  2. He has been learning English for five years.  3. Perfect = resultado; Perfect Continuous = duração.  4. How long have you been living here?  5. I have known her for years.
-
-### 2.5 Past Simple
-
-1. went, ate, wrote, bought, saw  2. She didn’t call me.  3. Did they live in Spain?  4. I saw that movie last week.  5. *ago* conta de agora; *before* refere-se a outro momento.
-
-### 2.6 Past Continuous
-
-1. I was cooking dinner when the phone rang.  2. It was raining when we left.  3. She wasn’t studying.  4. What were you doing at 8 p.m.?  5. Simple = ação completa; Continuous = ação em progresso.
-
-### 2.7 Past Perfect
-
-1. had started  2. She had never seen snow before.  3. *When I got home, they had already eaten.*  4. He hadn’t finished his homework.  5. ’d = had + particípio; ’d = would + infinitivo.
-
-### 2.8 Past Perfect Continuous
-
-1. had been running  2. It had been raining for days when the river overflowed.  3. Perfect = resultado; Perfect Continuous = duração.  4. They hadn’t been arguing.  5. Resposta livre.
-
-### 2.9 Will vs. Going to
-
-1. are going to fall  2. will call  3. are going to visit  4. I think it will rain.  5. *I’ll get the door!*
-
-### 2.10 Future Continuous
-
-1. will be watching  2. She will be sleeping when you arrive.  3. What will you be doing this time next week?  4. They won’t be working late.  5. Resposta livre.
-
-### 2.11 Future Perfect
-
-1. will have saved  2. By Friday, they will have finished the project.  3. He won’t have arrived by 9.  4. *Will you have finished by the time I get back?*  5. Simple = ação futura; Perfect = concluída antes de um ponto futuro.
-
-### 2.12 Future Perfect Continuous
-
-1. will have been teaching  2. In May, we will have been living here for five years.  3. In May, we won’t have been living here for five years.  4. How long will you have been working here by 2030?  5. Resposta livre.
-
-### 3. Perguntas
-
-1. isn’t he?  2. do you?  3. Don’t you know him?  4. When did she go to Paris?  5. You aren’t coming, are you?
-
-### 4. Respostas Curtas
-
-1. Yes, I am.  2. No, she hasn’t.  3. Yes, I DO.  4. Yes, I am. / No, she isn’t.  5. No, he didn’t (see it).
-
------
-
-## 🎓 Conclusão
-
-Dominar os tempos verbais em inglês é uma questão de **prática constante** e **exposição ao idioma**. Use este guia como referência rápida e retorne aos exercícios sempre que precisar reforçar um conceito.
-
-> **“Practice doesn’t make perfect. Perfect practice makes perfect.”** — Vince Lombardi
-
-**Happy studying! 🚀**
+> 🎯 **Meta realista:** Dominar o Tier 1 já te coloca em um nível conversacional funcional. Keep going! 🚀
