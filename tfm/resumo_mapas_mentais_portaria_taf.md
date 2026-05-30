@@ -244,7 +244,6 @@ Policial militar em condições normais de saúde.
 | Feminino | Abdominal no solo, isometria na barra, shuttle run, corrida 1.800m | Abdominal no solo ou banco, apoio de frente ou isometria na barra, shuttle run, corrida 1.800m |
 
 Macete:
-
 > Antes dos 31, a prova é mais fechada. A partir dos 31, aparecem opções/substituições no abdominal e no exercício de membros superiores.
 
 ### Etapas
