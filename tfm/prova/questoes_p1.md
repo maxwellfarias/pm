@@ -35,11 +35,11 @@ V. O TAF V é restrito apenas a cursos operacionais internos da PMAL, vedada sua
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) V, V, V, V, F  
-c) V, V, F, V, F  
-d) F, V, V, V, F  
-e) V, F, V, V, F  
+a) V, V, V, F, F
+b) V, V, V, V, F
+c) V, F, V, V, F
+d) F, V, V, V, F
+e) V, V, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
@@ -62,16 +62,16 @@ e) V, F, V, V, F
 De acordo com a Portaria Normativa nº 021/2024, a finalidade principal do TAF na PMAL é:
 
 
-a) substituir a inspeção de saúde nos processos de promoção.  
-b) avaliar exclusivamente candidatos a cursos operacionais.  
-c) avaliar o nível de condicionamento físico dos policiais militares, conforme os tipos definidos
-   na norma.  
-d) classificar automaticamente todos os militares em quadro de acesso.  
-e) servir apenas como atividade recreativa de educação física.  
+a) classificar automaticamente todos os militares em quadro de acesso.
+b) avaliar o nível de condicionamento físico dos policiais militares, conforme os tipos definidos
+   na norma.
+c) servir apenas como atividade recreativa de educação física.
+d) substituir a inspeção de saúde nos processos de promoção.
+e) avaliar exclusivamente candidatos a cursos operacionais.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa b.
 
 **Comentário:** O TAF serve para avaliar o nível de condicionamento físico dos policiais militares.
                 Não substitui inspeção de saúde nem se limita a cursos operacionais.
@@ -88,20 +88,20 @@ e) servir apenas como atividade recreativa de educação física.
 
 Com base nos tipos de TAF definidos na Portaria Normativa nº 021/2024, analise as assertivas.
 
-I. TAF I corresponde à avaliação de militares em condições normais de saúde.
+I. TAF V é utilizado para cursos operacionais específicos dentro e fora da Corporação.
 II. TAF II pode ser aplicado a policiais em Licença para Tratamento de Saúde, desde que assinem
     termo de responsabilidade.
 III. TAF III é utilizado para candidatos a ingresso na Corporação.
-IV. TAF V é utilizado para cursos operacionais específicos dentro e fora da Corporação.
+IV. TAF I corresponde à avaliação de militares em condições normais de saúde.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) I e III apenas.  
-c) I e III e IV apenas.  
-d) I e II apenas.  
-e) II e III apenas.  
+a) I e III apenas.
+b) II e III apenas.
+c) I, III e IV apenas.
+d) II e IV apenas.
+e) III e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
@@ -123,15 +123,15 @@ e) II e III apenas.
 A alternativa que associa corretamente o tipo de TAF ao seu público-alvo é:
 
 
-a) TAF I — candidatos a ingresso; TAF III — idosos.  
-b) TAF II — policiais em condições normais de saúde; TAF IV — cursos operacionais.  
-c) TAF III — candidatos a ingresso; TAF IV — policiais militares considerados idosos.  
-d) TAF V — gestantes ou puérperas; TAF II — cursos operacionais.  
-e) TAF I — militares em LTS; TAF V — avaliação física periódica comum.  
+a) TAF I — militares em LTS; TAF V — avaliação física periódica comum.
+b) TAF V — gestantes ou puérperas; TAF II — cursos operacionais.
+c) TAF II — policiais em condições normais de saúde; TAF IV — cursos operacionais.
+d) TAF I — candidatos a ingresso; TAF III — idosos.
+e) TAF III — candidatos a ingresso; TAF IV — policiais militares considerados idosos.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** TAF III é usado para candidatos a ingresso e TAF IV para policiais militares
                 considerados idosos. As demais alternativas trocam os públicos dos TAFs.
@@ -150,16 +150,16 @@ O TAF II, segundo a Portaria nº 021/2024, possui uma limitação importante de 
 alternativa correta.
 
 
-a) Pode ser realizado livremente, sem restrição de finalidade, sempre que o militar preferir.  
-b) É realizado exclusivamente para matrícula em curso obrigatório de ascensão ou ingresso em quadro
-   de acesso para promoção, ressalvadas as condições da norma.  
-c) É obrigatório para todos os militares com mais de 31 anos.  
-d) Substitui definitivamente o TAF I para qualquer militar com laudo médico antigo.  
-e) É utilizado apenas para candidatos a ingresso na Corporação.  
+a) Pode ser realizado livremente, sem restrição de finalidade, sempre que o militar preferir.
+b) É obrigatório para todos os militares com mais de 31 anos.
+c) É realizado exclusivamente para matrícula em curso obrigatório de ascensão ou ingresso em quadro
+   de acesso para promoção, ressalvadas as condições da norma.
+d) É utilizado apenas para candidatos a ingresso na Corporação.
+e) Substitui definitivamente o TAF I para qualquer militar com laudo médico antigo.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** O parágrafo único do art. 2º limita a realização do TAF II às finalidades ali
                 descritas. Não é uma alternativa livre ao TAF I.
@@ -176,26 +176,26 @@ e) É utilizado apenas para candidatos a ingresso na Corporação.
 
 Sobre o TAF II, julgue os itens.
 
-I. Pode ser utilizado para policial militar gestante.
-II. Pode ser utilizado para militar em estado puerperal até 6 meses após o parto.
-III. Pode ser aplicado a militar com restrição médica temporária, não estando em LTS, desde que
+I. Pode ser aplicado a militar com restrição médica temporária, não estando em LTS, desde que
      comprovada.
-IV. Pode ser realizado por mais de uma vez consecutiva para a mesma finalidade, como regra geral.
-V. Pode ser admitido em caso de limitação funcional permanente, quando comprovada por junta médica
+II. Pode ser utilizado para policial militar gestante.
+III. Pode ser utilizado para militar em estado puerperal até 6 meses após o parto.
+IV. Pode ser admitido em caso de limitação funcional permanente, quando comprovada por junta médica
    da Corporação, como exceção indicada na norma.
+V. Pode ser realizado por mais de uma vez consecutiva para a mesma finalidade, como regra geral.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, V  
-b) V, V, F, F, V  
-c) V, F, V, F, V  
-d) F, V, V, F, V  
-e) V, V, V, F, V  
+a) V, V, V, V, F
+b) F, V, V, V, F
+c) V, V, F, V, F
+d) V, V, V, V, V
+e) V, F, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
 **Comentário:** A regra veda realização por mais de uma vez consecutiva para a mesma finalidade,
                 salvo limitação funcional permanente comprovada por junta médica.
@@ -214,23 +214,23 @@ A respeito do TAF V e dos cursos operacionais, analise as assertivas.
 
 I. O TAF V destina-se a cursos operacionais específicos.
 II. O TAF V pode estar relacionado a cursos dentro ou fora da Corporação.
-III. Os exercícios e índices do TAF V são definidos no edital de abertura dos cursos operacionais.
-IV. O TAF V é equivalente ao TAF III, exigindo sempre natação como segunda etapa.
+III. O TAF V é equivalente ao TAF III, exigindo sempre natação como segunda etapa.
+IV. Os exercícios e índices do TAF V são definidos no edital de abertura dos cursos operacionais.
 
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) III e IV apenas.  
-c) I e III apenas.  
-d) II e III apenas.  
-e) I e II e III apenas.  
+a) I e II apenas.
+b) I e IV apenas.
+c) III e IV apenas.
+d) II e IV apenas.
+e) I, II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa e.
 
-**Comentário:** As assertivas I, II e III refletem a Portaria. A IV confunde TAF V com TAF III; o
+**Comentário:** As assertivas I, II e IV refletem a Portaria. A III confunde TAF V com TAF III; o
                 TAF V segue o edital do curso operacional.
 
 **Assunto cobrado:** TAF V.
@@ -247,15 +247,15 @@ O Teste de Aptidão Física para cursos de especialização que exijam condicion
 terá suas normas aprovadas:
 
 
-a) pelo Departamento de Educação Física da Corporação.  
-b) exclusivamente pela Junta Médica da Corporação.  
-c) pelo comandante da OPM do candidato, sem participação técnica.  
-d) pela banca examinadora do dia do teste.  
-e) pelo próprio candidato, mediante termo de responsabilidade.  
+a) pelo próprio candidato, mediante termo de responsabilidade.
+b) exclusivamente pela Junta Médica da Corporação.
+c) pela banca examinadora do dia do teste.
+d) pelo Departamento de Educação Física da Corporação.
+e) pelo comandante da OPM do candidato, sem participação técnica.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
 **Comentário:** A Portaria prevê que cursos de especialização com condicionamento físico específico
                 terão normas aprovadas pelo Departamento de Educação Física da Corporação.
@@ -273,15 +273,15 @@ e) pelo próprio candidato, mediante termo de responsabilidade.
 Segundo a Portaria nº 021/2024, a flexão abdominal supra mede, indiretamente:
 
 
-a) a velocidade de deslocamento em curta distância.  
-b) a resistência da musculatura abdominal.  
-c) a capacidade aeróbica em meio líquido.  
-d) a força dinâmica dos membros inferiores.  
-e) a agilidade neuromotora em percurso de 9,14m.  
+a) a resistência da musculatura abdominal.
+b) a capacidade aeróbica em meio líquido.
+c) a força dinâmica dos membros inferiores.
+d) a velocidade de deslocamento em curta distância.
+e) a agilidade neuromotora em percurso de 9,14m.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
 **Comentário:** A flexão abdominal supra é voltada à resistência da musculatura abdominal.
                 Velocidade, agilidade e natação correspondem a outros testes.
@@ -299,15 +299,15 @@ e) a agilidade neuromotora em percurso de 9,14m.
 A tração sob a barra fixa, no contexto da Portaria nº 021/2024, mede principalmente:
 
 
-a) resistência e potência muscular dos membros superiores e cintura escapular.  
-b) apenas capacidade aeróbica dos membros inferiores.  
-c) flexibilidade da cadeia posterior.  
-d) equilíbrio e coordenação em baixa intensidade.  
-e) velocidade de reação com transporte de blocos.  
+a) flexibilidade da cadeia posterior.
+b) apenas capacidade aeróbica dos membros inferiores.
+c) resistência e potência muscular dos membros superiores e cintura escapular.
+d) velocidade de reação com transporte de blocos.
+e) equilíbrio e coordenação em baixa intensidade.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** A tração sob a barra fixa é ligada à resistência e potência muscular dos membros
                 superiores e cintura escapular, não à resistência aeróbica ou ao shuttle run.
@@ -324,23 +324,23 @@ e) velocidade de reação com transporte de blocos.
 
 Quanto aos fundamentos dos exercícios previstos na Portaria nº 021/2024, julgue os itens.
 
-I. O apoio de frente sobre o solo avalia resistência e potência muscular dos membros superiores e
-   da cintura escapular.
-II. A isometria sobre a barra fixa afere resistência muscular isométrica dos membros superiores e
-    cintura escapular.
-III. O shuttle run mede a capacidade de deslocamento em velocidade, agilidade e coordenação motora.
-IV. A corrida de 50m mede resistência aeróbica prolongada.
-V. A corrida de 1.800m/2.000m mede resistência geral com consumo máximo de oxigênio durante o
+I. O shuttle run mede a capacidade de deslocamento em velocidade, agilidade e coordenação motora.
+II. A corrida de 1.800m/2.000m mede resistência geral com consumo máximo de oxigênio durante o
    esforço.
+III. O apoio de frente sobre o solo avalia resistência e potência muscular dos membros superiores e
+   da cintura escapular.
+IV. A corrida de 50m mede resistência aeróbica prolongada.
+V. A isometria sobre a barra fixa afere resistência muscular isométrica dos membros superiores e
+    cintura escapular.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, V, F, V  
-b) V, V, F, F, V  
-c) V, V, V, V, V  
-d) V, V, V, F, V  
-e) F, V, V, F, V  
+a) V, V, V, F, F
+b) V, V, V, V, V
+c) V, V, F, F, V
+d) V, V, V, F, V
+e) F, V, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
@@ -361,26 +361,26 @@ e) F, V, V, F, V
 
 Considerando os exercícios do TAF e suas finalidades, analise as assertivas.
 
-I. A caminhada é utilizada para policial militar gestante, em estado puerperal ou com restrição
-   médica temporária, conforme a hipótese normativa.
+I. A prancha abdominal isométrica tem o mesmo enquadramento do inciso relativo ao sentar e
+     levantar no art. 4º.
 II. O sentar e levantar é previsto para militares com restrições médicas temporárias nas condições
     do art. 4º.
-III. A prancha abdominal isométrica tem o mesmo enquadramento do inciso relativo ao sentar e
-     levantar no art. 4º.
+III. A caminhada é utilizada para policial militar gestante, em estado puerperal ou com restrição
+   médica temporária, conforme a hipótese normativa.
 IV. A natação é exclusiva do TAF I e não pode ser usada no TAF II ou III.
 
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) III e IV apenas.  
-c) I e III apenas.  
-d) II e III apenas.  
-e) I e II e III apenas.  
+a) I e IV apenas.
+b) I e III apenas.
+c) I, II e III apenas.
+d) I e II apenas.
+e) II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa c.
 
 **Comentário:** A natação aparece associada ao TAF III e também ao art. 7º, §1º, V, para TAF II.
                 Por isso a assertiva IV está incorreta.
@@ -398,11 +398,11 @@ e) I e II e III apenas.
 A corrida de ir e vir, conhecida como shuttle run, é cobrada na Portaria como teste que mede:
 
 
-a) exclusivamente resistência aeróbica de longa duração.  
-b) velocidade, agilidade e coordenação motora necessárias às atividades policiais.  
-c) apenas força estática dos membros superiores.  
-d) resistência muscular localizada do abdômen.  
-e) equilíbrio respiratório em meio aquático.  
+a) equilíbrio respiratório em meio aquático.
+b) velocidade, agilidade e coordenação motora necessárias às atividades policiais.
+c) exclusivamente resistência aeróbica de longa duração.
+d) apenas força estática dos membros superiores.
+e) resistência muscular localizada do abdômen.
 <details>
 <summary>Ver resposta</summary>
 
@@ -425,15 +425,15 @@ A corrida de 1.800m e 2.000m, conforme a Portaria, está mais diretamente relaci
 de:
 
 
-a) resistência geral com consumo máximo de oxigênio durante o esforço.  
-b) força isométrica da cintura escapular.  
-c) velocidade de explosão em curta distância.  
-d) capacidade de executar contrações estáticas do abdômen.  
-e) potência de membros superiores em barra fixa.  
+a) capacidade de executar contrações estáticas do abdômen.
+b) resistência geral com consumo máximo de oxigênio durante o esforço.
+c) potência de membros superiores em barra fixa.
+d) força isométrica da cintura escapular.
+e) velocidade de explosão em curta distância.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
 **Comentário:** As corridas de 1.800m e 2.000m avaliam resistência geral, diferenciando-se da
                 corrida de 50m e do shuttle run.
@@ -451,25 +451,25 @@ e) potência de membros superiores em barra fixa.
 Acerca da natação, corrida de 50m e caminhada nos protocolos da Portaria nº 021/2024, julgue os
 itens.
 
-I. A corrida de 50m mede velocidade de deslocamento em curta distância.
-II. A natação pode mensurar resistência aeróbica, resistência muscular localizada e força dinâmica
+I. A natação pode mensurar resistência aeróbica, resistência muscular localizada e força dinâmica
     dos membros superiores e inferiores.
-III. A caminhada é exclusiva do TAF III.
-IV. A caminhada percorre distância de 1.000m nos protocolos do TAF II e IV.
+II. A caminhada percorre distância de 1.000m nos protocolos do TAF II e IV.
+III. A corrida de 50m mede velocidade de deslocamento em curta distância.
+IV. A caminhada é exclusiva do TAF III.
 V. A natação de 50m é obrigatoriamente executada em estilo único definido pela banca.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, F  
-b) V, F, F, V, F  
-c) V, V, F, V, F  
-d) V, V, F, F, F  
-e) F, V, F, V, F  
+a) F, V, V, F, F
+b) V, V, V, V, F
+c) V, V, F, F, F
+d) V, F, V, F, F
+e) V, V, V, F, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** A caminhada é prevista para TAF II e IV, não para TAF III; a natação pode ser em
                 qualquer estilo, respeitadas as vedações do protocolo.
@@ -486,10 +486,10 @@ e) F, V, F, V, F
 
 Sobre a composição do TAF I para policiais militares do sexo masculino, analise as assertivas.
 
-I. Com menos de 31 anos, o militar realiza flexão abdominal supra com pés no chão, tração sob a
-   barra fixa, shuttle run e corrida de 2.000m.
-II. A partir de 31 anos, pode haver opção entre tração sob a barra fixa ou apoio de frente sobre o
+I. A partir de 31 anos, pode haver opção entre tração sob a barra fixa ou apoio de frente sobre o
     solo.
+II. Com menos de 31 anos, o militar realiza flexão abdominal supra com pés no chão, tração sob a
+   barra fixa, shuttle run e corrida de 2.000m.
 III. A corrida de resistência do masculino no TAF I é de 1.800m.
 IV. A partir de 31 anos, pode haver opção entre flexão abdominal com pés no banco ou com pés no
     chão.
@@ -497,11 +497,11 @@ IV. A partir de 31 anos, pode haver opção entre flexão abdominal com pés no 
 Está correto o que se afirma em:
 
 
-a) I e III apenas.  
-b) I e II apenas.  
-c) II e III apenas.  
-d) III e IV apenas.  
-e) I e II e IV apenas.  
+a) I e II apenas.
+b) II e III apenas.
+c) III e IV apenas.
+d) I e III apenas.
+e) I, II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
@@ -522,25 +522,25 @@ e) I e II e IV apenas.
 
 Sobre a composição do TAF I para policiais militares do sexo feminino, analise as assertivas.
 
-I. Com menos de 31 anos, realiza flexão abdominal supra com pés no chão, isometria sobre a barra
-   fixa, shuttle run e corrida de 1.800m.
-II. A partir de 31 anos, pode optar entre apoio de frente sobre o solo ou isometria sobre a barra
+I. A partir de 31 anos, pode optar entre apoio de frente sobre o solo ou isometria sobre a barra
     fixa.
-III. Com menos de 31 anos, a prova obrigatória de resistência aeróbica é a corrida de 2.000m.
+II. Com menos de 31 anos, a prova obrigatória de resistência aeróbica é a corrida de 2.000m.
+III. Com menos de 31 anos, realiza flexão abdominal supra com pés no chão, isometria sobre a barra
+   fixa, shuttle run e corrida de 1.800m.
 IV. A partir de 31 anos, pode optar entre abdominal com pés no banco ou abdominal com pés no chão.
 
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) I e II e IV apenas.  
-c) I e III apenas.  
-d) III e IV apenas.  
-e) II e III apenas.  
+a) I e III apenas.
+b) II e III apenas.
+c) II e IV apenas.
+d) I, III e IV apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** A corrida feminina do TAF I é de 1.800m, não 2.000m. As demais assertivas seguem a
                 regra do art. 5º.
@@ -557,25 +557,25 @@ e) II e III apenas.
 
 Quanto à execução do TAF I, julgue os itens.
 
-I. O TAF I é realizado, em regra, em duas etapas.
-II. Entre as etapas do TAF I há intervalo de 24 horas.
-III. A primeira etapa é constituída por testes de resistência anaeróbica.
-IV. A segunda etapa é constituída por teste de resistência aeróbica.
-V. É obrigatória a execução das duas etapas em dias separados, sendo vedada a realização em um
+I. A primeira etapa é constituída por testes de resistência anaeróbica.
+II. A segunda etapa é constituída por teste de resistência aeróbica.
+III. É obrigatória a execução das duas etapas em dias separados, sendo vedada a realização em um
    único dia.
+IV. Entre as etapas do TAF I há intervalo de 24 horas.
+V. O TAF I é realizado, em regra, em duas etapas.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, F  
-b) F, V, V, V, F  
-c) V, F, V, V, F  
-d) V, V, V, F, F  
-e) V, V, F, V, F  
+a) V, F, F, V, V
+b) V, V, F, V, F
+c) F, V, F, V, V
+d) V, V, F, V, V
+e) V, V, F, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
 **Comentário:** A regra é em duas etapas com 24h, mas é facultada a execução em um único dia com
                 intervalo de 30 minutos entre elas, se houver interesse do policial militar.
@@ -593,15 +593,15 @@ e) V, V, F, V, F
 Dentro de uma mesma etapa do TAF I, o intervalo mínimo entre os exercícios será de:
 
 
-a) 30 segundos.  
-b) 1 minuto.  
-c) 3 minutos.  
-d) 5 minutos.  
-e) 24 horas.  
+a) 5 minutos.
+b) 24 horas.
+c) 3 minutos.
+d) 30 segundos.
+e) 1 minuto.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** A Portaria estabelece tempo não inferior a 5 minutos entre os exercícios dentro da
                 mesma etapa.
@@ -619,15 +619,15 @@ e) 24 horas.
 No TAF I, a execução das duas etapas em um único dia é:
 
 
-a) obrigatória para todos os policiais militares.  
-b) facultada, caso haja interesse do policial militar, com intervalo de 30 minutos entre as etapas.  
-c) vedada em qualquer hipótese.  
-d) permitida apenas para candidatos a ingresso.  
-e) exigida apenas para militares idosos.  
+a) facultada, caso haja interesse do policial militar, com intervalo de 30 minutos entre as etapas.
+b) permitida apenas para candidatos a ingresso.
+c) obrigatória para todos os policiais militares.
+d) vedada em qualquer hipótese.
+e) exigida apenas para militares idosos.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
 **Comentário:** A norma faculta a execução das duas etapas em um único dia, desde que haja
                 interesse do policial militar, com intervalo de 30 minutos.
@@ -645,25 +645,25 @@ e) exigida apenas para militares idosos.
 Sobre repetição e substituição no TAF I, julgue os itens.
 
 I. O policial que não atingir o índice mínimo na corrida de 1.800m ou 2.000m poderá repeti-la.
-II. O exercício de resistência anaeróbica de menor pontuação poderá ser repetido ou substituído uma
+II. No masculino, a barra fixa pode ser substituída pela isometria na barra.
+III. O exercício de resistência anaeróbica de menor pontuação poderá ser repetido ou substituído uma
     única vez, conforme correspondência prevista.
-III. No masculino, a barra fixa pode ser substituída pela isometria na barra.
-IV. No feminino, a isometria na barra fixa pode ser substituída pelo apoio de frente.
-V. O TAF I permite a substituição ilimitada de todos os exercícios até que o militar alcance
+IV. O TAF I permite a substituição ilimitada de todos os exercícios até que o militar alcance
    pontuação máxima.
+V. No feminino, a isometria na barra fixa pode ser substituída pelo apoio de frente.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, F  
-b) V, F, V, V, F  
-c) V, V, F, V, F  
-d) V, V, V, F, F  
-e) F, V, V, V, F  
+a) V, F, V, F, V
+b) F, V, V, F, V
+c) V, V, V, F, F
+d) V, V, F, F, V
+e) V, V, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
 **Comentário:** A repetição/substituição é limitada a um único exercício de resistência anaeróbica
                 de menor pontuação e apenas uma vez, não sendo ilimitada.
@@ -682,15 +682,15 @@ No reteste da corrida do TAF I, quando o tempo limite correspondente à menor po
 ultrapassado em 1 segundo e não excede 1 minuto, a pontuação atribuída é:
 
 
-a) 0,0.  
-b) 0,125.  
-c) 0,25.  
-d) 0,5.  
-e) 1,0.  
+a) 0,125.
+b) 0,0.
+c) 0,25.
+d) 0,5.
+e) 1,0.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
 **Comentário:** A Portaria prevê pontuação 0,125 nessa situação específica de reteste da corrida.
 
@@ -707,27 +707,27 @@ e) 1,0.
 Acerca das substituições possíveis do exercício anaeróbico de menor pontuação no TAF I, analise as
 assertivas.
 
-I. Para o sexo masculino, a barra fixa pode ser substituída pela isometria na barra.
-II. Para ambos os sexos, o abdominal com pés no solo pode ser substituído pelo abdominal na
+I. Para o sexo feminino, o apoio de frente deve obrigatoriamente ser substituído pela natação.
+II. Para ambos os sexos, o shuttle run pode ser substituído pela corrida de 50m.
+III. Para ambos os sexos, o abdominal com pés no solo pode ser substituído pelo abdominal na
     cadeira.
-III. Para ambos os sexos, o shuttle run pode ser substituído pela corrida de 50m.
-IV. Para o sexo feminino, o apoio de frente deve obrigatoriamente ser substituído pela natação.
+IV. Para o sexo masculino, a barra fixa pode ser substituída pela isometria na barra.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e II e III apenas.  
-c) I e III apenas.  
-d) III e IV apenas.  
-e) I e II apenas.  
+a) II e IV apenas.
+b) II e III apenas.
+c) I e II apenas.
+d) III e IV apenas.
+e) II, III e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa e.
 
 **Comentário:** A natação não é a substituição prevista para o exercício anaeróbico no TAF I. A
-                assertiva IV cria regra inexistente.
+                assertiva I cria regra inexistente.
 
 **Assunto cobrado:** Substituições do TAF I.
 
@@ -741,22 +741,22 @@ e) I e II apenas.
 
 Sobre a falta ao primeiro dia do TAF I e a organização das etapas, julgue os itens.
 
-I. O policial que faltar ao primeiro dia por motivo justificado poderá realizar todos os exames no
-   segundo dia marcado.
-II. A primeira etapa do TAF I se refere à resistência anaeróbica.
-III. A segunda etapa do TAF I se refere à resistência aeróbica.
-IV. A realização em um único dia é possível, mas exige intervalo de 30 minutos entre as etapas.
-V. A realização em um único dia elimina o intervalo mínimo de 5 minutos entre os exercícios da
+I. A realização em um único dia é possível, mas exige intervalo de 30 minutos entre as etapas.
+II. A realização em um único dia elimina o intervalo mínimo de 5 minutos entre os exercícios da
    mesma etapa.
+III. A segunda etapa do TAF I se refere à resistência aeróbica.
+IV. A primeira etapa do TAF I se refere à resistência anaeróbica.
+V. O policial que faltar ao primeiro dia por motivo justificado poderá realizar todos os exames no
+   segundo dia marcado.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) V, V, V, V, F  
-c) F, V, V, V, F  
-d) V, F, V, V, F  
-e) V, V, F, V, F  
+a) F, F, V, V, V
+b) V, F, V, V, V
+c) V, F, F, V, V
+d) V, F, V, V, F
+e) V, F, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
@@ -779,15 +779,15 @@ O TAF II para policiais militares gestantes ou em estado puerperal será constit
 de:
 
 
-a) natação obrigatória e barra fixa.  
-b) caminhada, conforme anexo próprio.  
-c) shuttle run e corrida de 2.000m.  
-d) corrida de 50m e tração na barra, obrigatoriamente.  
-e) flexão abdominal com cotovelos tocando os quadríceps e natação.  
+a) caminhada, conforme anexo próprio.
+b) corrida de 50m e tração na barra, obrigatoriamente.
+c) shuttle run e corrida de 2.000m.
+d) natação obrigatória e barra fixa.
+e) flexão abdominal com cotovelos tocando os quadríceps e natação.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
 **Comentário:** Para gestantes ou puérperas, o TAF II é constituído pelo exercício de caminhada,
                 conforme anexo da Portaria.
@@ -806,22 +806,22 @@ No TAF II, para militares com restrição médica temporária, podem ser indicad
 seguintes exercícios.
 
 I. Apoio de frente sobre o solo em 6 apoios.
-II. Teste de sentar e levantar.
+II. Abdominal isométrico/prancha.
 III. Corrida de 50m.
-IV. Abdominal isométrico/prancha.
+IV. Teste de sentar e levantar.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) I e III apenas.  
-c) I, II, III e IV.  
-d) II e III apenas.  
-e) I e II apenas.  
+a) I e III apenas.
+b) III e IV apenas.
+c) II e III apenas.
+d) I, II, III e IV.
+e) I e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
 **Comentário:** Todos os exercícios listados aparecem no art. 7º, §1º, além da natação 50m,
                 conforme a restrição médica.
@@ -838,21 +838,21 @@ e) I e II apenas.
 
 Sobre o TAF II, julgue os itens.
 
-I. Para militares com restrição médica temporária, pode envolver caminhada mais três exercícios
+I. O intervalo dentro de uma mesma etapa não deve ser inferior a 5 minutos.
+II. Para militares com restrição médica temporária, pode envolver caminhada mais três exercícios
    indicados por Junta Médica.
-II. A natação de 50m pode ser um dos exercícios indicados pela Junta Médica.
 III. O TAF II é realizado em um único dia.
-IV. O intervalo dentro de uma mesma etapa não deve ser inferior a 5 minutos.
+IV. A natação de 50m pode ser um dos exercícios indicados pela Junta Médica.
 V. O TAF II dispensa qualquer comprovação médica de restrição.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, V, V, F  
-b) V, V, V, F, F  
-c) F, V, V, V, F  
-d) V, V, V, V, F  
-e) V, V, F, V, F  
+a) V, F, V, V, F
+b) V, V, V, F, F
+c) F, V, V, V, F
+d) V, V, V, V, F
+e) V, V, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
@@ -875,15 +875,15 @@ Assinale a alternativa que contém apenas exercícios que podem aparecer no TAF 
 da Junta Médica para restrição temporária.
 
 
-a) Corrida de 50m, prancha, sentar e levantar e natação 50m.  
-b) Corrida de 2.000m, tração na barra, shuttle run e pista de obstáculos.  
-c) Marcha de 12 km, salto em distância, abdominal remador e toros.  
-d) Natação 200m, flexão na barra com lastro, tiro de 100m e marcha armada.  
-e) Shuttle run, corrida de 2.000m e barra fixa obrigatoriamente.  
+a) Corrida de 2.000m, tração na barra, shuttle run e pista de obstáculos.
+b) Corrida de 50m, prancha, sentar e levantar e natação 50m.
+c) Marcha de 12 km, salto em distância, abdominal remador e toros.
+d) Natação 200m, flexão na barra com lastro, tiro de 100m e marcha armada.
+e) Shuttle run, corrida de 2.000m e barra fixa obrigatoriamente.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
 **Comentário:** O art. 7º, §1º, lista apoio de frente em 6 apoios, sentar e levantar, corrida de
                 50m, prancha e natação 50m.
@@ -900,20 +900,20 @@ e) Shuttle run, corrida de 2.000m e barra fixa obrigatoriamente.
 
 Acerca do TAF III, julgue os itens.
 
-I. É utilizado para candidatos a ingresso na Corporação.
-II. É constituído por 5 exercícios.
-III. É dividido em 2 etapas.
-IV. Há intervalo mínimo de 48 horas entre as etapas.
-V. É permitida a substituição de um exercício de menor pontuação, como no TAF I.
+I. É dividido em 2 etapas.
+II. Há intervalo mínimo de 48 horas entre as etapas.
+III. É utilizado para candidatos a ingresso na Corporação.
+IV. É permitida a substituição de um exercício de menor pontuação, como no TAF I.
+V. É constituído por 5 exercícios.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, V, F  
-b) V, F, V, V, F  
-c) V, V, V, V, F  
-d) V, V, V, F, F  
-e) V, V, F, V, F  
+a) V, F, V, F, V
+b) V, V, V, F, F
+c) V, V, V, F, V
+d) F, V, V, F, V
+e) V, V, F, F, V
 <details>
 <summary>Ver resposta</summary>
 
@@ -933,24 +933,24 @@ e) V, V, F, V, F
 
 Sobre a primeira etapa do TAF III, analise as assertivas.
 
-I. Inclui flexão abdominal supra tocando os cotovelos nos quadríceps.
-II. Inclui tração sob a barra fixa para o sexo masculino ou isometria sobre a barra fixa para o
+I. Inclui shuttle run.
+II. Inclui flexão abdominal supra tocando os cotovelos nos quadríceps.
+III. Inclui corrida de 2.000m para o masculino ou 1.800m para o feminino.
+IV. Inclui tração sob a barra fixa para o sexo masculino ou isometria sobre a barra fixa para o
     sexo feminino.
-III. Inclui shuttle run.
-IV. Inclui corrida de 2.000m para o masculino ou 1.800m para o feminino.
 
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) I e III apenas.  
-c) II e III apenas.  
-d) I, II, III e IV.  
-e) III e IV apenas.  
+a) I, II, III e IV.
+b) II e IV apenas.
+c) I e III apenas.
+d) I e IV apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** Todos esses exercícios compõem a primeira etapa do TAF III; a segunda etapa é a
                 natação.
@@ -968,15 +968,15 @@ e) III e IV apenas.
 A segunda etapa do TAF III é composta pelo exercício de:
 
 
-a) caminhada.  
-b) natação.  
-c) apoio de frente em 6 apoios.  
-d) sentar e levantar.  
-e) corrida de 50m.  
+a) caminhada.
+b) apoio de frente em 6 apoios.
+c) natação.
+d) corrida de 50m.
+e) sentar e levantar.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** A segunda etapa do TAF III é a natação. Caminhada e sentar/levantar aparecem em
                 outros TAFs.
@@ -994,11 +994,11 @@ e) corrida de 50m.
 No TAF III, o tempo mínimo entre os exercícios existentes na primeira etapa é de:
 
 
-a) 30 segundos.  
-b) 1 minuto.  
-c) 3 minutos.  
-d) 5 minutos.  
-e) 48 horas.  
+a) 30 segundos.
+b) 3 minutos.
+c) 48 horas.
+d) 5 minutos.
+e) 1 minuto.
 <details>
 <summary>Ver resposta</summary>
 
@@ -1019,23 +1019,23 @@ e) 48 horas.
 
 Quanto aos índices mínimos do TAF III, analise as assertivas.
 
-I. Para o masculino, são exigidas 40 repetições de abdominal supra.
-II. Para o masculino, são exigidas 4 repetições de barra fixa.
-III. Para o feminino, são exigidos 10 segundos de isometria.
+I. Para o masculino, são exigidas 4 repetições de barra fixa.
+II. Para o feminino, são exigidos 10 segundos de isometria.
+III. Para o masculino, são exigidas 40 repetições de abdominal supra.
 IV. Para o feminino, a corrida de 1.800m deve ser concluída em até 13 minutos.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e III apenas.  
-c) I e II apenas.  
-d) I, II, III e IV.  
-e) III e IV apenas.  
+a) I, II, III e IV.
+b) II e III apenas.
+c) II e IV apenas.
+d) I e II apenas.
+e) I e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** Todas as assertivas reproduzem índices mínimos do quadro do art. 8º, §6º.
 
@@ -1051,24 +1051,24 @@ e) III e IV apenas.
 
 Sobre os índices mínimos do TAF III, julgue os itens.
 
-I. No masculino, o shuttle run deve ser realizado em até 11 segundos.
-II. No masculino, a corrida de 2.000m deve ser concluída em até 11 minutos.
-III. No masculino, a natação de 50m deve ser concluída em até 50 segundos.
+I. No masculino, a corrida de 2.000m deve ser concluída em até 11 minutos.
+II. No feminino, a corrida obrigatória é de 2.000m em até 11 minutos.
+III. No masculino, o shuttle run deve ser realizado em até 11 segundos.
 IV. No feminino, a natação de 50m deve ser concluída em até 60 segundos.
-V. No feminino, a corrida obrigatória é de 2.000m em até 11 minutos.
+V. No masculino, a natação de 50m deve ser concluída em até 50 segundos.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, V, F  
-b) V, F, V, V, F  
-c) F, V, V, V, F  
-d) V, V, V, V, F  
-e) V, V, V, F, F  
+a) V, F, V, V, F
+b) F, F, V, V, V
+c) V, F, V, V, V
+d) V, F, V, F, V
+e) V, F, F, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa c.
 
 **Comentário:** A corrida feminina no TAF III é de 1.800m em até 13 minutos; 2.000m em 11 minutos é
                 índice masculino.
@@ -1086,15 +1086,15 @@ e) V, V, V, F, F
 O TAF IV é constituído pelos seguintes exercícios:
 
 
-a) barra fixa, shuttle run, corrida de 2.000m e natação.  
-b) caminhada, sentar e levantar, corrida de 50m e apoio de frente.  
-c) abdominal supra, tração na barra, shuttle run e corrida de 1.800m.  
-d) natação, prancha, corrida de 2.000m e barra fixa.  
-e) apenas caminhada e avaliação médica.  
+a) abdominal supra, tração na barra, shuttle run e corrida de 1.800m.
+b) natação, prancha, corrida de 2.000m e barra fixa.
+c) caminhada, sentar e levantar, corrida de 50m e apoio de frente.
+d) barra fixa, shuttle run, corrida de 2.000m e natação.
+e) apenas caminhada e avaliação médica.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** O TAF IV, destinado a idosos, é composto por caminhada, sentar e levantar, corrida
                 de 50m e apoio de frente.
@@ -1112,21 +1112,21 @@ e) apenas caminhada e avaliação médica.
 Sobre o TAF IV, julgue os itens.
 
 I. É utilizado para policiais militares considerados idosos.
-II. É realizado em um único dia.
-III. Dentro de uma mesma etapa, o intervalo não deve ser inferior a 5 minutos.
-IV. Permite substituição ou repetição de qualquer exercício, caso o militar não atinja índice
-    mínimo.
-V. Caso falte por motivo justificado, o policial deverá solicitar ao Subcomandante Geral nova data
+II. Caso falte por motivo justificado, o policial deverá solicitar ao Subcomandante Geral nova data
    estabelecida pelo DEFD.
+III. É realizado em um único dia.
+IV. Dentro de uma mesma etapa, o intervalo não deve ser inferior a 5 minutos.
+V. Permite substituição ou repetição de qualquer exercício, caso o militar não atinja índice
+    mínimo.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, V  
-b) V, F, V, F, V  
-c) V, V, F, F, V  
-d) F, V, V, F, V  
-e) V, V, V, F, V  
+a) F, V, V, V, F
+b) V, V, V, V, V
+c) V, V, F, V, F
+d) V, V, V, F, F
+e) V, V, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
@@ -1146,25 +1146,25 @@ e) V, V, V, F, V
 
 Acerca do TAF IV, analise as assertivas.
 
-I. É direcionado a policiais militares considerados idosos.
+I. Não é permitida a substituição ou repetição de quaisquer exercícios.
 II. É composto por caminhada e exercícios de menor impacto relativo previstos na norma.
-III. A sua execução ocorre em duas etapas obrigatórias com intervalo mínimo de 48 horas.
-IV. Não é permitida a substituição ou repetição de quaisquer exercícios.
+III. É direcionado a policiais militares considerados idosos.
+IV. A sua execução ocorre em duas etapas obrigatórias com intervalo mínimo de 48 horas.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) I e II apenas.  
-c) I e II e IV apenas.  
-d) I e III apenas.  
-e) II e III apenas.  
+a) II e IV apenas.
+b) III e IV apenas.
+c) II e III apenas.
+d) I e IV apenas.
+e) I, II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
-**Comentário:** A assertiva III está incorreta porque o TAF IV ocorre em um único dia.
+**Comentário:** A assertiva IV está incorreta porque o TAF IV ocorre em um único dia.
 
 **Assunto cobrado:** TAF IV.
 
@@ -1179,15 +1179,15 @@ e) II e III apenas.
 Nos procedimentos de aplicação do TAF, a inspeção de saúde:
 
 
-a) é posterior ao TAF e serve apenas para homologar a nota.  
-b) precede a realização do TAF.  
-c) é facultativa para todos os militares.  
-d) somente é exigida para o TAF III.  
-e) é substituída pelo questionário PRÉ-TAF em todos os casos.  
+a) é facultativa para todos os militares.
+b) somente é exigida para o TAF III.
+c) é substituída pelo questionário PRÉ-TAF em todos os casos.
+d) precede a realização do TAF.
+e) é posterior ao TAF e serve apenas para homologar a nota.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** A Portaria estabelece expressamente que a Inspeção de Saúde precederá a realização
                 do TAF.
@@ -1204,25 +1204,25 @@ e) é substituída pelo questionário PRÉ-TAF em todos os casos.
 
 Sobre os procedimentos para aplicação do TAF, julgue os itens.
 
-I. Os locais e horários de aplicação do TAF serão divulgados junto com a convocação.
-II. O TAF deverá ser aplicado preferencialmente na área onde o policial militar exerce suas
+I. O apoio médico é essencial nas situações descritas na norma.
+II. A Banca Examinadora é composta sempre por apenas um avaliador.
+III. O TAF deverá ser aplicado preferencialmente na área onde o policial militar exerce suas
     atividades.
-III. O apoio médico é essencial nas situações descritas na norma.
 IV. A Comissão Examinadora é nomeada pelo Diretor de Ensino, Instrução e Pesquisa.
-V. A Banca Examinadora é composta sempre por apenas um avaliador.
+V. Os locais e horários de aplicação do TAF serão divulgados junto com a convocação.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) F, V, V, V, F  
-c) V, V, F, V, F  
-d) V, F, V, V, F  
-e) V, V, V, V, F  
+a) V, F, V, F, V
+b) V, F, V, V, V
+c) V, F, V, V, F
+d) V, F, F, V, V
+e) F, F, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
 **Comentário:** A banca deve ser composta por no mínimo 3 membros, não por apenas um avaliador.
 
@@ -1238,23 +1238,23 @@ e) V, V, V, V, F
 
 A respeito da Comissão Examinadora do TAF, analise as assertivas.
 
-I. Tem como Presidente o Diretor de Ensino, Instrução e Pesquisa.
-II. Possui como membro permanente o Chefe do DEFD.
+I. Possui como membro permanente o Chefe do DEFD.
+II. Tem como Presidente o Diretor de Ensino, Instrução e Pesquisa.
 III. Pode contar com membros efetivos detentores de cursos/estágios relacionados à Educação Física.
 IV. É nomeada pelo próprio examinado, em requerimento pessoal.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e II e III apenas.  
-c) III e IV apenas.  
-d) I e III apenas.  
-e) I e II apenas.  
+a) III e IV apenas.
+b) I e II apenas.
+c) II e III apenas.
+d) I e III apenas.
+e) I, II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa e.
 
 **Comentário:** A Comissão é nomeada pelo Diretor de Ensino, Instrução e Pesquisa; não pelo
                 examinado.
@@ -1272,15 +1272,15 @@ e) I e II apenas.
 A Banca Examinadora do TAF deve observar a proporção de:
 
 
-a) 1 examinador para no máximo 5 examinados.  
-b) 1 examinador para no máximo 10 examinados.  
-c) 1 examinador para no máximo 15 examinados.  
-d) 1 examinador para no máximo 30 examinados.  
-e) 3 examinadores para cada examinado.  
+a) 1 examinador para no máximo 15 examinados.
+b) 1 examinador para no máximo 5 examinados.
+c) 1 examinador para no máximo 30 examinados.
+d) 1 examinador para no máximo 10 examinados.
+e) 3 examinadores para cada examinado.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa a.
 
 **Comentário:** A Portaria prevê a proporção de 1 examinador para no máximo 15 examinados.
 
@@ -1296,25 +1296,25 @@ e) 3 examinadores para cada examinado.
 
 Sobre a realização do TAF em trajes civis por militares da inteligência, julgue os itens.
 
-I. Depende de conferência pela DINT.
-II. Deve seguir trâmite específico, com requerimento ao DEFD após publicação de chamamento.
+I. Deve seguir trâmite específico, com requerimento ao DEFD após publicação de chamamento.
+II. O TAF em traje civil é permitido a qualquer militar que alegue desconforto com o uniforme.
 III. A DINT analisa se o militar está efetivamente no curso de operação de inteligência.
-IV. O TAF em traje civil é permitido a qualquer militar que alegue desconforto com o uniforme.
+IV. Depende de conferência pela DINT.
 V. Somente o Comando Geral poderá autorizar trajes civis por motivos diversos dos previstos na
    Portaria.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, V  
-b) V, V, F, F, V  
-c) V, V, V, V, V  
-d) F, V, V, F, V  
-e) V, F, V, F, V  
+a) V, V, V, V, V
+b) F, F, V, V, V
+c) V, F, V, V, V
+d) V, F, F, V, V
+e) V, F, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** O uso de trajes civis não é livre; fora da hipótese de inteligência, somente o
                 Comando Geral pode autorizar por motivos diversos.
@@ -1332,15 +1332,15 @@ e) V, F, V, F, V
 O resultado “APTO” do TAF terá validade de:
 
 
-a) 30 dias.  
-b) 60 dias.  
-c) 90 dias.  
-d) 120 dias.  
-e) 180 dias.  
+a) 90 dias.
+b) 180 dias.
+c) 120 dias.
+d) 30 dias.
+e) 60 dias.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
 **Comentário:** O art. 12 estabelece validade de 180 dias para fins de matrícula em cursos
                 obrigatórios de ascensão e cursos não operacionais, observadas as condições de
@@ -1358,25 +1358,25 @@ e) 180 dias.
 
 Sobre a validade do resultado do TAF, julgue os itens.
 
-I. A validade de 180 dias aplica-se ao resultado APTO, nos termos do art. 12.
-II. A validade é exclusiva para TAF I, TAF IV e TAF V.
-III. A validade é vedada para o TAF II.
-IV. A validade independe de qualquer alteração de saúde após a inspeção.
-V. A comprovação de ausência de alteração de saúde ocorre mediante questionário de avaliação
+I. A comprovação de ausência de alteração de saúde ocorre mediante questionário de avaliação
    PRÉ-TAF da PMAL.
+II. A validade independe de qualquer alteração de saúde após a inspeção.
+III. A validade de 180 dias aplica-se ao resultado APTO, nos termos do art. 12.
+IV. A validade é vedada para o TAF II.
+V. A validade é exclusiva para TAF I, TAF IV e TAF V.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, F, V  
-b) V, F, V, F, V  
-c) V, V, V, V, V  
-d) V, V, F, F, V  
-e) V, V, V, F, V  
+a) V, V, V, V, V
+b) V, F, V, V, V
+c) V, F, V, F, V
+d) V, F, F, V, V
+e) V, F, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
 **Comentário:** A validade depende de não haver alteração de saúde desde a inspeção, comprovada
                 pelo questionário PRÉ-TAF.
@@ -1394,22 +1394,22 @@ e) V, V, V, F, V
 A respeito da ata do resultado do TAF, analise as assertivas.
 
 I. Deve ser assinada pelo presidente da comissão e membros da banca examinadora.
-II. Deve ser publicada em BGO.
+II. Deve conter apenas a nota final, sem identificação do examinado.
 III. Deve ser arquivada no DEFD.
-IV. Deve conter apenas a nota final, sem identificação do examinado.
+IV. Deve ser publicada em BGO.
 
 Está correto o que se afirma em:
 
 
-a) I e II e III apenas.  
-b) II e III apenas.  
-c) I e III apenas.  
-d) III e IV apenas.  
-e) I e II apenas.  
+a) I e III apenas.
+b) II e III apenas.
+c) I, III e IV apenas.
+d) III e IV apenas.
+e) I e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** A ata deve conter informações como finalidade, data, posto ou graduação, nome,
                 idade, índices, notas, somatório e conceito.
@@ -1426,25 +1426,25 @@ e) I e II apenas.
 
 Sobre antecipação, adiamento e remarcação do TAF, julgue os itens.
 
-I. Pode ocorrer extraordinariamente em situações relacionadas a quadro de acesso e matrícula em
+I. O requerimento deve ser encaminhado ao Subcomandante Geral.
+II. Pode ocorrer extraordinariamente em situações relacionadas a quadro de acesso e matrícula em
    curso obrigatório de ascensão.
-II. Depende de requerimento do policial militar.
-III. O requerimento deve ser encaminhado ao Subcomandante Geral.
-IV. O requerimento será solucionado em 48 horas.
-V. A remarcação pode interferir livremente no início do curso pretendido.
+III. O requerimento será solucionado em 48 horas.
+IV. A remarcação pode interferir livremente no início do curso pretendido.
+V. Depende de requerimento do policial militar.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) V, F, V, V, F  
-c) F, V, V, V, F  
-d) V, V, F, V, F  
-e) V, V, V, V, F  
+a) V, V, F, F, V
+b) F, V, V, F, V
+c) V, F, V, F, V
+d) V, V, V, F, V
+e) V, V, V, F, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa d.
 
 **Comentário:** A antecipação, o adiamento ou a remarcação não pode interferir nos prazos legais de
                 promoção nem na data de início do curso pretendido.
@@ -1463,15 +1463,15 @@ Para realização de IS e TAF fora do Estado ou do País por PM em missão ofici
 ser apresentado com antecedência mínima de:
 
 
-a) 24 horas.  
-b) 48 horas.  
-c) 5 dias.  
-d) 10 dias.  
-e) 30 dias.  
+a) 30 dias.
+b) 10 dias.
+c) 48 horas.
+d) 24 horas.
+e) 5 dias.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa b.
 
 **Comentário:** O art. 15 exige requerimento com pelo menos 10 dias de antecedência.
 
@@ -1489,22 +1489,22 @@ Sobre a realização de IS e TAF por PM em missão oficial fora do Estado ou do 
 assertivas.
 
 I. Pode ocorrer para fins de promoção.
-II. Pode ocorrer para avaliação física periódica.
-III. Pode ocorrer para matrícula em curso de caráter obrigatório.
-IV. Os exames não precisam ser supervisionados por militares ou policiais militares.
+II. Pode ocorrer para matrícula em curso de caráter obrigatório.
+III. Os exames não precisam ser supervisionados por militares ou policiais militares.
+IV. Pode ocorrer para avaliação física periódica.
 
 Está correto o que se afirma em:
 
 
-a) I e II e III apenas.  
-b) II e III apenas.  
-c) III e IV apenas.  
-d) I e III apenas.  
-e) I e II apenas.  
+a) II e III apenas.
+b) I e II apenas.
+c) II e IV apenas.
+d) I, II e IV apenas.
+e) I e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
 **Comentário:** Os exames devem ser realizados e supervisionados por policiais militares ou
                 militares das Forças Armadas.
@@ -1522,16 +1522,16 @@ e) I e II apenas.
 Quanto ao uniforme para realização do TAF, a Portaria prevê que:
 
 
-a) o TAF será realizado obrigatoriamente com uniforme de Educação Física regulamentar da
-   Corporação.  
-b) qualquer uniforme operacional pode substituir o uniforme de Educação Física.  
-c) o tênis deve ser sempre de cor branca.  
-d) é vedada a utilização de tênis apropriado durante os exercícios.  
-e) o militar pode apresentar-se com uniforme alterado se assinar termo.  
+a) o militar pode apresentar-se com uniforme alterado se assinar termo.
+b) qualquer uniforme operacional pode substituir o uniforme de Educação Física.
+c) é vedada a utilização de tênis apropriado durante os exercícios.
+d) o tênis deve ser sempre de cor branca.
+e) o TAF será realizado obrigatoriamente com uniforme de Educação Física regulamentar da
+   Corporação.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
 **Comentário:** A regra é o uniforme de Educação Física regulamentar, sendo vedado uniforme
                 alterado ou tênis diverso da cor preta, ressalvada a faculdade de tênis apropriado
@@ -1549,24 +1549,24 @@ e) o militar pode apresentar-se com uniforme alterado se assinar termo.
 
 Sobre o TAF em unidades de ensino, julgue os itens.
 
-I. Será utilizado obrigatoriamente como critério de avaliação nos cursos de formação.
-II. A valoração fica condicionada às normas próprias das respectivas OPMs.
-III. Não é permitida a substituição de exercícios.
-IV. É facultativo e sem relevância avaliativa nos cursos de formação.
+I. A valoração fica condicionada às normas próprias das respectivas OPMs.
+II. Será utilizado obrigatoriamente como critério de avaliação nos cursos de formação.
+III. É facultativo e sem relevância avaliativa nos cursos de formação.
+IV. Não é permitida a substituição de exercícios.
 V. Pode substituir todos os demais critérios acadêmicos do curso automaticamente.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, F, F  
-b) V, V, V, V, F  
-c) V, V, V, F, F  
-d) V, V, F, F, F  
-e) V, F, V, F, F  
+a) V, F, F, V, F
+b) V, V, F, F, F
+c) F, V, F, V, F
+d) V, V, F, V, F
+e) V, V, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
 **Comentário:** O TAF nas unidades de ensino é critério obrigatório, mas sua valoração segue normas
                 próprias e não há substituição de exercícios.
@@ -1583,26 +1583,26 @@ e) V, F, V, F, F
 
 Sobre as hipóteses de inaptidão no TAF, analise as assertivas.
 
-I. No TAF I, é inapto quem não atingir 20 pontos ou média aritmética 5,0 no cômputo geral, bem como
-   quem tirar 0,0 em qualquer exercício.
-II. No TAF II, é inapto quem não atingir nota mínima 5,0 nos exercícios executados ou tirar 0,0 em
+I. No TAF II, é inapto quem não atingir nota mínima 5,0 nos exercícios executados ou tirar 0,0 em
     qualquer exercício.
-III. No TAF III, é inapto quem não atingir os índices mínimos exigidos nos exercícios.
+II. No TAF III, é inapto quem não atingir os índices mínimos exigidos nos exercícios.
+III. No TAF I, é inapto quem não atingir 20 pontos ou média aritmética 5,0 no cômputo geral, bem como
+   quem tirar 0,0 em qualquer exercício.
 IV. No TAF V, os índices mínimos exigidos são aqueles especificados no edital dos cursos
     operacionais.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) II e III apenas.  
-c) I e III apenas.  
-d) I, II, III e IV.  
-e) I e II apenas.  
+a) I e II apenas.
+b) I e III apenas.
+c) II e IV apenas.
+d) II e III apenas.
+e) I, II, III e IV.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa e.
 
 **Comentário:** As quatro assertivas refletem as regras de inaptidão previstas nos arts. 18 a 22.
 
@@ -1619,15 +1619,15 @@ e) I e II apenas.
 No TAF I, será considerado inapto o examinado que:
 
 
-a) obtiver 20 pontos e média 5,0, sem nota zero.  
-b) não alcançar nota máxima em todos os exercícios.  
-c) não atingir 20 pontos ou média aritmética 5,0, ou tirar nota 0,0 em qualquer exercício.  
-d) fizer a prova em duas etapas.  
-e) realizar a corrida de 2.000m em ritmo inferior ao da tabela máxima.  
+a) não alcançar nota máxima em todos os exercícios.
+b) não atingir 20 pontos ou média aritmética 5,0, ou tirar nota 0,0 em qualquer exercício.
+c) obtiver 20 pontos e média 5,0, sem nota zero.
+d) realizar a corrida de 2.000m em ritmo inferior ao da tabela máxima.
+e) fizer a prova em duas etapas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa b.
 
 **Comentário:** O critério de inaptidão do TAF I envolve não atingir 20 pontos ou média 5,0, bem
                 como tirar 0,0 em qualquer exercício.
@@ -1644,27 +1644,27 @@ e) realizar a corrida de 2.000m em ritmo inferior ao da tabela máxima.
 
 Sobre as disposições finais da Portaria nº 021/2024, julgue os itens.
 
-I. Tenente-coronel a soldado deverão realizar, no mínimo, 2 TAFs anualmente, um em cada semestre.
-II. Para avaliação física periódica, é exigida aptidão em inspeção de saúde realizada nos últimos
+I. Para avaliação física periódica, é exigida aptidão em inspeção de saúde realizada nos últimos
     12 meses.
-III. Se o militar responder “SIM” a uma ou mais perguntas do questionário PRÉ-TAF, só realizará o
-     TAF após novo resultado de aptidão em inspeção de saúde.
-IV. O militar inapto na inspeção de saúde para submeter-se a teste de esforço físico poderá
+II. Meios fraudulentos ou ajuda de outrem podem eliminar o policial militar do TAF.
+III. O militar inapto na inspeção de saúde para submeter-se a teste de esforço físico poderá
     realizar o TAF por conta e risco.
-V. Meios fraudulentos ou ajuda de outrem podem eliminar o policial militar do TAF.
+IV. Tenente-coronel a soldado deverão realizar, no mínimo, 2 TAFs anualmente, um em cada semestre.
+V. Se o militar responder “SIM” a uma ou mais perguntas do questionário PRÉ-TAF, só realizará o
+     TAF após novo resultado de aptidão em inspeção de saúde.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, V, F, V  
-b) V, V, F, F, V  
-c) F, V, V, F, V  
-d) V, V, V, V, V  
-e) V, V, V, F, V  
+a) V, V, F, F, V
+b) F, V, F, V, V
+c) V, V, F, V, V
+d) V, V, V, V, V
+e) V, V, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa c.
 
 **Comentário:** O inapto em inspeção de saúde para teste de esforço físico não poderá realizar o
                 TAF.
@@ -1683,15 +1683,15 @@ Para avaliação física periódica, caso o militar responda “SIM” a uma ou 
 questionário PRÉ-TAF, ele:
 
 
-a) realizará o TAF normalmente e assinará termo de ciência.  
-b) será dispensado de todos os TAFs do ano.  
-c) será automaticamente considerado inapto definitivo.  
-d) só realizará o TAF após novo resultado de aptidão em inspeção de saúde.  
-e) realizará apenas o TAF V.  
+a) só realizará o TAF após novo resultado de aptidão em inspeção de saúde.
+b) será automaticamente considerado inapto definitivo.
+c) realizará apenas o TAF V.
+d) será dispensado de todos os TAFs do ano.
+e) realizará o TAF normalmente e assinará termo de ciência.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** A resposta positiva no questionário PRÉ-TAF exige novo resultado de aptidão em
                 inspeção de saúde antes do TAF.
@@ -1708,25 +1708,25 @@ e) realizará apenas o TAF V.
 
 Com base na Portaria nº 021/2024, analise as assertivas sobre avaliação física periódica.
 
-I. Para os demais militares, a avaliação física periódica ocorre no primeiro semestre no período de
-   março a junho.
+I. A avaliação periódica dispensa inspeção de saúde nos últimos 12 meses.
 II. No segundo semestre, ocorre no período de setembro a dezembro.
-III. Para fins de promoção, o período do TAF semestral corresponde às datas previstas nas leis de
+III. Para os demais militares, a avaliação física periódica ocorre no primeiro semestre no período de
+   março a junho.
+IV. Para fins de promoção, o período do TAF semestral corresponde às datas previstas nas leis de
      promoção e decretos de regulamentação.
-IV. A avaliação periódica dispensa inspeção de saúde nos últimos 12 meses.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) II e III apenas.  
-c) I e II apenas.  
-d) I e II e III apenas.  
-e) I e III apenas.  
+a) II e III apenas.
+b) II, III e IV apenas.
+c) I e IV apenas.
+d) III e IV apenas.
+e) II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa b.
 
 **Comentário:** A avaliação periódica exige aptidão em inspeção de saúde nos últimos 12 meses e
                 ausência de alteração de saúde.
@@ -1743,22 +1743,22 @@ e) I e III apenas.
 
 Sobre o uso de filmagem e irregularidades no TAF, julgue os itens.
 
-I. Os TAFs poderão ser filmados como meio de avaliação e prova futura, sempre que disponíveis os
-   equipamentos necessários.
-II. O policial que se utilizar de meios fraudulentos pode ser eliminado do TAF.
-III. Obter ajuda de outrem durante o TAF pode acarretar eliminação.
-IV. Atos que prejudiquem a organização ou realização do TAF são irrelevantes para a
+I. Atos que prejudiquem a organização ou realização do TAF são irrelevantes para a
     responsabilização.
+II. Obter ajuda de outrem durante o TAF pode acarretar eliminação.
+III. O policial que se utilizar de meios fraudulentos pode ser eliminado do TAF.
+IV. Os TAFs poderão ser filmados como meio de avaliação e prova futura, sempre que disponíveis os
+   equipamentos necessários.
 V. A eliminação por fraude impede a aplicação de sanções disciplinares.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, F, F  
-b) F, V, V, F, F  
-c) V, V, V, F, F  
-d) V, F, V, F, F  
-e) V, V, V, V, F  
+a) F, F, V, V, F
+b) V, V, V, V, F
+c) F, V, V, V, F
+d) F, V, F, V, F
+e) F, V, V, F, F
 <details>
 <summary>Ver resposta</summary>
 
@@ -1780,16 +1780,16 @@ e) V, V, V, V, F
 O TAF II será realizado, como regra, por mais de uma vez consecutiva para a mesma finalidade?
 
 
-a) Sim, sem qualquer restrição.  
-b) Sim, desde que o militar tenha mais de 31 anos.  
-c) Não, a norma veda mais de uma vez consecutiva para a mesma finalidade, salvo limitação funcional
-   permanente comprovada por junta médica.  
-d) Sim, desde que seja para curso operacional.  
-e) Sim, sempre que houver interesse do militar.  
+a) Não, a norma veda mais de uma vez consecutiva para a mesma finalidade, salvo limitação funcional
+   permanente comprovada por junta médica.
+b) Sim, sem qualquer restrição.
+c) Sim, sempre que houver interesse do militar.
+d) Sim, desde que o militar tenha mais de 31 anos.
+e) Sim, desde que seja para curso operacional.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa a.
 
 **Comentário:** O parágrafo único do art. 2º veda a repetição consecutiva do TAF II para a mesma
                 finalidade, com exceção para limitação funcional permanente comprovada por junta
@@ -1807,24 +1807,24 @@ e) Sim, sempre que houver interesse do militar.
 
 A respeito das diferenças entre TAF III e TAF V, analise as assertivas.
 
-I. O TAF III é utilizado na avaliação física de candidatos a ingresso na Corporação.
-II. O TAF V é utilizado para cursos operacionais específicos.
-III. O TAF III tem composição definida diretamente na Portaria, com 5 exercícios.
-IV. O TAF V tem seus exercícios e índices estabelecidos em edital de abertura dos cursos
+I. O TAF V é utilizado para cursos operacionais específicos.
+II. O TAF III é utilizado na avaliação física de candidatos a ingresso na Corporação.
+III. O TAF V tem seus exercícios e índices estabelecidos em edital de abertura dos cursos
     operacionais.
+IV. O TAF III tem composição definida diretamente na Portaria, com 5 exercícios.
 
 Está correto o que se afirma em:
 
 
-a) I, II, III e IV.  
-b) I e II apenas.  
-c) I e III apenas.  
-d) III e IV apenas.  
-e) II e III apenas.  
+a) III e IV apenas.
+b) II e IV apenas.
+c) I, II, III e IV.
+d) I e II apenas.
+e) I e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** As assertivas diferenciam corretamente o TAF III, previsto de forma específica, do
                 TAF V, que depende do edital do curso operacional.
@@ -1843,11 +1843,11 @@ No protocolo do apoio de frente sobre o solo, a posição inicial feminina no ex
 difere da masculina principalmente porque:
 
 
-a) utiliza apoio com joelhos e pés em contato com o solo, formando 6 apoios.  
-b) exige suspensão em barra fixa.  
-c) elimina a flexão dos cotovelos.  
-d) substitui a flexão por corrida de 50m.  
-e) exige apoio apenas das mãos, sem contato dos pés ou joelhos.  
+a) utiliza apoio com joelhos e pés em contato com o solo, formando 6 apoios.
+b) exige suspensão em barra fixa.
+c) elimina a flexão dos cotovelos.
+d) exige apoio apenas das mãos, sem contato dos pés ou joelhos.
+e) substitui a flexão por corrida de 50m.
 <details>
 <summary>Ver resposta</summary>
 
@@ -1868,22 +1868,22 @@ e) exige apoio apenas das mãos, sem contato dos pés ou joelhos.
 
 Sobre o protocolo da barra fixa e isometria, julgue os itens.
 
-I. Na tração sob a barra fixa, a pegada das mãos pode ser pronada ou supinada.
+I. Na isometria, o cronômetro é iniciado após retirada do auxílio externo.
 II. Na barra fixa, a repetição é contada após o queixo ultrapassar o nível da barra e o retorno à
     posição inicial.
-III. Na isometria, a examinada inicia com linha do queixo acima da barra fixa, com auxílio externo
+III. Na tração sob a barra fixa, é permitido tocar os pés no chão entre as repetições.
+IV. Na tração sob a barra fixa, a pegada das mãos pode ser pronada ou supinada.
+V. Na isometria, a examinada inicia com linha do queixo acima da barra fixa, com auxílio externo
      para posicionamento.
-IV. Na isometria, o cronômetro é iniciado após retirada do auxílio externo.
-V. Na tração sob a barra fixa, é permitido tocar os pés no chão entre as repetições.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, V, F  
-b) V, F, V, V, F  
-c) V, V, V, F, F  
-d) V, V, V, V, F  
-e) V, V, F, V, F  
+a) V, V, F, F, V
+b) V, F, F, V, V
+c) F, V, F, V, V
+d) V, V, F, V, V
+e) V, V, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
@@ -1904,23 +1904,23 @@ e) V, V, F, V, F
 
 Sobre o protocolo da natação previsto na Portaria, analise as assertivas.
 
-I. A distância é de 50m.
-II. O exercício pode iniciar com o examinado dentro ou fora da piscina.
-III. É vedado pisar no fundo após o início do exercício.
-IV. É permitido o uso de touca e óculos próprios para natação.
+I. É permitido o uso de touca e óculos próprios para natação.
+II. A distância é de 50m.
+III. O exercício pode iniciar com o examinado dentro ou fora da piscina.
+IV. É vedado pisar no fundo após o início do exercício.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e III apenas.  
-c) I e II apenas.  
-d) I, II, III e IV.  
-e) III e IV apenas.  
+a) I e IV apenas.
+b) I, II, III e IV.
+c) II e IV apenas.
+d) III e IV apenas.
+e) II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa b.
 
 **Comentário:** Todas as assertivas refletem regras do protocolo de natação.
 
@@ -1937,15 +1937,15 @@ e) III e IV apenas.
 No protocolo da prancha abdominal isométrica, o objetivo central é pontuar:
 
 
-a) o tempo de permanência na posição de prancha.  
-b) o número de corridas em 9,14m.  
-c) a quantidade de trações na barra fixa.  
-d) o tempo de natação em 200m.  
-e) a distância total percorrida em caminhada livre.  
+a) o tempo de natação em 200m.
+b) a quantidade de trações na barra fixa.
+c) a distância total percorrida em caminhada livre.
+d) o tempo de permanência na posição de prancha.
+e) o número de corridas em 9,14m.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
 **Comentário:** A prancha é exercício isométrico e pontua o tempo de permanência na posição.
 
@@ -1961,24 +1961,24 @@ e) a distância total percorrida em caminhada livre.
 
 Sobre o protocolo do sentar e levantar, julgue os itens.
 
-I. É exclusivo para o TAF II e IV.
-II. O objetivo é pontuar a quantidade de repetições de sentar e levantar.
-III. Utiliza cadeira e cronômetro.
+I. Utiliza cadeira e cronômetro.
+II. É exclusivo para o TAF II e IV.
+III. A execução exige braços flexionados atrás da cabeça.
 IV. O examinado inicia sentado em uma cadeira à frente do examinador.
-V. A execução exige braços flexionados atrás da cabeça.
+V. O objetivo é pontuar a quantidade de repetições de sentar e levantar.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) V, F, V, V, F  
-c) V, V, V, V, F  
-d) V, V, F, V, F  
-e) F, V, V, V, F  
+a) V, F, F, V, V
+b) V, V, F, F, V
+c) F, V, F, V, V
+d) V, V, F, V, F
+e) V, V, F, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** O protocolo exige levantar-se e sentar-se com os braços estendidos à frente do
                 corpo, paralelos ao solo.
@@ -1995,27 +1995,27 @@ e) F, V, V, V, F
 
 Sobre a flexão abdominal supra com os pés apoiados no chão, analise as assertivas.
 
-I. A execução ocorre no período de 1 minuto.
-II. Os cotovelos devem tocar os quadríceps na fase de subida.
-III. O repouso entre movimentos é permitido, embora o objetivo seja realizar o maior número
+I. O repouso entre movimentos é permitido, embora o objetivo seja realizar o maior número
      possível em 60 segundos.
-IV. As mãos podem abandonar os ombros livremente durante o movimento.
+II. Os cotovelos devem tocar os quadríceps na fase de subida.
+III. As mãos podem abandonar os ombros livremente durante o movimento.
+IV. A execução ocorre no período de 1 minuto.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) II e III apenas.  
-c) I e II e III apenas.  
-d) I e II apenas.  
-e) I e III apenas.  
+a) I e III apenas.
+b) II e IV apenas.
+c) I e II apenas.
+d) I e IV apenas.
+e) I, II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
-**Comentário:** As mãos devem permanecer na posição prevista durante toda a execução; a alternativa
-                IV contraria o protocolo.
+**Comentário:** As mãos devem permanecer na posição prevista durante toda a execução; a assertiva
+                III contraria o protocolo.
 
 **Assunto cobrado:** Protocolo da flexão abdominal.
 
@@ -2030,15 +2030,15 @@ e) I e III apenas.
 A corrida de ir e vir no protocolo da Portaria é realizada em área demarcada de:
 
 
-a) 5 metros.  
-b) 25 metros.  
-c) 12 metros.  
-d) 9,14 metros.  
-e) 50 metros.  
+a) 9,14 metros.
+b) 25 metros.
+c) 50 metros.
+d) 12 metros.
+e) 5 metros.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** O shuttle run utiliza área demarcada de 9,14m e dois blocos de madeira.
 
@@ -2054,25 +2054,25 @@ e) 50 metros.
 
 No protocolo do shuttle run, julgue os itens.
 
-I. São utilizados dois blocos de madeira.
+I. São previstas duas tentativas.
 II. O examinado deve transportar os blocos entre lados opostos da área demarcada.
-III. O cronômetro é parado quando o segundo bloco é colocado no solo e o examinado ultrapassa a
+III. São utilizados dois blocos de madeira.
+IV. O cronômetro é parado quando o segundo bloco é colocado no solo e o examinado ultrapassa a
      linha final com pelo menos um dos pés.
-IV. O exercício mede somente resistência aeróbica prolongada.
-V. São previstas duas tentativas.
+V. O exercício mede somente resistência aeróbica prolongada.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, V  
-b) V, V, F, F, V  
-c) V, F, V, F, V  
-d) F, V, V, F, V  
-e) V, V, V, F, V  
+a) V, V, F, V, F
+b) V, V, V, V, F
+c) V, V, V, F, F
+d) V, V, V, V, V
+e) V, F, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
 **Comentário:** O shuttle run envolve velocidade, agilidade, coordenação, equilíbrio e resistência
                 anaeróbica, não resistência aeróbica prolongada.
@@ -2090,15 +2090,15 @@ e) V, V, V, F, V
 No TAF I, o policial militar masculino com 31 anos ou mais poderá optar, entre outros, por:
 
 
-a) natação no lugar de todos os exercícios.  
-b) prancha no lugar do shuttle run, sem restrições.  
-c) caminhada no lugar da corrida de 2.000m.  
-d) corrida de 1.800m no lugar da corrida de 2.000m.  
-e) apoio de frente sobre o solo ou tração sob a barra fixa.  
+a) apoio de frente sobre o solo ou tração sob a barra fixa.
+b) corrida de 1.800m no lugar da corrida de 2.000m.
+c) natação no lugar de todos os exercícios.
+d) caminhada no lugar da corrida de 2.000m.
+e) prancha no lugar do shuttle run, sem restrições.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
 **Comentário:** Para o masculino a partir de 31 anos, há opção entre apoio de frente sobre o solo
                 ou tração sob a barra fixa.
@@ -2116,15 +2116,15 @@ e) apoio de frente sobre o solo ou tração sob a barra fixa.
 No TAF I, a policial militar feminina com 31 anos ou mais poderá optar, entre outros, por:
 
 
-a) apoio de frente sobre o solo ou isometria sobre a barra fixa.  
-b) tração sob a barra fixa obrigatória.  
-c) corrida de 2.000m no lugar da corrida de 1.800m.  
-d) natação obrigatória como segunda etapa.  
-e) caminhada como substituta automática do shuttle run.  
+a) corrida de 2.000m no lugar da corrida de 1.800m.
+b) tração sob a barra fixa obrigatória.
+c) natação obrigatória como segunda etapa.
+d) caminhada como substituta automática do shuttle run.
+e) apoio de frente sobre o solo ou isometria sobre a barra fixa.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
 **Comentário:** Para o feminino a partir de 31 anos, há opção entre apoio de frente sobre o solo ou
                 isometria sobre a barra fixa.
@@ -2141,24 +2141,24 @@ e) caminhada como substituta automática do shuttle run.
 
 Sobre o uniforme e o calçado no TAF, analise as assertivas.
 
-I. O TAF será realizado com uniforme de Educação Física Regulamentar da Corporação.
-II. É vedado apresentar-se para o TAF com uniforme alterado.
-III. É vedado apresentar-se com tênis diverso da cor preta, conforme a regra geral.
-IV. Durante os exercícios, é facultada a utilização de tênis apropriados, sem distinção de modelos
+I. Durante os exercícios, é facultada a utilização de tênis apropriados, sem distinção de modelos
     e cores.
+II. É vedado apresentar-se com tênis diverso da cor preta, conforme a regra geral.
+III. É vedado apresentar-se para o TAF com uniforme alterado.
+IV. O TAF será realizado com uniforme de Educação Física Regulamentar da Corporação.
 
 Está correto o que se afirma em:
 
 
-a) I e III apenas.  
-b) I e II apenas.  
-c) II e III apenas.  
-d) III e IV apenas.  
-e) I, II, III e IV.  
+a) III e IV apenas.
+b) I e II apenas.
+c) I, II, III e IV.
+d) II e III apenas.
+e) II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa c.
 
 **Comentário:** As assertivas reproduzem a regra geral e o parágrafo único do art. 16.
 
@@ -2175,15 +2175,15 @@ e) I, II, III e IV.
 Será considerado inapto no TAF IV o policial militar que:
 
 
-a) realizar o TAF em um único dia.  
-b) não fizer natação de 50m.  
-c) não realizar barra fixa.  
-d) optar por apoio de frente.  
-e) não atingir nota mínima 5,0 nos exercícios executados ou tirar nota 0,0 em qualquer exercício.  
+a) optar por apoio de frente.
+b) realizar o TAF em um único dia.
+c) não realizar barra fixa.
+d) não atingir nota mínima 5,0 nos exercícios executados ou tirar nota 0,0 em qualquer exercício.
+e) não fizer natação de 50m.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa d.
 
 **Comentário:** O TAF IV considera inapto quem não atinge nota mínima 5,0 nos exercícios executados
                 ou tira 0,0 em qualquer exercício.
@@ -2205,16 +2205,16 @@ e) não atingir nota mínima 5,0 nos exercícios executados ou tirar nota 0,0 em
 De acordo com o Manual EB70-MC-10.375, a finalidade do manual de campanha é:
 
 
-a) substituir a avaliação médica por avaliação física.  
-b) apresentar a concepção do TFM, padronizar aspectos técnicos e estabelecer procedimentos para
-   planejamento, organização, coordenação, condução e execução do treinamento físico.  
-c) definir exclusivamente tabelas de pontuação para concursos estaduais.  
-d) regulamentar apenas o TAF de ingresso na PMAL.  
-e) limitar o treinamento físico à preparação para provas.  
+a) definir exclusivamente tabelas de pontuação para concursos estaduais.
+b) regulamentar apenas o TAF de ingresso na PMAL.
+c) limitar o treinamento físico à preparação para provas.
+d) apresentar a concepção do TFM, padronizar aspectos técnicos e estabelecer procedimentos para
+   planejamento, organização, coordenação, condução e execução do treinamento físico.
+e) substituir a avaliação médica por avaliação física.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** O item 1.1.1 apresenta a finalidade do manual: concepção, padronização técnica e
                 procedimentos de planejamento, organização, coordenação, condução e execução do TFM.
@@ -2233,26 +2233,26 @@ Sobre as generalidades do TFM no Manual EB70-MC-10.375, julgue os itens.
 
 I. A preparação física do militar deve ser orientada para objetivos e atividades próprias de sua
    função, especialidade, unidade e posto.
-II. A preparação física pode ser adquirida durante sessões de TFM, prática de esportes e atividades
-    de instrução e adestramento.
-III. A preparação física militar deve ser igual para todos, independentemente da função ou
-     especialidade.
-IV. No início do ano de instrução, recrutas e alunos devem receber instruções relativas aos métodos
+II. No início do ano de instrução, recrutas e alunos devem receber instruções relativas aos métodos
     de treinamento previstos no manual.
-V. O TFM aplica-se e é obrigatório a todo militar considerado apto para o serviço ativo.
+III. O TFM aplica-se e é obrigatório a todo militar considerado apto para o serviço ativo.
+IV. A preparação física militar deve ser igual para todos, independentemente da função ou
+     especialidade.
+V. A preparação física pode ser adquirida durante sessões de TFM, prática de esportes e atividades
+    de instrução e adestramento.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, V  
-b) V, V, F, F, V  
-c) V, F, F, V, V  
-d) F, V, F, V, V  
-e) V, V, F, V, V  
+a) V, V, V, F, F
+b) V, V, V, F, V
+c) F, V, V, F, V
+d) V, V, V, V, V
+e) V, F, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
 **Comentário:** A preparação deve observar função, especialidade, unidade e posto; não é uma
                 prescrição indistinta e igual para todos.
@@ -2271,22 +2271,22 @@ Com base nos objetivos do Treinamento Físico Militar, analise as assertivas.
 
 I. Desenvolver, manter ou recuperar a aptidão física necessária ao desempenho das funções
    militares.
-II. Contribuir para a manutenção da saúde do militar.
+II. Contribuir para o desenvolvimento do desporto no Exército Brasileiro.
 III. Cooperar para o desenvolvimento e manutenção de conteúdos atitudinais.
-IV. Contribuir para o desenvolvimento do desporto no Exército Brasileiro.
+IV. Contribuir para a manutenção da saúde do militar.
 
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) II e III apenas.  
-c) I, II, III e IV.  
-d) III e IV apenas.  
-e) I e III apenas.  
+a) I e IV apenas.
+b) III e IV apenas.
+c) II e III apenas.
+d) I e III apenas.
+e) I, II, III e IV.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** Todas as assertivas correspondem aos objetivos expressamente listados no item 1.3
                 do manual.
@@ -2304,15 +2304,15 @@ e) I e III apenas.
 A alternativa que melhor expressa o conceito de aptidão física, segundo o Manual EB70-MC-10.375, é:
 
 
-a) qualquer tarefa de natureza física com gasto energético acima do repouso.  
-b) capacidade de realizar atividades do dia a dia com tranquilidade e menor esforço.  
-c) estado de completo bem-estar físico, mental e social.  
-d) quantidade de vezes que o coração bate por minuto.  
-e) quantidade e intensidade de trabalho físico a que o indivíduo está submetido.  
+a) estado de completo bem-estar físico, mental e social.
+b) qualquer tarefa de natureza física com gasto energético acima do repouso.
+c) quantidade de vezes que o coração bate por minuto.
+d) quantidade e intensidade de trabalho físico a que o indivíduo está submetido.
+e) capacidade de realizar atividades do dia a dia com tranquilidade e menor esforço.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa e.
 
 **Comentário:** Aptidão física é a capacidade de realizar atividades cotidianas com tranquilidade e
                 menor esforço; as demais alternativas definem atividade física, saúde, frequência
@@ -2331,17 +2331,17 @@ e) quantidade e intensidade de trabalho físico a que o indivíduo está submeti
 No Manual EB70-MC-10.375, atividade física é definida como:
 
 
-a) atividade sistematizada com sequência de movimentos para alcançar objetivo ligado à saúde ou
-   estética.  
-b) qualquer tarefa de natureza física cuja execução pressupõe gasto energético superior ao estado
-   de repouso.  
-c) capacidade de superar uma resistência à máxima velocidade.  
-d) conjunto de testes físicos para avaliar o desempenho individual.  
-e) desenvolvimento da aptidão cardiovascular e pulmonar.  
+a) conjunto de testes físicos para avaliar o desempenho individual.
+b) desenvolvimento da aptidão cardiovascular e pulmonar.
+c) atividade sistematizada com sequência de movimentos para alcançar objetivo ligado à saúde ou
+   estética.
+d) qualquer tarefa de natureza física cuja execução pressupõe gasto energético superior ao estado
+   de repouso.
+e) capacidade de superar uma resistência à máxima velocidade.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** Atividade física é qualquer tarefa física com gasto energético acima do repouso;
                 atividade sistematizada é exercício físico.
@@ -2358,10 +2358,10 @@ e) desenvolvimento da aptidão cardiovascular e pulmonar.
 
 Sobre definições básicas do Manual EB70-MC-10.375, julgue os itens.
 
-I. Capacidade física corresponde às qualidades físicas motoras passíveis de treinamento.
-II. Carga é a quantidade, volume e intensidade de trabalho físico a que o indivíduo está submetido.
-III. Condição física é o estado do rendimento físico em que se encontra o indivíduo em um momento
+I. Carga é a quantidade, volume e intensidade de trabalho físico a que o indivíduo está submetido.
+II. Condição física é o estado do rendimento físico em que se encontra o indivíduo em um momento
      concreto.
+III. Capacidade física corresponde às qualidades físicas motoras passíveis de treinamento.
 IV. Atividade física é sinônimo obrigatório de exercício físico sistematizado.
 V. Condicionamento físico está associado à capacidade de suportar atividades cada vez mais
    intensas.
@@ -2369,15 +2369,15 @@ V. Condicionamento físico está associado à capacidade de suportar atividades 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, F, V  
-b) F, V, V, F, V  
-c) V, F, V, F, V  
-d) V, V, V, V, V  
-e) V, V, V, F, V  
+a) F, V, V, F, V
+b) V, V, V, F, V
+c) V, V, F, F, V
+d) V, F, V, F, V
+e) V, V, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
 **Comentário:** Atividade física é conceito amplo; exercício físico é atividade sistematizada com
                 objetivo específico.
@@ -2396,15 +2396,15 @@ A capacidade física que corresponde a todas as qualidades motoras passíveis de
 resistência, força, velocidade, agilidade, equilíbrio, flexibilidade e coordenação, é denominada:
 
 
-a) saúde.  
-b) frequência cardíaca.  
-c) capacidade física.  
-d) teste físico.  
-e) conteúdo atitudinal.  
+a) capacidade física.
+b) frequência cardíaca.
+c) teste físico.
+d) saúde.
+e) conteúdo atitudinal.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa a.
 
 **Comentário:** O item 1.4.3 define capacidade física como o conjunto das qualidades físicas
                 motoras treináveis.
@@ -2422,11 +2422,11 @@ e) conteúdo atitudinal.
 No Manual EB70-MC-10.375, carga é:
 
 
-a) apenas a velocidade de execução do exercício.  
-b) apenas o peso do implemento utilizado.  
-c) a quantidade/volume e intensidade de trabalho físico a que o indivíduo está submetido.  
-d) o nível de bem-estar mental e social.  
-e) o tempo máximo de corrida em prova aeróbica.  
+a) o nível de bem-estar mental e social.
+b) apenas o peso do implemento utilizado.
+c) a quantidade/volume e intensidade de trabalho físico a que o indivíduo está submetido.
+d) apenas a velocidade de execução do exercício.
+e) o tempo máximo de corrida em prova aeróbica.
 <details>
 <summary>Ver resposta</summary>
 
@@ -2446,8 +2446,8 @@ e) o tempo máximo de corrida em prova aeróbica.
 
 Considerando condição física e condicionamento físico, analise as assertivas.
 
-I. Condição física refere-se ao estado do rendimento físico de um indivíduo em um momento concreto.
-II. Condição física pode ser avaliada mediante provas fisiológicas, funcionais ou físicas.
+I. Condição física pode ser avaliada mediante provas fisiológicas, funcionais ou físicas.
+II. Condição física refere-se ao estado do rendimento físico de um indivíduo em um momento concreto.
 III. Condicionamento físico está associado à capacidade de resistir a desafios físicos da rotina,
      ocasionais ou inesperados.
 IV. Condicionamento físico se limita exclusivamente à flexibilidade, sem relação com resistência,
@@ -2456,15 +2456,15 @@ IV. Condicionamento físico se limita exclusivamente à flexibilidade, sem rela�
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) II e III apenas.  
-c) I e II e III apenas.  
-d) I e III apenas.  
-e) III e IV apenas.  
+a) I e III apenas.
+b) II e III apenas.
+c) I e II apenas.
+d) III e IV apenas.
+e) I, II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** Condicionamento físico relaciona-se a resistência aeróbica e anaeróbica, força,
                 velocidade, flexibilidade, potência e agilidade; não se limita à flexibilidade.
@@ -2484,25 +2484,25 @@ Sobre exercício aeróbico e anaeróbico, julgue os itens.
 I. Exercício aeróbico usa o oxigênio oriundo da respiração no processo de geração de energia dos
    músculos.
 II. O exercício aeróbico trabalha grande quantidade de grupos musculares de forma rítmica.
-III. Exercício anaeróbico é esforço de intensidade elevada e curta duração.
-IV. No exercício anaeróbico, há grande produção de ácido láctico e outros subprodutos.
-V. Exercício anaeróbico é sempre de baixa intensidade e longa duração, com predominância exclusiva
+III. No exercício anaeróbico, há grande produção de ácido láctico e outros subprodutos.
+IV. Exercício anaeróbico é sempre de baixa intensidade e longa duração, com predominância exclusiva
    do oxigênio.
+V. Exercício anaeróbico é esforço de intensidade elevada e curta duração.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, V, F  
-b) F, V, V, V, F  
-c) V, F, V, V, F  
-d) V, V, V, V, F  
-e) V, V, V, F, F  
+a) V, V, F, F, V
+b) V, F, V, F, V
+c) V, V, V, F, V
+d) F, V, V, F, V
+e) V, V, V, F, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa c.
 
-**Comentário:** A assertiva V descreve exercício aeróbico de forma genérica, não anaeróbico.
+**Comentário:** A assertiva IV descreve exercício aeróbico de forma genérica, não anaeróbico.
 
 **Assunto cobrado:** Exercício aeróbico e anaeróbico.
 
@@ -2517,16 +2517,16 @@ e) V, V, V, F, F
 O exercício físico, segundo o Manual EB70-MC-10.375, é:
 
 
-a) qualquer tarefa física não planejada com gasto energético acima do repouso.  
-b) atividade sistematizada, com sequência de movimentos para alcançar objetivo geralmente ligado à
-   saúde ou à estética.  
-c) estado de rendimento físico medido apenas por exame laboratorial.  
-d) capacidade de contrair rapidamente os músculos.  
-e) conjunto de provas para classificar o militar em curso operacional.  
+a) capacidade de contrair rapidamente os músculos.
+b) qualquer tarefa física não planejada com gasto energético acima do repouso.
+c) conjunto de provas para classificar o militar em curso operacional.
+d) atividade sistematizada, com sequência de movimentos para alcançar objetivo geralmente ligado à
+   saúde ou à estética.
+e) estado de rendimento físico medido apenas por exame laboratorial.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** O exercício físico é mais específico que atividade física, pois é sistematizado e
                 possui sequência de movimentos para um objetivo.
@@ -2544,16 +2544,16 @@ e) conjunto de provas para classificar o militar em curso operacional.
 Força é definida no Manual como:
 
 
-a) capacidade de resistir à fadiga pelo maior tempo possível.  
-b) capacidade de superar resistência à máxima velocidade.  
-c) capacidade de um músculo ou grupamento muscular contrair-se, superando ou igualando resistências
-   impostas.  
-d) quantidade de vezes que o coração bate por minuto.  
-e) trabalho físico total de uma sessão.  
+a) capacidade de resistir à fadiga pelo maior tempo possível.
+b) capacidade de um músculo ou grupamento muscular contrair-se, superando ou igualando resistências
+   impostas.
+c) capacidade de superar resistência à máxima velocidade.
+d) quantidade de vezes que o coração bate por minuto.
+e) trabalho físico total de uma sessão.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa b.
 
 **Comentário:** A definição de força envolve contração muscular para superar ou igualar
                 resistências; resistência e potência são conceitos distintos.
@@ -2571,15 +2571,15 @@ e) trabalho físico total de uma sessão.
 Frequência cardíaca é:
 
 
-a) a quantidade de vezes que o coração bate por minuto.  
-b) a carga total de treino semanal.  
-c) a velocidade máxima de deslocamento.  
-d) a capacidade de suportar esforço sem fadiga.  
-e) a amplitude do movimento articular.  
+a) a carga total de treino semanal.
+b) a velocidade máxima de deslocamento.
+c) a quantidade de vezes que o coração bate por minuto.
+d) a capacidade de suportar esforço sem fadiga.
+e) a amplitude do movimento articular.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** O manual define frequência cardíaca como a quantidade de batimentos do coração por
                 minuto.
@@ -2596,26 +2596,26 @@ e) a amplitude do movimento articular.
 
 Sobre intensidade, volume e potência, analise as assertivas.
 
-I. Intensidade está ligada à velocidade de execução, peso de implementos, amplitude do movimento e
+I. Intensidade é inversamente relacionada ao volume do treinamento.
+II. Intensidade está ligada à velocidade de execução, peso de implementos, amplitude do movimento e
    tempo da pausa.
-II. Intensidade é inversamente relacionada ao volume do treinamento.
-III. Potência é a capacidade de superar uma resistência à máxima velocidade ou em tempo mínimo.
-IV. Quanto maior a intensidade, maior tende a ser necessariamente o volume do treino.
+III. Quanto maior a intensidade, maior tende a ser necessariamente o volume do treino.
+IV. Potência é a capacidade de superar uma resistência à máxima velocidade ou em tempo mínimo.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e II apenas.  
-c) I e II e III apenas.  
-d) I e III apenas.  
-e) III e IV apenas.  
+a) I, II e IV apenas.
+b) III e IV apenas.
+c) II e IV apenas.
+d) I e IV apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa a.
 
-**Comentário:** A assertiva IV inverte a relação: quanto maior a intensidade, menor tende a ser o
+**Comentário:** A assertiva III inverte a relação: quanto maior a intensidade, menor tende a ser o
                 volume.
 
 **Assunto cobrado:** Intensidade, volume e potência.
@@ -2631,16 +2631,16 @@ e) III e IV apenas.
 A resistência, no Manual EB70-MC-10.375, é a capacidade de:
 
 
-a) superar uma resistência no menor tempo possível.  
-b) contrair rapidamente os músculos diante de estímulos.  
-c) resistir à fadiga, executando pelo maior tempo possível um exercício sem afetar a qualidade do
-   movimento.  
-d) avaliar o desempenho físico por critérios específicos.  
-e) manter os batimentos cardíacos fixos em repouso.  
+a) avaliar o desempenho físico por critérios específicos.
+b) manter os batimentos cardíacos fixos em repouso.
+c) superar uma resistência no menor tempo possível.
+d) contrair rapidamente os músculos diante de estímulos.
+e) resistir à fadiga, executando pelo maior tempo possível um exercício sem afetar a qualidade do
+   movimento.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** A resistência está ligada à capacidade de resistir à fadiga mantendo a qualidade do
                 movimento.
@@ -2658,12 +2658,12 @@ e) manter os batimentos cardíacos fixos em repouso.
 Saúde é definida no Manual como:
 
 
-a) ausência completa de qualquer atividade física.  
+a) prova física usada para avaliar o desempenho do militar.
 b) estado de completo bem-estar físico, mental e social, e não simplesmente ausência de doença ou
-   enfermidade.  
-c) capacidade de realizar uma ação no menor tempo possível.  
-d) prova física usada para avaliar o desempenho do militar.  
-e) quantidade de carga em uma sessão de treino.  
+   enfermidade.
+c) ausência completa de qualquer atividade física.
+d) quantidade de carga em uma sessão de treino.
+e) capacidade de realizar uma ação no menor tempo possível.
 <details>
 <summary>Ver resposta</summary>
 
@@ -2684,26 +2684,26 @@ e) quantidade de carga em uma sessão de treino.
 
 Sobre TAF e teste físico no Manual EB70-MC-10.375, julgue os itens.
 
-I. TAF é o conjunto de testes físicos que avalia o desempenho físico individual do militar segundo
-   diretriz específica.
-II. Teste físico é o conjunto de exercícios ou provas cujos resultados servem para avaliar,
+I. Teste físico é o conjunto de exercícios ou provas cujos resultados servem para avaliar,
     classificar ou determinar aptidão ou condição física.
+II. Teste físico pode ter determinado fim de avaliação, classificação ou determinação de aptidão.
 III. TAF e teste físico são conceitos totalmente desvinculados da avaliação do desempenho físico.
 IV. O TAF deve seguir critérios estabelecidos em diretriz específica.
-V. Teste físico pode ter determinado fim de avaliação, classificação ou determinação de aptidão.
+V. TAF é o conjunto de testes físicos que avalia o desempenho físico individual do militar segundo
+   diretriz específica.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, V, V  
-b) V, V, V, V, V  
-c) V, V, F, F, V  
-d) F, V, F, V, V  
-e) V, F, F, V, V  
+a) V, V, V, V, V
+b) V, V, F, V, F
+c) V, V, F, V, V
+d) V, V, F, F, V
+e) F, V, F, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** TAF e teste físico estão diretamente ligados à avaliação do desempenho, aptidão ou
                 condição física.
@@ -2721,15 +2721,15 @@ e) V, F, F, V, V
 O treinamento da aptidão cardiorrespiratória tem por objetivo:
 
 
-a) apenas aumentar a massa muscular da cintura escapular.  
-b) desenvolver e manter a aptidão dos sistemas cardiovascular e pulmonar.  
-c) substituir todo treinamento muscular.  
-d) avaliar exclusivamente força isométrica.  
-e) limitar-se à execução de prancha abdominal.  
+a) apenas aumentar a massa muscular da cintura escapular.
+b) limitar-se à execução de prancha abdominal.
+c) avaliar exclusivamente força isométrica.
+d) desenvolver e manter a aptidão dos sistemas cardiovascular e pulmonar.
+e) substituir todo treinamento muscular.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** O treinamento cardiorrespiratório é voltado ao desenvolvimento e manutenção da
                 aptidão dos sistemas cardiovascular e pulmonar.
@@ -2747,11 +2747,11 @@ e) limitar-se à execução de prancha abdominal.
 O treinamento da aptidão muscular, segundo o Manual, busca:
 
 
-a) desenvolver força e resistência muscular por meio de exercícios localizados.  
-b) medir apenas a frequência cardíaca de repouso.  
-c) treinar exclusivamente o sistema pulmonar.  
-d) substituir a avaliação médica periódica.  
-e) eliminar a necessidade de aquecimento.  
+a) desenvolver força e resistência muscular por meio de exercícios localizados.
+b) substituir a avaliação médica periódica.
+c) eliminar a necessidade de aquecimento.
+d) treinar exclusivamente o sistema pulmonar.
+e) medir apenas a frequência cardíaca de repouso.
 <details>
 <summary>Ver resposta</summary>
 
@@ -2774,15 +2774,15 @@ e) eliminar a necessidade de aquecimento.
 Velocidade é a qualidade física que permite ao indivíduo:
 
 
-a) manter esforço por longo período sem fadiga.  
-b) superar uma resistência com pausa prolongada.  
-c) realizar uma ação no menor tempo possível.  
-d) medir a quantidade de batimentos por minuto.  
-e) avaliar a condição física por questionário.  
+a) manter esforço por longo período sem fadiga.
+b) medir a quantidade de batimentos por minuto.
+c) avaliar a condição física por questionário.
+d) realizar uma ação no menor tempo possível.
+e) superar uma resistência com pausa prolongada.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
 **Comentário:** A velocidade envolve contrair rapidamente os músculos, reagir a estímulos e
                 movimentar-se em tempo mínimo.
@@ -2801,18 +2801,19 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de a
 corresponde a:
 
 
-a) capacidade de realizar atividades do dia a dia com tranquilidade e menor esforço.  
-b) estado de completo bem-estar físico, mental e social.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) capacidade de suportar desafios físicos da rotina, ocasionais ou inesperados.
+b) estado de completo bem-estar físico, mental e social.
+c) estado do rendimento físico apresentado pelo indivíduo em um momento concreto.
+d) atividade física sistematizada, com sequência de movimentos para alcançar um objetivo.
+e) capacidade de realizar atividades do dia a dia com tranquilidade e menor esforço.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de aptidão física; as demais
-                confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Aptidão física é a capacidade de realizar atividades cotidianas com tranquilidade e
+                menor esforço. As demais alternativas descrevem condicionamento físico, saúde,
+                condição física e exercício físico.
 
 **Assunto cobrado:** Definição de aptidão física.
 
@@ -2828,18 +2829,18 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de a
 corresponde a:
 
 
-a) qualquer tarefa de natureza física com gasto energético superior ao repouso.  
-b) quantidade de vezes que o coração bate por minuto.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) atividade sistematizada, com sequência de movimentos para alcançar um objetivo.
+b) capacidade de realizar atividades do dia a dia com tranquilidade e menor esforço.
+c) qualquer tarefa de natureza física com gasto energético superior ao repouso.
+d) estado do rendimento físico apresentado pelo indivíduo em um momento concreto.
+e) quantidade, volume e intensidade do trabalho físico a que o indivíduo é submetido.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de atividade física; as demais
-                confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Atividade física é o conceito mais amplo: qualquer tarefa física com gasto
+                energético acima do repouso. Exercício físico é uma atividade sistematizada.
 
 **Assunto cobrado:** Definição de atividade física.
 
@@ -2855,18 +2856,18 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de c
 corresponde a:
 
 
-a) qualidades físicas motoras passíveis de treinamento.  
-b) resultado administrativo publicado em boletim geral.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) capacidade de resistir à fadiga sem comprometer a qualidade do movimento.
+b) qualidades físicas motoras passíveis de treinamento.
+c) estado de completo bem-estar físico, mental e social.
+d) capacidade de superar uma resistência à máxima velocidade.
+e) estado momentâneo do rendimento físico do indivíduo.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de capacidade física; as
-                demais confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Capacidade física reúne qualidades motoras treináveis, como força, resistência,
+                velocidade, agilidade, equilíbrio, flexibilidade e coordenação.
 
 **Assunto cobrado:** Definição de capacidade física.
 
@@ -2881,18 +2882,18 @@ e) forma de avaliação exclusiva do TAF V.
 De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de carga corresponde a:
 
 
-a) quantidade/volume e intensidade de trabalho físico.  
-b) prova exclusiva para militares idosos.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) quantidade/volume e intensidade de trabalho físico.
+b) estado do rendimento físico verificado em um momento concreto.
+c) velocidade de execução de um movimento, considerada isoladamente.
+d) quantidade de repetições de uma sessão, sem considerar intensidade.
+e) peso do implemento empregado, sem considerar volume ou duração.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa a.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de carga; as demais confundem
-                com outros conceitos ou com regras administrativas.
+**Comentário:** Carga envolve quantidade ou volume e intensidade do trabalho físico. Reduzi-la a
+                uma única variável torna a definição incompleta.
 
 **Assunto cobrado:** Definição de carga.
 
@@ -2908,18 +2909,18 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de c
 corresponde a:
 
 
-a) estado do rendimento físico de um indivíduo em um momento concreto.  
-b) condição jurídica para promoção na carreira.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) capacidade de suportar atividades cada vez mais intensas.
+b) conjunto das qualidades físicas motoras passíveis de treinamento.
+c) estado do rendimento físico de um indivíduo em um momento concreto.
+d) capacidade de realizar atividades cotidianas com tranquilidade e menor esforço.
+e) atividade planejada e repetitiva destinada à manutenção da aptidão física.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de condição física; as demais
-                confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Condição física expressa o rendimento físico observado em determinado momento. Não
+                se confunde com condicionamento, aptidão, capacidade ou exercício físico.
 
 **Assunto cobrado:** Definição de condição física.
 
@@ -2935,18 +2936,19 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de c
 corresponde a:
 
 
-a) capacidade do corpo de resistir a desafios físicos da rotina, ocasionais ou inesperados.  
-b) estado de completo bem-estar físico, mental e social.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) estado do rendimento físico apresentado em um momento concreto.
+b) capacidade do corpo de resistir a desafios físicos da rotina, ocasionais ou inesperados.
+c) capacidade de executar uma ação no menor tempo possível.
+d) estado de completo bem-estar físico, mental e social.
+e) conjunto das qualidades motoras passíveis de treinamento.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de condicionamento físico; as
-                demais confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Condicionamento físico relaciona-se à capacidade de suportar desafios físicos da
+                rotina. As demais opções descrevem condição física, velocidade, saúde e capacidade
+                física.
 
 **Assunto cobrado:** Definição de condicionamento físico.
 
@@ -2962,18 +2964,18 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de e
 corresponde a:
 
 
-a) exercício que usa oxigênio na geração de energia dos músculos.  
-b) quantidade de vezes que o coração bate por minuto.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) esforço de intensidade elevada e curta duração, com grande produção de subprodutos metabólicos.
+b) atividade sistematizada cujo objetivo é exclusivamente desenvolver força máxima.
+c) esforço em que o ritmo cardíaco não sofre alteração relevante durante a execução.
+d) atividade restrita a movimentos de baixa intensidade e curta duração.
+e) exercício que usa oxigênio na geração de energia dos músculos.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de exercício aeróbico; as
-                demais confundem com outros conceitos ou com regras administrativas.
+**Comentário:** No exercício aeróbico, o oxigênio participa da geração de energia muscular. A
+                alternativa A reúne características mais associadas ao exercício anaeróbico.
 
 **Assunto cobrado:** Definição de exercício aeróbico.
 
@@ -2989,18 +2991,18 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de e
 corresponde a:
 
 
-a) esforço de intensidade elevada e curta duração que consome reservas de oxigênio.  
-b) resultado administrativo publicado em boletim geral.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) esforço prolongado e ritmado, com predominância do uso de oxigênio.
+b) esforço de baixa intensidade cuja recuperação dispensa alteração do ritmo cardíaco.
+c) atividade contínua destinada exclusivamente à resistência aeróbica.
+d) esforço de intensidade elevada e curta duração que consome reservas de oxigênio.
+e) atividade que mobiliza grandes grupos musculares em ritmo constante e prolongado.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de exercício anaeróbico; as
-                demais confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Exercício anaeróbico envolve esforço intenso e de curta duração. As demais opções
+                aproximam-se de características do trabalho aeróbico.
 
 **Assunto cobrado:** Definição de exercício anaeróbico.
 
@@ -3016,18 +3018,18 @@ De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de e
 corresponde a:
 
 
-a) atividade sistematizada com sequência de movimentos para alcançar objetivo.  
-b) prova exclusiva para militares idosos.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) atividade sistematizada com sequência de movimentos para alcançar objetivo.
+b) qualquer tarefa física com gasto energético acima do repouso, ainda que não planejada.
+c) estado de rendimento físico apresentado em um momento concreto.
+d) capacidade de resistir à fadiga mantendo a qualidade do movimento.
+e) quantidade, volume e intensidade do trabalho físico realizado.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa a.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de exercício físico; as demais
-                confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Exercício físico é uma atividade física sistematizada. A alternativa B descreve o
+                conceito mais amplo de atividade física.
 
 **Assunto cobrado:** Definição de exercício físico.
 
@@ -3042,18 +3044,18 @@ e) forma de avaliação exclusiva do TAF V.
 De acordo com as definições básicas do Manual EB70-MC-10.375, o conceito de potência corresponde a:
 
 
-a) capacidade de superar resistência à máxima velocidade ou em tempo mínimo.  
-b) condição jurídica para promoção na carreira.  
-c) exercício obrigatório exclusivamente para candidatos a ingresso.  
-d) procedimento administrativo de remarcação do TAF.  
-e) forma de avaliação exclusiva do TAF V.  
+a) capacidade de resistir à fadiga durante esforço prolongado.
+b) capacidade de realizar uma ação no menor tempo possível, sem resistência externa.
+c) capacidade de um músculo contrair-se, superando ou igualando uma resistência imposta.
+d) capacidade de superar resistência à máxima velocidade ou em tempo mínimo.
+e) quantidade e intensidade do trabalho físico realizado em uma sessão.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
-**Comentário:** A alternativa correta apresenta o núcleo do conceito de potência; as demais
-                confundem com outros conceitos ou com regras administrativas.
+**Comentário:** Potência associa resistência e velocidade ou tempo mínimo. As alternativas
+                descrevem resistência, velocidade, força e carga.
 
 **Assunto cobrado:** Definição de potência.
 
@@ -3067,25 +3069,25 @@ e) forma de avaliação exclusiva do TAF V.
 
 Julgue os itens sobre os conceitos de força, potência, resistência e velocidade.
 
-I. Força é a capacidade de um músculo ou grupamento muscular contrair-se, superando ou igualando
+I. Potência pressupõe superar resistência à máxima velocidade ou em tempo mínimo.
+II. Resistência é a capacidade de resistir à fadiga, mantendo a qualidade do movimento.
+III. Força é a capacidade de um músculo ou grupamento muscular contrair-se, superando ou igualando
    resistências impostas.
-II. Potência pressupõe superar resistência à máxima velocidade ou em tempo mínimo.
-III. Resistência é a capacidade de resistir à fadiga, mantendo a qualidade do movimento.
-IV. Velocidade permite realizar uma ação no menor tempo possível.
-V. Potência e resistência são sinônimos perfeitos no manual.
+IV. Potência e resistência são sinônimos perfeitos no manual.
+V. Velocidade permite realizar uma ação no menor tempo possível.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, F  
-b) F, V, V, V, F  
-c) V, V, V, F, F  
-d) V, F, V, V, F  
-e) V, V, F, V, F  
+a) F, V, V, F, V
+b) V, V, F, F, V
+c) V, V, V, F, F
+d) V, F, V, F, V
+e) V, V, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
 **Comentário:** O manual diferencia os conceitos: potência tem relação com velocidade/tempo mínimo,
                 resistência com fadiga e duração.
@@ -3102,26 +3104,26 @@ e) V, V, F, V, F
 
 Sobre os especialistas em educação física como assessores do comando, analise as assertivas.
 
-I. Devem orientar conhecimentos para determinar qualitativa e quantitativamente os requisitos
+I. Devem propor provas e perfis adequados para avaliação como base para o planejamento do TFM.
+II. Devem impedir a adaptação do treinamento à função, especialidade, unidade e posto.
+III. Devem verificar o nível de aptidão física requerido pelas tarefas realizadas.
+IV. Devem orientar conhecimentos para determinar qualitativa e quantitativamente os requisitos
    físicos necessários para cada objetivo.
-II. Devem verificar o nível de aptidão física requerido pelas tarefas realizadas.
-III. Devem propor provas e perfis adequados para avaliação como base para o planejamento do TFM.
-IV. Devem impedir a adaptação do treinamento à função, especialidade, unidade e posto.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) I e II e III apenas.  
-c) I e II apenas.  
-d) I e III apenas.  
-e) II e III apenas.  
+a) I e III apenas.
+b) I, III e IV apenas.
+c) I e IV apenas.
+d) III e IV apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa b.
 
-**Comentário:** O manual prevê o assessoramento técnico; a assertiva IV contraria a orientação de
+**Comentário:** O manual prevê o assessoramento técnico; a assertiva II contraria a orientação de
                 preparação física segundo função, especialidade, unidade e posto.
 
 **Assunto cobrado:** Assessoria técnica no TFM.
@@ -3136,26 +3138,26 @@ e) II e III apenas.
 
 Sobre a obrigatoriedade e aplicação do TFM, julgue os itens.
 
-I. A preparação física pode ocorrer em programas inseridos em outros planos de instrução e
-   adestramento.
-II. O TFM em campanha pode ser exemplo de preparação física em outros planos.
+I. O TFM em campanha pode ser exemplo de preparação física em outros planos.
+II. O TFM aplica-se a todo militar considerado apto para o serviço ativo.
 III. A preparação física é obrigatória apenas para militares de funções operacionais, sendo
      dispensada para aptos no serviço ativo administrativo.
-IV. O TFM aplica-se a todo militar considerado apto para o serviço ativo.
+IV. A preparação física pode ocorrer em programas inseridos em outros planos de instrução e
+   adestramento.
 V. A prática de esportes também pode integrar a preparação física do militar.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, V, V  
-b) V, V, F, V, V  
-c) V, F, F, V, V  
-d) F, V, F, V, V  
-e) V, V, F, F, V  
+a) V, V, F, F, V
+b) V, V, V, V, V
+c) V, V, F, V, V
+d) V, F, F, V, V
+e) F, V, F, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** O manual ressalta que a preparação física, em particular o TFM, aplica-se e é
                 obrigatória a todo militar apto para o serviço ativo.
@@ -3173,15 +3175,15 @@ e) V, V, F, F, V
 A preparação física do militar deve ser orientada principalmente:
 
 
-a) por critérios aleatórios de preferência individual sem relação com a função.  
-b) pelos objetivos e atividades próprias de sua função, especialidade, unidade e posto.  
-c) apenas por provas de ingresso na carreira.  
-d) exclusivamente por atividades recreativas.  
-e) pelo calendário de competições civis.  
+a) pelos objetivos e atividades próprias de sua função, especialidade, unidade e posto.
+b) por critérios aleatórios de preferência individual sem relação com a função.
+c) exclusivamente por atividades recreativas.
+d) apenas por provas de ingresso na carreira.
+e) pelo calendário de competições civis.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
 **Comentário:** O item 1.2.1 estabelece que a preparação deve considerar função, especialidade,
                 unidade e posto.
@@ -3199,11 +3201,11 @@ e) pelo calendário de competições civis.
 O TFM, segundo seus objetivos no manual, não deve ser entendido apenas como:
 
 
-a) instrumento para desenvolvimento da aptidão física.  
-b) meio de contribuição para a saúde.  
-c) prática voltada a conteúdos atitudinais.  
-d) mecanismo de desenvolvimento do desporto.  
-e) conjunto de métodos para superação de provas em um único dia.  
+a) meio de contribuição para a saúde.
+b) prática voltada a conteúdos atitudinais.
+c) instrumento para desenvolvimento da aptidão física.
+d) mecanismo de desenvolvimento do desporto.
+e) conjunto de métodos para superação de provas em um único dia.
 <details>
 <summary>Ver resposta</summary>
 
@@ -3226,25 +3228,25 @@ Sobre atividade física e exercício físico, analise as assertivas.
 
 I. Atividade física é conceito amplo e inclui qualquer tarefa física com gasto energético acima do
    repouso.
-II. Exercício físico é atividade sistematizada com sequência de movimentos.
-III. Todo exercício físico é uma forma de atividade física, mas nem toda atividade física é
+II. Atividade física e exercício físico têm definições idênticas e intercambiáveis no manual.
+III. Exercício físico é atividade sistematizada com sequência de movimentos.
+IV. Todo exercício físico é uma forma de atividade física, mas nem toda atividade física é
      necessariamente exercício sistematizado.
-IV. Atividade física e exercício físico têm definições idênticas e intercambiáveis no manual.
 
 Está correto o que se afirma em:
 
 
-a) I e III apenas.  
-b) II e III apenas.  
-c) I e II apenas.  
-d) III e IV apenas.  
-e) I e II e III apenas.  
+a) I e IV apenas.
+b) III e IV apenas.
+c) I e III apenas.
+d) I, III e IV apenas.
+e) II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa d.
 
-**Comentário:** A assertiva IV está incorreta: o manual diferencia atividade física de exercício
+**Comentário:** A assertiva II está incorreta: o manual diferencia atividade física de exercício
                 físico.
 
 **Assunto cobrado:** Atividade física x exercício físico.
@@ -3260,25 +3262,25 @@ e) I e II e III apenas.
 Sobre treinamento da aptidão cardiorrespiratória e muscular, julgue os itens.
 
 I. O treinamento da aptidão cardiorrespiratória é planejado, estruturado, repetitivo e controlado.
-II. Seu objetivo é desenvolver e manter a aptidão dos sistemas cardiovascular e pulmonar.
-III. O treinamento da aptidão muscular é atividade de intensidade variada por exercícios
-     localizados.
-IV. O treinamento da aptidão muscular busca desenvolver força e resistência muscular.
-V. O treinamento da aptidão cardiorrespiratória tem por objetivo exclusivo desenvolver força de
+II. O treinamento da aptidão cardiorrespiratória tem por objetivo exclusivo desenvolver força de
    membros superiores.
+III. Seu objetivo é desenvolver e manter a aptidão dos sistemas cardiovascular e pulmonar.
+IV. O treinamento da aptidão muscular busca desenvolver força e resistência muscular.
+V. O treinamento da aptidão muscular é atividade de intensidade variada por exercícios
+     localizados.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, V, V, F  
-b) V, V, V, F, F  
-c) F, V, V, V, F  
-d) V, V, F, V, F  
-e) V, V, V, V, F  
+a) V, F, V, V, V
+b) F, F, V, V, V
+c) V, F, V, F, V
+d) V, F, F, V, V
+e) V, F, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
 **Comentário:** A força de membros superiores é objetivo mais relacionado à aptidão muscular; a
                 aptidão cardiorrespiratória envolve sistemas cardiovascular e pulmonar.
@@ -3296,16 +3298,16 @@ e) V, V, V, V, F
 O conceito de teste físico no Manual EB70-MC-10.375 envolve:
 
 
-a) apenas uma entrevista médica.  
-b) conjunto de exercícios ou provas cujos resultados servem para avaliar, classificar ou determinar
-   aptidão ou condição física.  
-c) exclusivamente corrida de 12 minutos.  
-d) qualquer atividade recreativa sem mensuração.  
-e) somente a publicação administrativa do resultado.  
+a) apenas uma entrevista médica.
+b) qualquer atividade recreativa sem mensuração.
+c) conjunto de exercícios ou provas cujos resultados servem para avaliar, classificar ou determinar
+   aptidão ou condição física.
+d) somente a publicação administrativa do resultado.
+e) exclusivamente corrida de 12 minutos.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** Teste físico envolve exercícios ou provas com resultados usados para avaliação,
                 classificação ou determinação de aptidão/condição física.
@@ -3322,24 +3324,24 @@ e) somente a publicação administrativa do resultado.
 
 Julgue os itens sobre intensidade no treinamento.
 
-I. A intensidade pode relacionar-se à velocidade de execução.
-II. A intensidade pode relacionar-se ao peso de implementos.
-III. A intensidade pode relacionar-se à amplitude do movimento.
-IV. A intensidade pode relacionar-se ao tempo da pausa entre exercícios.
-V. A intensidade é diretamente proporcional ao volume, de modo que ambos sempre aumentam juntos.
+I. A intensidade pode relacionar-se à amplitude do movimento.
+II. A intensidade é diretamente proporcional ao volume, de modo que ambos sempre aumentam juntos.
+III. A intensidade pode relacionar-se à velocidade de execução.
+IV. A intensidade pode relacionar-se ao peso de implementos.
+V. A intensidade pode relacionar-se ao tempo da pausa entre exercícios.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, V, F  
-b) V, V, F, V, F  
-c) V, V, V, V, F  
-d) V, F, V, V, F  
-e) V, V, V, F, F  
+a) V, F, F, V, V
+b) F, F, V, V, V
+c) V, F, V, V, F
+d) V, F, V, F, V
+e) V, F, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** O manual indica relação inversa entre intensidade e volume: quanto maior a
                 intensidade, menor tende a ser o volume.
@@ -3357,25 +3359,26 @@ e) V, V, V, F, F
 Sobre o TAF segundo o Manual, analise as assertivas.
 
 I. É conjunto de testes físicos.
-II. Tem por finalidade avaliar o desempenho físico individual do militar.
+II. É integralmente regulamentado pelo próprio manual, dispensando critérios estabelecidos em
+    diretriz específica.
 III. Segue critérios estabelecidos em diretriz específica.
-IV. É definido no manual como prova exclusiva para seleção de candidatos civis, sem relação com
-    militares.
+IV. Tem por finalidade avaliar o desempenho físico individual do militar.
 
 Está correto o que se afirma em:
 
 
-a) I e III apenas.  
-b) I e II e III apenas.  
-c) I e II apenas.  
-d) II e III apenas.  
-e) III e IV apenas.  
+a) I, III e IV apenas.
+b) III e IV apenas.
+c) I e IV apenas.
+d) I e III apenas.
+e) II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
-**Comentário:** A assertiva IV é incompatível com a definição do Manual.
+**Comentário:** O TAF segue critérios estabelecidos em diretriz específica; o manual não esgota sua
+                regulamentação.
 
 **Assunto cobrado:** Teste de Avaliação Física.
 
@@ -3390,15 +3393,15 @@ e) III e IV apenas.
 A expressão “capacidade física” no Manual inclui, entre outras qualidades:
 
 
-a) resistência, força, velocidade, agilidade, equilíbrio, flexibilidade e coordenação motora.  
-b) apenas equilíbrio e flexibilidade, excluídas força e resistência.  
-c) somente frequência cardíaca e pressão arterial.  
-d) apenas conceitos administrativos do TAF.  
-e) exclusivamente conteúdos atitudinais.  
+a) exclusivamente conteúdos atitudinais.
+b) apenas equilíbrio e flexibilidade, excluídas força e resistência.
+c) somente frequência cardíaca e pressão arterial.
+d) resistência, força, velocidade, agilidade, equilíbrio, flexibilidade e coordenação motora.
+e) apenas conceitos administrativos do TAF.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
 **Comentário:** O manual lista diversas qualidades motoras treináveis, como força, resistência,
                 velocidade, agilidade, equilíbrio, flexibilidade e coordenação.
@@ -3416,24 +3419,24 @@ e) exclusivamente conteúdos atitudinais.
 Sobre a condição física, julgue os itens.
 
 I. É a expressão objetiva da capacidade física de um sujeito.
-II. É suscetível de avaliação mediante provas fisiológicas, funcionais ou físicas.
+II. É imutável e independe do treinamento.
 III. Adquire-se de forma metódica, racional e sistemática por condicionamento adequado ou
      treinamento físico.
-IV. É imutável e independe do treinamento.
-V. Refere-se ao estado do rendimento físico em um momento concreto.
+IV. Refere-se ao estado do rendimento físico em um momento concreto.
+V. É suscetível de avaliação mediante provas fisiológicas, funcionais ou físicas.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, F, V  
-b) V, V, V, F, V  
-c) V, V, F, F, V  
-d) V, V, V, V, V  
-e) V, F, V, F, V  
+a) V, F, V, V, V
+b) V, F, V, V, F
+c) V, V, V, V, V
+d) V, F, F, V, V
+e) F, F, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
 **Comentário:** A condição física pode ser desenvolvida e avaliada; não é imutável.
 
@@ -3449,19 +3452,19 @@ e) V, F, V, F, V
 
 Sobre o condicionamento físico, analise as assertivas.
 
-I. Está associado à capacidade de suportar atividades cada vez mais intensas.
-II. Relaciona-se a fatores de desempenho como resistência aeróbica e anaeróbica.
+I. É sinônimo de repouso absoluto e ausência de estímulo físico.
+II. Está associado à capacidade de suportar atividades cada vez mais intensas.
 III. Relaciona-se também a força, velocidade, flexibilidade, potência e agilidade.
-IV. É sinônimo de repouso absoluto e ausência de estímulo físico.
+IV. Relaciona-se a fatores de desempenho como resistência aeróbica e anaeróbica.
 
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) II e III apenas.  
-c) I e II e III apenas.  
-d) I e III apenas.  
-e) III e IV apenas.  
+a) II e III apenas.
+b) II e IV apenas.
+c) II, III e IV apenas.
+d) I e III apenas.
+e) III e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
@@ -3483,15 +3486,15 @@ e) III e IV apenas.
 No exercício anaeróbico, o ritmo cardíaco tende a:
 
 
-a) não se alterar em nenhuma hipótese.  
-b) diminuir intensamente durante a execução.  
-c) aumentar significativamente e regressar aos níveis de repouso na fase de recuperação.  
-d) permanecer obrigatoriamente abaixo de 60 bpm.  
-e) ser irrelevante para qualquer resposta fisiológica.  
+a) diminuir intensamente durante a execução.
+b) aumentar significativamente e regressar aos níveis de repouso na fase de recuperação.
+c) ser irrelevante para qualquer resposta fisiológica.
+d) permanecer obrigatoriamente abaixo de 60 bpm.
+e) não se alterar em nenhuma hipótese.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa b.
 
 **Comentário:** O manual indica que no exercício anaeróbico o ritmo cardíaco se altera, aumentando
                 significativamente, e tende a retornar na recuperação.
@@ -3508,24 +3511,24 @@ e) ser irrelevante para qualquer resposta fisiológica.
 
 Sobre os objetivos do TFM, julgue os itens.
 
-I. O TFM busca desenvolver aptidão física necessária às funções militares.
+I. O TFM contribui para a manutenção da saúde.
 II. O TFM pode buscar manter a aptidão física.
 III. O TFM pode buscar recuperar a aptidão física.
-IV. O TFM contribui para a manutenção da saúde.
+IV. O TFM busca desenvolver aptidão física necessária às funções militares.
 V. O TFM é incompatível com o desenvolvimento de conteúdos atitudinais.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, V, V, F  
-b) V, V, V, F, F  
-c) V, V, F, V, F  
-d) V, V, V, V, F  
-e) F, V, V, V, F  
+a) F, V, V, V, F
+b) V, V, V, V, F
+c) V, V, F, V, F
+d) V, V, V, F, F
+e) V, F, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa b.
 
 **Comentário:** O TFM coopera para o desenvolvimento e manutenção de conteúdos atitudinais.
 
@@ -3542,15 +3545,15 @@ e) F, V, V, V, F
 O conceito que melhor se relaciona à “quantidade de vezes que o coração bate por minuto” é:
 
 
-a) intensidade.  
-b) frequência cardíaca.  
-c) potência.  
-d) carga.  
-e) capacidade física.  
+a) intensidade.
+b) potência.
+c) carga.
+d) capacidade física.
+e) frequência cardíaca.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa e.
 
 **Comentário:** Frequência cardíaca é o número de batimentos do coração por minuto.
 
@@ -3566,23 +3569,23 @@ e) capacidade física.
 
 Sobre potência e velocidade, analise as assertivas.
 
-I. Potência envolve superar resistência à máxima velocidade ou em tempo mínimo.
-II. Velocidade envolve contrair rapidamente os músculos e reagir diante de estímulos.
-III. Velocidade permite realizar ação no menor tempo possível.
-IV. Potência é definida como ausência de movimento e repouso completo.
+I. Potência é definida como ausência de movimento e repouso completo.
+II. Potência envolve superar resistência à máxima velocidade ou em tempo mínimo.
+III. Velocidade envolve contrair rapidamente os músculos e reagir diante de estímulos.
+IV. Velocidade permite realizar ação no menor tempo possível.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e III apenas.  
-c) III e IV apenas.  
-d) I e II e III apenas.  
-e) I e II apenas.  
+a) II, III e IV apenas.
+b) II e IV apenas.
+c) III e IV apenas.
+d) I e IV apenas.
+e) II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** Potência não é repouso; envolve ação contra resistência com velocidade ou tempo
                 mínimo.
@@ -3601,15 +3604,15 @@ Quando uma questão afirma que exercício aeróbico é esforço de alta intensid
 grande produção de ácido láctico, ela está:
 
 
-a) correta, pois descreve exatamente exercício aeróbico.  
-b) incorreta, pois descreve características do exercício anaeróbico.  
-c) correta, pois aeróbico e anaeróbico são sinônimos.  
-d) incorreta apenas porque cita intensidade elevada, mas correta no restante.  
-e) correta apenas para caminhada.  
+a) correta, pois descreve exatamente exercício aeróbico.
+b) correta, pois aeróbico e anaeróbico são sinônimos.
+c) incorreta, pois descreve características do exercício anaeróbico.
+d) correta apenas para caminhada.
+e) incorreta apenas porque cita intensidade elevada, mas correta no restante.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** Alta intensidade, curta duração e produção de ácido láctico são características do
                 exercício anaeróbico.
@@ -3626,25 +3629,25 @@ e) correta apenas para caminhada.
 
 Sobre o início do ano de instrução, julgue os itens.
 
-I. Recrutas e alunos devem receber instruções relativas aos métodos de treinamento previstos no
-   manual.
+I. O manual menciona essa orientação no contexto das generalidades.
 II. Essa familiarização visa às peculiaridades do TFM.
 III. A familiarização inicial dispensa a aplicação dos princípios do treinamento.
-IV. As instruções iniciais não têm relação com execução segura do TFM.
-V. O manual menciona essa orientação no contexto das generalidades.
+IV. Recrutas e alunos devem receber instruções relativas aos métodos de treinamento previstos no
+   manual.
+V. As instruções iniciais não têm relação com execução segura do TFM.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, V, V  
-b) V, V, F, F, V  
-c) V, F, F, F, V  
-d) V, V, V, F, V  
-e) F, V, F, F, V  
+a) V, V, F, V, V
+b) V, V, F, F, F
+c) V, V, F, V, F
+d) V, F, F, V, F
+e) V, V, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** A familiarização não dispensa princípios nem a segurança; ela contribui para
                 conhecer as peculiaridades do TFM.
@@ -3662,18 +3665,19 @@ e) F, V, F, F, V
 A alternativa que apresenta apenas conceitos definidos no item 1.4 do Manual é:
 
 
-a) Aptidão física, carga, potência, resistência e velocidade.  
-b) Banca examinadora, quadro de acesso, publicação em BGO e requerimento.  
-c) Subcomandante Geral, DINT, DEFD e trajes civis.  
-d) Caminhada, TAF IV, TAF V e Estatuto do Idoso.  
-e) Curso operacional, edital, matrícula e quadro de acesso.  
+a) Aptidão física, carga, intensidade, resistência e S-3.
+b) Condição física, atividade física, QTS, potência e velocidade.
+c) TAF, TIAI, OTFM, carga e saúde.
+d) Aptidão física, carga, potência, resistência e velocidade.
+e) Exercício físico, saúde, comandante de SU, velocidade e carga.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa d.
 
-**Comentário:** A alternativa A reúne definições básicas do manual; as demais pertencem a regras
-                administrativas da Portaria.
+**Comentário:** A alternativa correta reúne apenas definições básicas do item 1.4. As demais
+                misturam conceitos do capítulo com agentes, siglas ou métodos tratados em outros
+                trechos do manual.
 
 **Assunto cobrado:** Definições básicas.
 
@@ -3690,15 +3694,15 @@ e) Curso operacional, edital, matrícula e quadro de acesso.
 Segundo o Capítulo II do Manual EB70-MC-10.375, o treinamento físico de um militar é orientado:
 
 
-a) apenas pela preferência recreativa individual.  
-b) pelos objetivos e atividades próprias de sua atribuição, especialidade e missão da unidade.  
-c) exclusivamente por tabelas civis de musculação estética.  
-d) apenas por provas de concurso de ingresso.  
-e) por sorteio anual de modalidades.  
+a) exclusivamente pela missão da unidade, sem considerar atribuição ou especialidade.
+b) por programa uniforme para todas as OM, independentemente das atividades desempenhadas.
+c) prioritariamente pelo conteúdo do TAF, ainda que não corresponda à atribuição exercida.
+d) apenas pela função e pelo posto, sem considerar especialidade ou missão da unidade.
+e) pelos objetivos e atividades próprias de sua atribuição, especialidade e missão da unidade.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa e.
 
 **Comentário:** O manual vincula o treinamento aos objetivos, atividades, especialidade e missão da
                 unidade.
@@ -3716,26 +3720,28 @@ e) por sorteio anual de modalidades.
 Sobre os benefícios do treinamento físico regular, julgue os itens.
 
 I. Pode favorecer adaptações no sistema cardiovascular.
-II. Pode reduzir a frequência cardíaca para uma atividade de mesmo esforço submáximo.
+II. As adaptações cardiovasculares decorrentes do treinamento tornam desnecessário controlar a
+    progressão das cargas.
 III. Pode melhorar o transporte de oxigênio pela hemoglobina.
-IV. Pode contribuir para aumento da força muscular.
-V. Sempre reduz a aptidão física e aumenta o risco de doenças.
+IV. Seus benefícios limitam-se ao sistema cardiovascular, sem possibilidade de aumento da força
+    muscular.
+V. Pode reduzir a frequência cardíaca para uma atividade de mesmo esforço submáximo.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, V, F  
-b) F, V, V, V, F  
-c) V, V, V, F, F  
-d) V, F, V, V, F  
-e) V, V, V, V, F  
+a) V, F, V, V, F
+b) V, F, V, F, V
+c) F, F, V, F, V
+d) V, F, F, V, V
+e) V, V, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
-**Comentário:** O treinamento regular orientado produz adaptações benéficas; a assertiva V inverte
-                a lógica do manual.
+**Comentário:** O treinamento regular pode produzir adaptações cardiovasculares e musculares, mas
+                elas não dispensam planejamento nem controle da progressão das cargas.
 
 **Assunto cobrado:** Benefícios do TFM para a saúde.
 
@@ -3751,21 +3757,21 @@ Sobre a relação entre estado físico e eficiência profissional, analise as as
 
 I. O militar fisicamente apto estará mais preparado para suportar agentes estressores.
 II. O bom condicionamento físico pode contribuir para a prontidão para o combate.
-III. Militares bem condicionados tendem a recuperar-se melhor de lesões.
-IV. O treinamento físico não possui relação com autoconfiança, motivação ou concentração.
+III. O treinamento físico não possui relação com autoconfiança, motivação ou concentração.
+IV. Militares bem condicionados tendem a recuperar-se melhor de lesões.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e II e III apenas.  
-c) III e IV apenas.  
-d) I e III apenas.  
-e) I e II apenas.  
+a) I, II e IV apenas.
+b) I e IV apenas.
+c) III e IV apenas.
+d) II e IV apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa a.
 
 **Comentário:** O manual relaciona o bom condicionamento também a autoconfiança, motivação,
                 rendimento intelectual e concentração.
@@ -3783,15 +3789,15 @@ e) I e II apenas.
 O foco do treinamento físico da tropa visa atender fundamentalmente:
 
 
-a) à operacionalidade da Força e ao cumprimento de sua missão institucional.  
-b) apenas à estética corporal.  
-c) somente às competições recreativas civis.  
-d) exclusivamente à aprovação em uma prova anual.  
-e) à dispensa do serviço ativo.  
+a) exclusivamente ao aspecto saúde, sem relação com a missão institucional.
+b) à operacionalidade da Força e ao cumprimento de sua missão institucional.
+c) apenas à preparação das funções de combate, dispensando o TFM nas funções administrativas.
+d) à padronização dos movimentos, ainda que sejam ignoradas limitações individuais.
+e) prioritariamente ao rendimento desportivo, ficando a operacionalidade em segundo plano.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
 **Comentário:** O manual afirma que o treinamento físico da tropa visa à operacionalidade da Força
                 e ao cumprimento de sua missão institucional.
@@ -3808,21 +3814,21 @@ e) à dispensa do serviço ativo.
 
 Acerca do foco do TFM, julgue os itens.
 
-I. O TFM busca atender também a interesses individuais relacionados à saúde e bem-estar.
-II. O aspecto operacional é mais presente nas funções de combate.
-III. O aspecto saúde é essencial inclusive para funções administrativas.
-IV. As capacidades e limitações individuais devem ser respeitadas, mesmo em detrimento da
+I. A padronização deve sempre prevalecer sobre qualquer limitação individual.
+II. O aspecto saúde é essencial inclusive para funções administrativas.
+III. As capacidades e limitações individuais devem ser respeitadas, mesmo em detrimento da
     padronização de movimentos.
-V. A padronização deve sempre prevalecer sobre qualquer limitação individual.
+IV. O aspecto operacional é mais presente nas funções de combate.
+V. O TFM busca atender também a interesses individuais relacionados à saúde e bem-estar.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) F, V, V, V, F  
-c) V, V, V, V, F  
-d) V, F, V, V, F  
-e) V, V, F, V, F  
+a) F, V, V, V, F
+b) F, V, V, F, V
+c) F, V, V, V, V
+d) F, V, F, V, V
+e) F, F, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
@@ -3843,23 +3849,23 @@ e) V, V, F, V, F
 
 São conteúdos atitudinais desenvolvidos pelo TFM, conforme o Manual:
 
-I. Camaradagem e cooperação.
-II. Autoconfiança e coragem.
-III. Equilíbrio emocional e resiliência.
-IV. Indisciplina e desagregação.
+I. Autoconfiança e coragem.
+II. Equilíbrio emocional e resiliência.
+III. Indisciplina e desagregação.
+IV. Camaradagem e cooperação.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e III apenas.  
-c) I e II e III apenas.  
-d) III e IV apenas.  
-e) I e II apenas.  
+a) I, II e IV apenas.
+b) II e III apenas.
+c) II e IV apenas.
+d) I e II apenas.
+e) I e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa a.
 
 **Comentário:** O TFM desenvolve conteúdos como sociabilidade, autoconfiança, camaradagem,
                 cooperação, coragem, decisão, dinamismo, equilíbrio emocional, comando, resiliência
@@ -3878,16 +3884,16 @@ e) I e II apenas.
 O princípio da individualidade biológica determina que:
 
 
-a) todos realizem exatamente a mesma carga, independentemente da resposta individual.  
-b) a diferenciação da capacidade física de cada indivíduo seja respeitada para adaptação adequada e
-   prevenção de danos.  
-c) o treino seja interrompido por longos períodos.  
-d) o volume e a intensidade aumentem simultaneamente sem controle.  
-e) o treinamento ignore as diferenças de função militar.  
+a) todos recebam estímulo idêntico, pois respostas diferentes serão compensadas pela continuidade.
+b) apenas sexo e idade sejam considerados, excluindo histórico de treinamento e resposta à carga.
+c) a adaptação individual dispense objetivos comuns relacionados à missão militar.
+d) a diferenciação da capacidade física de cada indivíduo seja respeitada para adaptação adequada e
+   prevenção de danos.
+e) a carga somente seja individualizada depois da ocorrência de lesão ou insuficiência no TAF.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** A individualidade biológica exige respeito às diferenças individuais para obter
                 adaptações e evitar danos à saúde.
@@ -3905,11 +3911,11 @@ e) o treinamento ignore as diferenças de função militar.
 O princípio da adaptação afirma que:
 
 
-a) cargas insuficientes sempre produzem máximo efeito de treinamento.  
-b) o TFM deve estar em faixa de trabalho que provoque efeito de adaptação fisiológica desejado.  
-c) repouso e alimentação não interferem na adaptação.  
-d) todo treinamento deve levar o militar à exaustão precoce.  
-e) a adaptação só ocorre sem estímulo físico.  
+a) cargas exageradas aceleram necessariamente a adaptação, desde que produzam fadiga elevada.
+b) o TFM deve estar em faixa de trabalho que provoque efeito de adaptação fisiológica desejado.
+c) intensidade suficiente elimina a necessidade de repouso e alimentação adequados.
+d) cargas insuficientes podem ser compensadas integralmente pelo aumento da frequência das sessões.
+e) a adaptação depende apenas da troca frequente de método, não da duração ou da intensidade.
 <details>
 <summary>Ver resposta</summary>
 
@@ -3930,27 +3936,30 @@ e) a adaptação só ocorre sem estímulo físico.
 
 Sobre o princípio da sobrecarga, julgue os itens.
 
-I. É a aplicação coerente da carga de TFM.
-II. Pressupõe progressão controlada e metódica.
-III. Após adaptação a uma carga, o próximo esforço deve ser mais intenso ou de maior duração para
-     atingir nova faixa de adaptação.
+I. Pressupõe progressão controlada e metódica.
+II. Exige aumento simultâneo de volume e intensidade na mesma proporção após cada adaptação.
+III. Depois que uma progressão é definida, a resposta individual à carga pode ser desconsiderada
+     sem risco de comprometer a adaptação.
 IV. Caracteriza-se por aumento sistemático e progressivo da carga.
-V. Significa aplicar cargas aleatórias e desproporcionais em todas as sessões.
+V. Após adaptação a uma carga, o próximo esforço deve ser mais intenso ou de maior duração para
+     atingir nova faixa de adaptação.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, V, V, F  
-b) F, V, V, V, F  
-c) V, V, F, V, F  
-d) V, V, V, F, F  
-e) V, V, V, V, F  
+a) V, F, F, V, V
+b) V, V, F, V, V
+c) F, F, F, V, V
+d) V, F, V, F, V
+e) V, F, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
-**Comentário:** Sobrecarga não é aleatoriedade; exige progressão controlada e metódica.
+**Comentário:** Sobrecarga exige progressão controlada e metódica. Volume e intensidade não devem
+                ser elevados simultaneamente de forma automática, e a resposta individual continua
+                relevante.
 
 **Assunto cobrado:** Princípio da sobrecarga.
 
@@ -3964,15 +3973,15 @@ e) V, V, V, V, F
 
 O princípio da continuidade indica que, para os efeitos do TFM serem alcançados, o treinamento:
 
-a) pode ser interrompido indefinidamente sem prejuízo.  
-b) deve ocorrer apenas uma vez ao mês.  
-c) não deve ser interrompido por mais de 48 horas, pois pode haver diminuição do condicionamento.  
-d) é incompatível com regularidade.  
-e) dispensa planejamento anual.  
+a) não admite intervalo superior a 24 horas entre quaisquer sessões, independentemente do método.
+b) depende apenas da intensidade de cada sessão, sem relação com regularidade.
+c) pode sofrer interrupções prolongadas sem perda, desde que a última sessão tenha sido intensa.
+d) não deve ser interrompido por mais de 48 horas, pois pode haver diminuição do condicionamento.
+e) aplica-se apenas ao treinamento cardiorrespiratório, não à aptidão muscular.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
 **Comentário:** O manual indica que a interrupção por mais de 48h já pode levar, na maioria dos
                 casos, a diminuição do condicionamento.
@@ -3989,25 +3998,25 @@ e) dispensa planejamento anual.
 
 Sobre interdependência entre volume e intensidade, analise as assertivas.
 
-I. Volume é quantidade de treino, como distância, número de repetições, duração e séries.
-II. Intensidade é qualidade do treinamento, como peso utilizado, velocidade e tempo.
-III. Volume e intensidade atuam como sobrecarga e devem agir em estreita correlação.
-IV. Quando o volume aumenta significativamente, a intensidade também deve necessariamente aumentar
+I. Intensidade é qualidade do treinamento, como peso utilizado, velocidade e tempo.
+II. Volume e intensidade atuam como sobrecarga e devem agir em estreita correlação.
+III. Quando o volume aumenta significativamente, a intensidade também deve necessariamente aumentar
     no mesmo grau.
+IV. Volume é quantidade de treino, como distância, número de repetições, duração e séries.
 
 Está correto o que se afirma em:
 
-a) I e III apenas.  
-b) III e IV apenas.  
-c) I e II e III apenas.  
-d) II e III apenas.  
-e) I e II apenas.  
+a) II e III apenas.
+b) I, II e IV apenas.
+c) I e II apenas.
+d) II e IV apenas.
+e) I e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa b.
 
-**Comentário:** A assertiva IV está incorreta: se o volume aumenta significativamente, a
+**Comentário:** A assertiva III está incorreta: se o volume aumenta significativamente, a
                 intensidade deve diminuir, e vice-versa.
 
 **Assunto cobrado:** Interdependência entre volume e intensidade.
@@ -4023,15 +4032,15 @@ e) I e II apenas.
 O princípio da especificidade refere-se à:
 
 
-a) necessidade de estímulos similares aos utilizados na atividade-fim.  
-b) variação aleatória de todos os métodos sem objetivo.  
-c) proibição de qualquer adaptação individual.  
-d) interrupção frequente do treinamento.  
-e) substituição da preparação operacional por estética.  
+a) repetição do mesmo método em todas as OM, independentemente da atividade desempenhada.
+b) exclusão da variabilidade, pois mudar o estímulo sempre prejudica a atividade-fim.
+c) necessidade de estímulos similares aos utilizados na atividade-fim.
+d) aplicação de cargas idênticas para toda a tropa, ainda que as funções sejam distintas.
+e) priorização da estética corporal como indicador da preparação operacional.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** Especificidade exige estímulos semelhantes às exigências da atividade-fim.
 
@@ -4047,25 +4056,25 @@ e) substituição da preparação operacional por estética.
 
 Sobre a variabilidade no TFM, julgue os itens.
 
-I. A diversificação de formas e modalidades pode favorecer motivação e empenho.
+I. A variação deve respeitar continuidade e sobrecarga.
 II. Métodos diferentes podem ser empregados para qualidades físicas semelhantes.
-III. A variação deve respeitar continuidade e sobrecarga.
-IV. A variabilidade autoriza trocar qualquer método por outro de qualidade física distinta sem
-    considerar objetivos.
-V. Corrida contínua, como método cardiopulmonar, não deve ser substituída por método utilitário
+III. Corrida contínua, como método cardiopulmonar, não deve ser substituída por método utilitário
    como toros para desenvolver a mesma qualidade sem critério.
+IV. A diversificação de formas e modalidades pode favorecer motivação e empenho.
+V. A variabilidade autoriza trocar qualquer método por outro de qualidade física distinta sem
+    considerar objetivos.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) V, V, F, F, V  
-b) V, V, V, V, V  
-c) V, V, V, F, V  
-d) V, F, V, F, V  
-e) F, V, V, F, V  
+a) V, V, V, V, V
+b) F, V, V, V, F
+c) V, V, V, F, F
+d) V, V, V, V, F
+e) V, F, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
 **Comentário:** A variabilidade é importante, mas deve respeitar os princípios da continuidade e
                 sobrecarga e a qualidade física visada.
@@ -4082,25 +4091,25 @@ e) F, V, V, F, V
 
 Sobre os princípios do TFM, analise as assertivas.
 
-I. Individualidade biológica respeita as diferenças individuais.
-II. Adaptação exige estímulo em faixa adequada e repouso suficiente.
-III. Sobrecarga pressupõe progressão controlada da carga.
-IV. Continuidade autoriza longas interrupções sem perda de condicionamento.
+I. Sobrecarga pressupõe progressão controlada da carga.
+II. Continuidade autoriza longas interrupções sem perda de condicionamento.
+III. Individualidade biológica respeita as diferenças individuais.
+IV. Adaptação exige estímulo em faixa adequada e repouso suficiente.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e III apenas.  
-c) I e II e III apenas.  
-d) I e II apenas.  
-e) III e IV apenas.  
+a) I e II apenas.
+b) III e IV apenas.
+c) I e III apenas.
+d) I e IV apenas.
+e) I, III e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
-**Comentário:** A assertiva IV contraria o princípio da continuidade.
+**Comentário:** A assertiva II contraria o princípio da continuidade.
 
 **Assunto cobrado:** Princípios do TFM.
 
@@ -4115,15 +4124,15 @@ e) III e IV apenas.
 A importância do TFM para as áreas afetiva e cognitiva relaciona-se, entre outros aspectos:
 
 
-a) à necessidade de manter a tropa instruída sobre os benefícios do TFM.  
-b) à eliminação do papel do comandante na motivação.  
-c) à obrigatoriedade de sessões sempre monótonas.  
-d) à proibição de instrutores preparados.  
-e) à dispensa de avaliações bem feitas.  
+a) à utilização exclusiva da nota do TAF como estímulo para a tropa.
+b) à transferência integral da motivação para o executante, sem ação do comando.
+c) à necessidade de manter a tropa instruída sobre os benefícios do TFM.
+d) à repetição de sessões idênticas, evitando qualquer variação que possa aumentar o interesse.
+e) à ideia de que a obrigatoriedade do TFM torna dispensáveis estímulos positivos.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
 **Comentário:** O manual enfatiza que o comandante deve manter a tropa instruída sobre os
                 benefícios do TFM; sessões atrativas e instrutores preparados favorecem motivação.
@@ -4140,27 +4149,29 @@ e) à dispensa de avaliações bem feitas.
 
 Sobre prevenção de lesões no TFM, julgue os itens.
 
-I. O TFM exige atenção e cuidado do militar, do OTFM, do médico e do comandante da OM.
-II. Lesões decorrentes do exercício físico afetam bem-estar físico, psíquico e social.
-III. A perda de continuidade leva à diminuição da condição física geral.
+I. Lesões decorrentes do exercício físico afetam bem-estar físico, psíquico e social.
+II. O TFM exige atenção e cuidado do militar, do OTFM, do médico e do comandante da OM.
+III. A perda de continuidade afeta apenas a aptidão cardiorrespiratória, sem diminuir a condição
+     física geral.
 IV. A prática regular do TFM pode constituir prevenção primária e reduzir riscos associados.
-V. O principal responsável pelas ações preventivas é apenas o aluno executante, sem participação do
-   comando.
+V. O principal responsável pelas ações preventivas é exclusivamente o OTFM, não o comandante da
+   OM.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) F, V, V, V, F  
-b) V, V, F, V, F  
-c) V, V, V, V, F  
-d) V, V, V, F, F  
-e) V, F, V, V, F  
+a) F, V, F, V, F
+b) V, F, F, V, F
+c) V, V, V, V, F
+d) V, V, F, V, F
+e) V, V, F, F, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
-**Comentário:** O comandante da OM, assessorado pelo OTFM e pelo médico, é apontado como principal
-                responsável pelas ações preventivas.
+**Comentário:** A perda de continuidade diminui a condição física geral. O comandante da OM,
+                assessorado pelo OTFM e pelo médico, é o principal responsável pelas ações
+                preventivas.
 
 **Assunto cobrado:** Prevenção de lesões.
 
@@ -4175,15 +4186,15 @@ e) V, F, V, V, F
 A alimentação saudável, segundo o Manual, deve basear-se nos princípios de:
 
 
-a) equilíbrio, variedade e balanceamento das refeições.  
-b) jejum prolongado obrigatório e eliminação total de carboidratos.  
-c) uso contínuo de suplementos como substitutos alimentares.  
-d) consumo de álcool no período pós-exercício.  
-e) dieta única para todos, sem considerar peso, metabolismo ou atividade física.  
+a) priorização de suplementos, pois refeições equilibradas não atendem às exigências do TFM.
+b) eliminação de carboidratos para qualquer praticante que deseje controlar o peso corporal.
+c) dieta padronizada para toda a tropa, independentemente de metabolismo e atividade física.
+d) balanceamento das refeições com eliminação de variedade para facilitar o controle calórico.
+e) equilíbrio, variedade e balanceamento das refeições.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
 **Comentário:** A alimentação deve considerar equilíbrio, variedade e balanceamento, compatíveis
                 com características individuais.
@@ -4200,25 +4211,25 @@ e) dieta única para todos, sem considerar peso, metabolismo ou atividade físic
 
 Sobre carboidratos, lipídios e proteínas no exercício físico, analise as assertivas.
 
-I. Carboidratos são importante fonte de energia para corpo, cérebro, sistema nervoso central e
-   trabalho muscular.
+I. Lipídios também têm funções importantes e auxiliam no transporte de vitaminas lipossolúveis.
 II. Proteínas possuem função construtora e auxiliam na recuperação do organismo.
-III. Lipídios também têm funções importantes e auxiliam no transporte de vitaminas lipossolúveis.
+III. Carboidratos são importante fonte de energia para corpo, cérebro, sistema nervoso central e
+   trabalho muscular.
 IV. A recomendação geral do manual é eliminar drasticamente carboidratos sem orientação
     profissional.
 
 Está correto o que se afirma em:
 
 
-a) I e III apenas.  
-b) III e IV apenas.  
-c) II e III apenas.  
-d) I e II e III apenas.  
-e) I e II apenas.  
+a) I e IV apenas.
+b) I e III apenas.
+c) I, II e III apenas.
+d) II e III apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa c.
 
 **Comentário:** O manual alerta que carboidratos não devem ser reduzidos drasticamente por
                 praticantes de atividade física sem orientação profissional.
@@ -4235,28 +4246,30 @@ e) I e II apenas.
 
 Sobre suplementação e álcool, julgue os itens.
 
-I. O uso de suplementos deve ocorrer apenas em situações bem definidas e com orientação
+I. Suplementos são mais efetivos quando associados a alimentação adequada e saudável.
+II. Suplementos substituem, como regra, treinamento planejado e regular.
+III. O álcool deve ser evitado apenas antes do exercício, pois não interfere na recuperação
+     pós-treino.
+IV. O uso de suplementos deve ocorrer apenas em situações bem definidas e com orientação
    profissional.
-II. Suplementos são mais efetivos quando associados a alimentação adequada e saudável.
-III. Suplementos substituem, como regra, treinamento planejado e regular.
-IV. O álcool pode prejudicar termorregulação, concentração, metabolismo da glicose e recuperação.
-V. O consumo de álcool deve ser evitado principalmente no período pós-exercício.
+V. O álcool pode prejudicar termorregulação, concentração, metabolismo da glicose e recuperação.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, F, V  
-b) V, F, F, V, V  
-c) V, V, V, V, V  
-d) F, V, F, V, V  
-e) V, V, F, V, V  
+a) V, F, F, V, V
+b) F, F, F, V, V
+c) V, F, F, V, F
+d) V, V, F, V, V
+e) V, F, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
-**Comentário:** Suplemento não substitui alimentação adequada, treinamento planejado, experiência
-                esportiva e plano nutricional apropriado.
+**Comentário:** Suplemento não substitui alimentação adequada ou treinamento planejado. O álcool
+                também prejudica recuperação, termorregulação, concentração e metabolismo da
+                glicose.
 
 **Assunto cobrado:** Suplementação e álcool.
 
@@ -4271,15 +4284,15 @@ e) V, V, F, V, V
 Antes do treino, o Manual orienta a ingestão de alimentos:
 
 
-a) ricos em carboidratos, com baixo teor de gordura, baixo teor de fibras e proteína moderada.  
-b) ricos em gordura e fibras em grande quantidade imediatamente antes do exercício.  
-c) exclusivamente proteicos, sem qualquer carboidrato.  
-d) compostos apenas por álcool em pequena dose.  
-e) desconhecidos pelo indivíduo, especialmente antes de prova ou teste.  
+a) ricos em fibras e gorduras imediatamente antes da sessão, para prolongar a digestão.
+b) ricos em carboidratos, com baixo teor de gordura, baixo teor de fibras e proteína moderada.
+c) ainda não experimentados pelo militar, especialmente antes de prova ou teste.
+d) sem proteínas e sem carboidratos, para reduzir desconfortos gastrointestinais.
+e) exclusivamente líquidos e açucarados, ainda que a sessão seja de baixa intensidade.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
 **Comentário:** A orientação pré-treino busca evitar desconfortos gastrointestinais e favorecer
                 disponibilidade energética.
@@ -4296,27 +4309,29 @@ e) desconhecidos pelo indivíduo, especialmente antes de prova ou teste.
 
 Sobre o treinamento físico para o sexo feminino, julgue os itens.
 
-I. Em situação normal, o sexo feminino realiza todas as sessões previstas no manual.
-II. Podem existir adaptações para diferenças anátomo-fisiológicas.
-III. O princípio da individualidade biológica contribui para respeitar essas diferenças.
-IV. O ciclo menstrual pode influenciar desempenho e risco de lesões.
-V. O manual determina a exclusão total do sexo feminino de todas as sessões de TFM.
+I. O princípio da individualidade biológica contribui para respeitar essas diferenças.
+II. O ciclo menstrual não produz qualquer possível influência sobre desempenho ou risco de lesões.
+III. Podem existir adaptações para diferenças anátomo-fisiológicas.
+IV. Como o sexo feminino realiza as sessões previstas em situação normal, adaptações relacionadas
+    a diferenças anátomo-fisiológicas são desnecessárias.
+V. Em situação normal, o sexo feminino realiza todas as sessões previstas no manual.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) V, F, V, V, F  
-c) V, V, F, V, F  
-d) V, V, V, V, F  
-e) F, V, V, V, F  
+a) V, F, F, F, V
+b) V, V, V, F, F
+c) V, V, V, F, V
+d) F, F, V, F, V
+e) V, F, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa e.
 
 **Comentário:** O manual prevê participação feminina nas sessões, com adaptações e respeito às
-                diferenças individuais.
+                diferenças individuais. O ciclo menstrual pode influenciar desempenho e risco de
+                lesões.
 
 **Assunto cobrado:** TFM para o sexo feminino.
 
@@ -4330,25 +4345,25 @@ e) F, V, V, V, F
 
 Sobre situações especiais do TFM em campanha, analise as assertivas.
 
-I. A realização do TFM em campanha é decidida pelo comandante.
-II. O comandante deve ser assessorado pelo OTFM.
-III. Devem ser considerados fatores como carga de trabalho físico na instrução e tempo disponível
+I. Devem ser considerados fatores como carga de trabalho físico na instrução e tempo disponível
      para repouso.
-IV. O TFM em campanha é sempre obrigatório e idêntico ao da rotina, sem considerar desgaste da
+II. O TFM em campanha é sempre obrigatório e idêntico ao da rotina, sem considerar desgaste da
     instrução.
+III. A realização do TFM em campanha é decidida pelo comandante.
+IV. O comandante deve ser assessorado pelo OTFM.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) II e III apenas.  
-c) I e III apenas.  
-d) I e II e III apenas.  
-e) I e II apenas.  
+a) I, III e IV apenas.
+b) I e IV apenas.
+c) III e IV apenas.
+d) I e II apenas.
+e) I e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** Em campanha, a decisão considera contexto, carga de trabalho e repouso; não é
                 aplicação cega e idêntica em todos os casos.
@@ -4366,15 +4381,15 @@ e) I e II apenas.
 A rabdomiólise, no contexto do Manual, tem como uma das causas mais frequentes:
 
 
-a) leitura de regulamento sem esforço físico.  
-b) exercício físico intenso aplicado sem os princípios fundamentais do treinamento.  
-c) ausência absoluta de contração muscular em repouso.  
-d) consumo adequado de água e treinamento progressivo.  
-e) aquecimento leve e orientação técnica correta.  
+a) treinamento progressivo, ainda que acompanhado de hidratação adequada.
+b) atividade moderada com recuperação suficiente entre as sessões.
+c) exercício físico intenso aplicado sem os princípios fundamentais do treinamento.
+d) interrupção do esforço diante de sinais de dor muscular intensa.
+e) retorno gradual ao treinamento depois de período de inatividade.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa c.
 
 **Comentário:** O manual destaca exercício físico intenso, compressão traumática e determinados
                 fármacos/drogas entre causas frequentes.
@@ -4391,25 +4406,26 @@ e) aquecimento leve e orientação técnica correta.
 
 Sobre rabdomiólise, julgue os itens.
 
-I. Pode estar relacionada à atividade muscular excessiva.
-II. Pode relacionar-se a alterações da temperatura corporal.
-III. O exercício físico intenso é destacado entre causas frequentes.
-IV. A tríade clássica envolve dores musculares, fraqueza generalizada e urina escura.
-V. A urina escura nunca possui relação com mioglobina.
+I. A tríade clássica envolve dores musculares, fraqueza generalizada e urina escura.
+II. A urina escura nunca possui relação com mioglobina.
+III. Pode estar relacionada à atividade muscular excessiva.
+IV. O exercício físico intenso é destacado entre causas frequentes.
+V. Não possui relação possível com alterações da temperatura corporal.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) V, V, V, F, F  
-b) V, V, F, V, F  
-c) F, V, V, V, F  
-d) V, V, V, V, F  
-e) V, F, V, V, F  
+a) V, F, V, F, F
+b) V, F, V, V, F
+c) V, F, V, F, V
+d) V, F, F, V, F
+e) F, F, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa b.
 
-**Comentário:** O manual associa a urina escura castanho-avermelhada à presença de mioglobina.
+**Comentário:** O manual associa a urina escura castanho-avermelhada à presença de mioglobina e
+                também relaciona rabdomiólise a alterações da temperatura corporal.
 
 **Assunto cobrado:** Rabdomiólise.
 
@@ -4423,25 +4439,25 @@ e) V, F, V, V, F
 
 Sobre substâncias tóxicas e rabdomiólise, analise as assertivas.
 
-I. O álcool é apontado como fator de risco de rabdomiólise.
-II. Estimulantes do sistema nervoso central, como anfetaminas, podem conduzir a quadro de
-    rabdomiólise.
-III. Esteroides anabolizantes são mencionados como substâncias associadas a patologias e aumento de
+I. Esteroides anabolizantes são mencionados como substâncias associadas a patologias e aumento de
      risco quando acompanhados de exercício.
-IV. Substâncias tóxicas não têm qualquer relação com riscos ao treinamento físico.
+II. O álcool é apontado como fator de risco de rabdomiólise.
+III. Substâncias tóxicas não têm qualquer relação com riscos ao treinamento físico.
+IV. Estimulantes do sistema nervoso central, como anfetaminas, podem conduzir a quadro de
+    rabdomiólise.
 
 Está correto o que se afirma em:
 
 
-a) I e III apenas.  
-b) III e IV apenas.  
-c) II e III apenas.  
-d) I e II e III apenas.  
-e) I e II apenas.  
+a) II e IV apenas.
+b) I, II e IV apenas.
+c) I e III apenas.
+d) I e IV apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa b.
 
 **Comentário:** O manual relaciona álcool, estimulantes e anabolizantes a riscos, inclusive
                 rabdomiólise.
@@ -4459,15 +4475,15 @@ e) I e II apenas.
 A perda de continuidade na prática do TFM pode levar a:
 
 
-a) aumento automático e ilimitado de condicionamento.  
-b) diminuição da condição física geral e maior vulnerabilidade a lesões.  
-c) dispensa permanente de treinamento.  
-d) eliminação de todo risco de lesão.  
-e) melhoria de desempenho sem estímulo.  
+a) manutenção integral das adaptações, desde que o TAF anterior tenha resultado suficiente.
+b) melhora espontânea do desempenho por supercompensação, mesmo sem novo estímulo.
+c) redução apenas da aptidão cardiorrespiratória, sem repercussão sobre risco de lesões.
+d) aumento da tolerância à carga quando o retorno ocorre sem progressão gradual.
+e) diminuição da condição física geral e maior vulnerabilidade a lesões.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa e.
 
 **Comentário:** O manual relaciona destreinamento à diminuição da condição física geral e maior
                 vulnerabilidade a lesões.
@@ -4484,24 +4500,24 @@ e) melhoria de desempenho sem estímulo.
 
 Sobre os conteúdos atitudinais citados no Manual, julgue os itens.
 
-I. Sociabilidade é conteúdo atitudinal.
-II. Decisão é conteúdo atitudinal.
-III. Dinamismo é conteúdo atitudinal.
-IV. Tolerância é conteúdo atitudinal.
-V. Desmotivação e indisciplina são listadas como conteúdos desejáveis.
+I. Desmotivação e indisciplina são listadas como conteúdos desejáveis.
+II. Sociabilidade é conteúdo atitudinal.
+III. Dinamismo não integra os conteúdos atitudinais desenvolvidos pelo TFM.
+IV. Decisão é conteúdo atitudinal.
+V. Tolerância é conteúdo atitudinal.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) V, V, V, V, F  
-c) V, V, F, V, F  
-d) F, V, V, V, F  
-e) V, F, V, V, F  
+a) F, V, V, V, F
+b) F, F, F, V, V
+c) F, V, V, F, V
+d) F, V, F, V, V
+e) F, V, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
 **Comentário:** O manual lista conteúdos positivos como sociabilidade, decisão, dinamismo e
                 tolerância; não desmotivação ou indisciplina.
@@ -4519,23 +4535,23 @@ e) V, F, V, V, F
 Sobre a relação entre TFM, saúde e eficiência, analise as assertivas.
 
 I. A atividade física está relacionada com saúde mental positiva e bom humor.
-II. O treinamento físico regular pode auxiliar no combate a doenças crônicas não transmissíveis.
+II. O treinamento físico regular não produz qualquer adaptação orgânica.
 III. Indivíduos bem condicionados são mais resistentes a doenças e recuperam-se mais rapidamente de
      lesões.
-IV. O treinamento físico regular não produz qualquer adaptação orgânica.
+IV. O treinamento físico regular pode auxiliar no combate a doenças crônicas não transmissíveis.
 
 Está correto o que se afirma em:
 
 
-a) I e II apenas.  
-b) III e IV apenas.  
-c) I e III apenas.  
-d) II e III apenas.  
-e) I e II e III apenas.  
+a) III e IV apenas.
+b) I, III e IV apenas.
+c) I e IV apenas.
+d) I e III apenas.
+e) II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
 **Comentário:** O manual descreve adaptações orgânicas e benefícios de saúde decorrentes do
                 treinamento regular.
@@ -4553,15 +4569,15 @@ e) I e II e III apenas.
 A correta aplicação do princípio da adaptação exige, além da carga adequada:
 
 
-a) ausência de planejamento.  
-b) eliminação completa do descanso.  
-c) excesso de carga em todas as sessões.  
-d) treinamento sempre até a exaustão.  
-e) tempo suficiente de repouso e alimentação conveniente.  
+a) aumento simultâneo de volume e intensidade em todas as sessões.
+b) eliminação dos intervalos entre sessões para preservar continuidade.
+c) tempo suficiente de repouso e alimentação conveniente.
+d) repetição da mesma carga mesmo depois da adaptação fisiológica.
+e) prioridade da intensidade sobre duração, repouso e alimentação.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa c.
 
 **Comentário:** Para que haja adaptação, o manual destaca repouso suficiente entre sessões e
                 alimentação conveniente.
@@ -4579,27 +4595,28 @@ e) tempo suficiente de repouso e alimentação conveniente.
 Sobre distúrbios térmicos e aspectos climáticos, julgue os itens.
 
 I. Aspectos climáticos são tratados pelo Manual como relevantes para o TFM.
-II. Calor e umidade podem agravar riscos em exercícios intensos.
-III. A rabdomiólise pode ser favorecida por exercício intenso em condições extremas de calor e
+II. A rabdomiólise pode ser favorecida por exercício intenso em condições extremas de calor e
      umidade.
-IV. A hidratação e o controle da carga são irrelevantes em clima quente.
-V. Condições ambientais devem ser consideradas na condução segura do TFM.
+III. Condições ambientais devem ser consideradas na condução segura do TFM.
+IV. A aclimatação autoriza desconsiderar hidratação e controle da carga em clima quente.
+V. Calor e umidade afetam apenas o conforto durante o exercício, sem agravar riscos em esforços
+   intensos.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, F, V  
-b) V, F, V, F, V  
-c) V, V, V, V, V  
-d) V, V, F, F, V  
-e) V, V, V, F, V  
+a) V, F, V, F, F
+b) F, V, V, F, F
+c) V, V, V, V, F
+d) V, V, V, F, F
+e) V, V, F, F, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa d.
 
 **Comentário:** A segurança do TFM exige considerar clima, calor, umidade, hidratação e controle da
-                carga.
+                carga, inclusive em militares aclimatados.
 
 **Assunto cobrado:** Aspectos climáticos e segurança.
 
@@ -4613,15 +4630,15 @@ e) V, V, V, F, V
 
 O principal responsável pelas ações preventivas contra lesões, segundo o Manual, é:
 
-a) somente a banca do TAF.  
-b) exclusivamente o soldado mais moderno.  
-c) apenas o nutricionista externo.  
-d) o comandante da OM, assessorado pelo OTFM e pelo médico da OM.  
-e) o próprio militar, sem participação de comando ou saúde.  
+a) o comandante da OM, assessorado pelo OTFM e pelo médico da OM.
+b) o OTFM isoladamente, pois prevenção é atribuição exclusivamente técnica.
+c) o oficial médico isoladamente, pois fatores de carga não integram a prevenção.
+d) o S-3 isoladamente, pois a execução não envolve responsabilidade do comando.
+e) cada militar individualmente, sem coordenação ou acompanhamento da OM.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** O manual aponta o comandante da OM como principal responsável, assessorado pelo
                 OTFM e pelo médico.
@@ -4638,27 +4655,29 @@ e) o próprio militar, sem participação de comando ou saúde.
 
 Sobre a alimentação pós-treino, analise as assertivas.
 
-I. A refeição pós-treino deve conter proteínas e carboidratos.
-II. A composição deve respeitar intensidade da atividade, metabolismo e hábitos alimentares do
-    indivíduo.
-III. O manual exemplifica opções como vitamina de leite ou iogurte com frutas, suco de frutas com
+I. O pós-treino deve privilegiar exclusivamente proteínas, evitando carboidratos mesmo após esforço
+   intenso.
+II. O manual exemplifica opções como vitamina de leite ou iogurte com frutas, suco de frutas com
      ovos ou refeição completa, conforme o horário.
-IV. O pós-treino deve ser composto exclusivamente de álcool para acelerar recuperação.
+III. A composição deve respeitar intensidade da atividade, metabolismo e hábitos alimentares do
+    indivíduo.
+IV. A refeição pós-treino deve conter proteínas e carboidratos.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e III apenas.  
-c) III e IV apenas.  
-d) I e II apenas.  
-e) I e II e III apenas.  
+a) II, III e IV apenas.
+b) I e II apenas.
+c) II e III apenas.
+d) II e IV apenas.
+e) III e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
-**Comentário:** A assertiva IV contradiz as orientações do manual; álcool prejudica a recuperação.
+**Comentário:** A recuperação pós-treino envolve proteínas e carboidratos, ajustados ao esforço e
+                às características individuais.
 
 **Assunto cobrado:** Alimentação pós-treino.
 
@@ -4675,22 +4694,24 @@ Sobre o princípio da especificidade, julgue os itens.
 I. Os exercícios do TFM visam trabalhar qualidades físicas necessárias às atividades militares da
    Força Terrestre.
 II. A especificidade exige estímulos similares aos utilizados na atividade-fim.
-III. A especificidade autoriza ignorar completamente as exigências físicas da função militar.
-IV. O treinamento deve considerar as exigências físicas das atividades militares.
-V. O princípio da especificidade é irrelevante para o planejamento do TFM.
+III. A semelhança com a atividade-fim autoriza repetir o mesmo estímulo sem observar sobrecarga ou
+     continuidade.
+IV. A especificidade permite selecionar estímulos voltados a qualidade física distinta da exigida
+    pela atividade-fim, desde que a sessão seja intensa.
+V. O treinamento deve considerar as exigências físicas das atividades militares.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, F, V, F  
-b) V, V, V, V, F  
-c) F, V, F, V, F  
-d) V, V, F, V, F  
-e) V, V, F, F, F  
+a) V, F, F, F, V
+b) F, V, F, F, V
+c) V, V, V, F, V
+d) V, V, F, F, F
+e) V, V, F, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa e.
 
 **Comentário:** A especificidade é fundamental para aproximar o estímulo de treinamento das
                 exigências da atividade-fim.
@@ -4709,15 +4730,15 @@ A frase “se o volume aumenta significativamente, a intensidade deve diminuir, 
 corresponde ao princípio da:
 
 
-a) individualidade biológica.  
-b) adaptação.  
-c) interdependência entre volume e intensidade.  
-d) variabilidade.  
-e) especificidade.  
+a) especificidade.
+b) adaptação.
+c) variabilidade.
+d) individualidade biológica.
+e) interdependência entre volume e intensidade.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
 **Comentário:** A relação inversa entre volume e intensidade caracteriza esse princípio.
 
@@ -4734,23 +4755,23 @@ e) especificidade.
 Sobre estímulos positivos no TFM, julgue os itens.
 
 I. Há relação de conflito entre TFM obrigatório e prazer da prática opcional.
-II. Estímulos positivos ajudam a despertar motivação.
-III. Sessões atrativas e instrutores preparados podem motivar o executante.
-IV. Avaliações bem feitas são recursos de motivação.
-V. O manual recomenda tornar as sessões propositalmente desmotivadoras.
+II. Sessões atrativas e instrutores preparados podem motivar o executante.
+III. Avaliações bem feitas são recursos de motivação.
+IV. A busca por sessões atrativas permite ignorar continuidade e sobrecarga ao variar os métodos.
+V. Estímulos positivos ajudam a despertar motivação.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, V, F, F  
-b) V, F, V, V, F  
-c) V, V, F, V, F  
-d) V, V, V, V, F  
-e) F, V, V, V, F  
+a) F, V, V, F, V
+b) V, F, V, F, V
+c) V, V, V, F, V
+d) V, V, F, F, V
+e) V, V, V, F, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa c.
 
 **Comentário:** O manual valoriza estímulos positivos, sessões atrativas, instrutores preparados e
                 avaliações bem feitas.
@@ -4767,23 +4788,24 @@ e) F, V, V, V, F
 
 Sobre prevenção de lesões, analise as assertivas.
 
-I. Todos os militares devem atuar conscientemente sobre fatores de risco.
-II. A realização regular da atividade física pode reduzir substancialmente os riscos associados.
-III. O destreinamento pode tornar o militar mais vulnerável a lesões.
-IV. O risco de lesão é inexistente em qualquer exercício físico.
+I. A regularidade do treinamento elimina a necessidade de prevenção, pois o risco de lesão deixa de
+   existir após a adaptação inicial.
+II. O destreinamento pode tornar o militar mais vulnerável a lesões.
+III. Todos os militares devem atuar conscientemente sobre fatores de risco.
+IV. A realização regular da atividade física pode reduzir substancialmente os riscos associados.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) I e III apenas.  
-c) I e II e III apenas.  
-d) I e II apenas.  
-e) II e III apenas.  
+a) I e II apenas.
+b) II, III e IV apenas.
+c) III e IV apenas.
+d) II e III apenas.
+e) II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa b.
 
 **Comentário:** O manual reconhece risco inerente ao exercício físico; por isso a prevenção é
                 necessária.
@@ -4801,16 +4823,16 @@ e) II e III apenas.
 A recomendação sobre suplementos no Manual é melhor sintetizada por:
 
 
-a) devem substituir refeições e treinamento.  
-b) são eficazes em qualquer condição, independentemente de alimentação e treinamento.  
-c) devem ser considerados em situações definidas, com orientação profissional, e não substituem
-   alimentação e treinamento.  
-d) são obrigatórios para todo militar.  
-e) devem ser usados sem supervisão para acelerar resultados.  
+a) podem substituir alimentação equilibrada quando o militar mantém frequência regular de treino.
+b) devem ser usados por todo militar submetido a cinco sessões semanais.
+c) podem ser empregados sem orientação quando destinados apenas à recuperação pós-treino.
+d) devem ser considerados em situações definidas, com orientação profissional, e não substituem
+   alimentação e treinamento.
+e) tornam desnecessário ajustar alimentação ou carga de treinamento.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
 **Comentário:** O manual trata suplementos com cautela: situações definidas, orientação
                 profissional e associação com alimentação adequada.
@@ -4827,27 +4849,28 @@ e) devem ser usados sem supervisão para acelerar resultados.
 
 Sobre carga exagerada e carga insuficiente no princípio da adaptação, julgue os itens.
 
-I. Carga insuficiente não produzirá efeitos de treinamento.
-II. Carga exagerada pode provocar danos ao organismo.
-III. Carga exagerada pode levar à exaustão precoce.
-IV. Toda carga exagerada é recomendada para acelerar adaptação.
-V. Duração e intensidade devem ser suficientes para provocar modificações na aptidão física.
+I. Carga exagerada pode levar à exaustão precoce.
+II. Duração e intensidade devem ser suficientes para provocar modificações na aptidão física.
+III. Carga exagerada não provoca danos ao organismo quando inserida em planejamento periodizado.
+IV. Carga insuficiente não produzirá efeitos de treinamento.
+V. Carga exagerada torna-se recomendável sempre que houver estagnação, ainda que produza exaustão
+   precoce.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, F, V  
-b) V, V, V, V, V  
-c) V, F, V, F, V  
-d) V, V, V, F, V  
-e) F, V, V, F, V  
+a) V, V, V, V, F
+b) V, V, F, F, F
+c) V, V, F, V, F
+d) V, V, F, V, V
+e) F, V, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa c.
 
-**Comentário:** O manual alerta contra carga exagerada; adaptação exige carga adequada, não excesso
-                indiscriminado.
+**Comentário:** O manual alerta contra carga exagerada, inclusive quando há planejamento:
+                adaptação exige carga adequada, não excesso indiscriminado.
 
 **Assunto cobrado:** Princípio da adaptação.
 
@@ -4861,15 +4884,15 @@ e) F, V, V, F, V
 
 No Capítulo II, a saúde é tratada como condição essencial:
 
-a) apenas para militares combatentes, dispensando funções administrativas.  
-b) somente para candidatos a ingresso.  
-c) apenas para atletas profissionais.  
-d) para o desempenho de qualquer função, inclusive administrativa.  
-e) exclusivamente no TAF III.  
+a) para o desempenho de qualquer função, inclusive administrativa.
+b) apenas para funções operacionais que exijam esforço máximo.
+c) somente para militares submetidos a padrões avançados ou especiais.
+d) prioritariamente para atletas, pois funções administrativas independem de saúde.
+e) apenas no período imediatamente anterior ao TAF.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** O manual destaca que o aspecto saúde é essencial para qualquer função, inclusive de
                 cunho administrativo.
@@ -4887,11 +4910,11 @@ e) exclusivamente no TAF III.
 A alternativa que apresenta corretamente uma consequência positiva do TFM para a eficiência
 profissional é:
 
-a) redução obrigatória da concentração em atividades rotineiras.  
-b) aumento do sedentarismo funcional.  
-c) eliminação da necessidade de prontidão operacional.  
-d) melhora do rendimento intelectual e da concentração durante atividades rotineiras.  
-e) diminuição da autoconfiança e da motivação.  
+a) benefício restrito à força muscular, sem influência sobre atividades rotineiras.
+b) melhora da concentração acompanhada necessariamente de redução da autoconfiança.
+c) melhora exclusiva da prontidão de combate, sem repercussão no trabalho cotidiano.
+d) melhora do rendimento intelectual e da concentração durante atividades rotineiras.
+e) substituição da instrução técnica pela aptidão física em qualquer função militar.
 <details>
 <summary>Ver resposta</summary>
 
@@ -4912,25 +4935,28 @@ e) diminuição da autoconfiança e da motivação.
 
 ### Questão 161
 
-O treinamento da aptidão cardiorrespiratória é voltado principalmente ao desenvolvimento e
-manutenção:
+Os procedimentos para aplicação da carga nos métodos de treinamento da aptidão cardiorrespiratória
+devem tomar como referência:
 
-a) apenas da força isométrica de membros superiores.  
-b) exclusivamente da flexibilidade articular.  
-c) da estética corporal sem relação com desempenho.  
-d) dos sistemas cardiovascular e pulmonar.  
-e) apenas da coordenação fina das mãos.  
+a) o resultado do teste de corrida de 12 minutos, executado correndo ou caminhando na maior
+   velocidade possível durante esse período.
+b) exclusivamente a faixa etária do militar, sem considerar seu rendimento físico inicial.
+c) a maior distância percorrida em corrida livre de 30 minutos, ainda que não corresponda ao último
+   TAF ou PAFI.
+d) somente a graduação e a função exercida pelo militar na OM.
+e) uma estimativa coletiva definida pela média da fração, mesmo quando houver resultado individual
+   disponível.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
-**Comentário:** A aptidão cardiorrespiratória envolve os sistemas cardiovascular e pulmonar, sendo
-                trabalhada por métodos como corrida contínua, caminhada, corrida variada e TIAI.
+**Comentário:** O resultado do teste de corrida de 12 minutos determina o nível inicial de condição
+                física e fundamenta a aplicação da carga nos métodos de ACR.
 
-**Assunto cobrado:** Aptidão cardiorrespiratória.
+**Assunto cobrado:** Aplicação da carga no treinamento da ACR.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VI.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VI, item 6.1.5.
 
 </details>
 
@@ -4940,26 +4966,28 @@ e) apenas da coordenação fina das mãos.
 
 Sobre os métodos de treinamento da aptidão cardiorrespiratória previstos no Manual, julgue os itens.
 
-I. Corrida contínua ou caminhada é método previsto.
-II. Corrida variada é método previsto.
-III. Treinamento Intervalado de Alta Intensidade é método previsto.
-IV. Cross operacional é método previsto.
-V. Barra fixa com carga máxima é o único método cardiorrespiratório do manual.
+I. A corrida variada integra obrigatoriamente os métodos de ACR previstos nos programas anuais.
+II. Somente os métodos incluídos nos programas anuais podem ser utilizados no TFM, de modo que a
+    corrida variada e a natação não podem substituir métodos regularmente planejados.
+III. Cross operacional é método previsto.
+IV. Treinamento Intervalado de Alta Intensidade é método previsto.
+V. Corrida contínua ou caminhada é método previsto.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) F, V, V, V, F  
-b) V, V, F, V, F  
-c) V, F, V, V, F  
-d) V, V, V, V, F  
-e) V, V, V, F, F  
+a) V, F, V, V, V
+b) F, V, V, V, F
+c) F, F, F, V, V
+d) V, F, V, F, V
+e) F, F, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa e.
 
-**Comentário:** Barra fixa relaciona-se mais à aptidão muscular; os métodos cardiorrespiratórios
-                incluem corrida/caminhada, corrida variada, TIAI, cross e natação.
+**Comentário:** Corrida variada e natação são métodos válidos para desenvolver ou manter a ACR e
+                podem substituir métodos regularmente planejados com orientação adequada, mas não
+                integram obrigatoriamente os programas anuais.
 
 **Assunto cobrado:** Métodos cardiorrespiratórios.
 
@@ -4973,27 +5001,28 @@ e) V, V, V, F, F
 
 Sobre a corrida variada, analise as assertivas.
 
-I. Intercala corridas de diferentes intensidades na mesma sessão.
-II. Pode utilizar trechos de corrida contínua, TIAI, caminhadas, ladeiras/escadarias e tiros
+I. Pode utilizar trechos de corrida contínua, TIAI, caminhadas, ladeiras/escadarias e tiros
     curtos.
+II. Intercala corridas de diferentes intensidades na mesma sessão.
 III. Tem como objetivo desenvolver resistência e potência aeróbica, podendo também desenvolver
      potência anaeróbica.
-IV. É método exclusivamente de repouso, sem estímulo cardiovascular.
+IV. Por alternar ritmos na mesma sessão, dispensa planejamento prévio de volume e intensidade pelo
+    OTFM.
 
 Está correto o que se afirma em:
 
-a) I e III apenas.  
-b) II e III apenas.  
-c) III e IV apenas.  
-d) I e II e III apenas.  
-e) I e II apenas.  
+a) I e III apenas.
+b) III e IV apenas.
+c) II e III apenas.
+d) I, II e III apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa d.
 
-**Comentário:** A corrida variada é método ativo que intercala intensidades e estímulos, não
-                repouso.
+**Comentário:** A corrida variada intercala intensidades e estímulos, mas seu volume e sua
+                intensidade continuam sujeitos ao planejamento do OTFM.
 
 **Assunto cobrado:** Corrida variada.
 
@@ -5005,19 +5034,21 @@ e) I e II apenas.
 
 ### Questão 164
 
-O TIAI, no contexto do treinamento cardiorrespiratório, é mais corretamente associado ao:
+No contexto do treinamento cardiorrespiratório, o TIAI distingue-se por:
 
-a) tempo inicial de adaptação inativa.  
-b) treinamento isométrico abdominal individual.  
-c) teste individual de apoio isométrico.  
-d) treinamento intervalado de alta intensidade.  
-e) treinamento de inspeção administrativa.  
+a) empregar estímulos intensos intercalados com recuperação parcial e desenvolver resistências e
+   potências aeróbica e anaeróbica.
+b) manter ritmo constante durante toda a sessão e desenvolver exclusivamente resistência aeróbica.
+c) alternar apenas caminhada e corrida leve, evitando estímulos anaeróbicos.
+d) substituir qualquer método muscular quando não houver equipamento disponível.
+e) priorizar recuperação completa entre estímulos para impedir adaptações anaeróbicas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
-**Comentário:** TIAI significa Treinamento Intervalado de Alta Intensidade.
+**Comentário:** O TIAI combina estímulos de corrida intensa e recuperação parcial, desenvolvendo
+                componentes aeróbicos e anaeróbicos.
 
 **Assunto cobrado:** Treinamento Intervalado de Alta Intensidade.
 
@@ -5031,26 +5062,29 @@ e) treinamento de inspeção administrativa.
 
 Sobre o treinamento cardiorrespiratório, julgue os itens.
 
-I. A corrida contínua ou caminhada compõe os métodos do Capítulo VI.
-II. A natação é tratada no Capítulo VI.
-III. A prevenção de lesões no treinamento cardiorrespiratório é assunto do capítulo.
-IV. A corrida variada deve respeitar individualidade biológica e grau de condicionamento.
-V. O Capítulo VI proíbe qualquer controle de volume e intensidade.
+I. A natação é tratada no Capítulo VI.
+II. A corrida contínua ou caminhada compõe os métodos do Capítulo VI.
+III. Dores persistentes durante a corrida podem ser ignoradas no início do ciclo, pois fazem parte
+     da adaptação esperada.
+IV. A corrida contínua livre deve substituir integralmente a corrida em forma em todos os ciclos,
+    porque é a única modalidade compatível com a individualidade biológica.
+V. A corrida variada deve respeitar individualidade biológica e grau de condicionamento.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) F, V, V, V, F  
-b) V, V, V, F, F  
-c) V, V, F, V, F  
-d) V, V, V, V, F  
-e) V, F, V, V, F  
+a) V, F, F, F, V
+b) F, V, F, F, V
+c) V, V, V, F, F
+d) V, V, F, V, V
+e) V, V, F, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa e.
 
-**Comentário:** O treinamento cardiorrespiratório exige controle de carga, individualidade e
-                planejamento.
+**Comentário:** A corrida contínua livre é empregada em ocasiões específicas, segundo planejamento
+                do OTFM, como complemento ao treinamento realizado em forma. Dor é sinal de alarme
+                e não deve ser ignorada.
 
 **Assunto cobrado:** Treinamento cardiorrespiratório.
 
@@ -5065,15 +5099,15 @@ e) V, F, V, V, F
 No método de corrida variada, a proporção entre as corridas é escolhida pelo OTFM, respeitando,
 entre outros fatores:
 
-a) apenas a preferência estética do grupo.  
-b) somente o tempo disponível, sem considerar condicionamento.  
-c) sorteio sem critérios.  
-d) individualidade biológica, grau de condicionamento da tropa e fase da periodização.  
-e) exclusivamente a faixa etária dos instrutores.  
+a) apenas a distância total prevista para a sessão anterior.
+b) individualidade biológica, grau de condicionamento da tropa e fase da periodização.
+c) exclusivamente o ritmo do militar mais bem condicionado da fração.
+d) preferência coletiva da tropa, ainda que contrarie a fase da periodização.
+e) somente o tempo disponível, sem considerar individualidade biológica.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa b.
 
 **Comentário:** O manual menciona individualidade biológica, nível de condicionamento e fase da
                 periodização como elementos considerados.
@@ -5090,22 +5124,22 @@ e) exclusivamente a faixa etária dos instrutores.
 
 Quanto ao controle e prevenção de lesões no treinamento cardiorrespiratório, analise as assertivas.
 
-I. A progressão de carga deve considerar o nível de condicionamento.
-II. Dores persistentes ou limitantes durante corrida exigem atenção médica.
+I. Dores persistentes ou limitantes durante corrida exigem atenção médica.
+II. A prevenção integra o treinamento cardiorrespiratório.
 III. A técnica e a dosagem da carga são irrelevantes para evitar lesões.
-IV. A prevenção integra o treinamento cardiorrespiratório.
+IV. A progressão de carga deve considerar o nível de condicionamento.
 
 Está correto o que se afirma em:
 
-a) I e III apenas.  
-b) III e IV apenas.  
-c) I e II apenas.  
-d) I e II e IV apenas.  
-e) II e III apenas.  
+a) I, II e IV apenas.
+b) I e III apenas.
+c) III e IV apenas.
+d) II e III apenas.
+e) I e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
 **Comentário:** A assertiva III é incorreta, pois controle de carga, técnica e sinais de dor são
                 importantes para prevenção.
@@ -5120,24 +5154,24 @@ e) II e III apenas.
 
 ### Questão 168
 
-O cross operacional é tratado no Manual como método relacionado ao treinamento:
+Quanto aos métodos da ACR previstos nos programas anuais de TFM, assinale a alternativa correta:
 
-a) de avaliação documental do TAF.  
-b) exclusivamente de revisão teórica sem exercício.  
-c) de nutrição pós-treino.  
-d) da aptidão cardiorrespiratória com caráter operacional.  
-e) de inaptidão médica.  
+a) Corrida variada, caminhada e natação são os três métodos obrigatoriamente previstos.
+b) Natação e corrida variada devem aparecer em todas as semanas do programa anual.
+c) Ginástica básica, musculação e core integram os métodos cardiorrespiratórios regulares.
+d) Corrida contínua, TIAI e cross operacional são os métodos de ACR previstos nos programas anuais.
+e) Cross operacional somente pode ser aplicado como método de aptidão muscular.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa d.
 
-**Comentário:** O cross operacional aparece no Capítulo VI como Treinamento Rústico Operacional,
-                ligado à aptidão cardiorrespiratória.
+**Comentário:** Os programas anuais preveem corrida contínua, TIAI e cross operacional. Outros
+                métodos, como corrida variada e natação, são alternativas válidas para a ACR.
 
-**Assunto cobrado:** Cross operacional.
+**Assunto cobrado:** Métodos de ACR nos programas anuais.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VI, item 6.5.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VI, itens 6.1.2 a 6.1.4.
 
 </details>
 
@@ -5147,27 +5181,28 @@ e) de inaptidão médica.
 
 Sobre natação no Capítulo VI, julgue os itens.
 
-I. A natação é listada como método no treinamento da aptidão cardiorrespiratória.
-II. Pode contribuir para aptidão cardiorrespiratória em meio aquático.
-III. É incompatível com qualquer objetivo de condicionamento.
-IV. A natação aparece no mesmo capítulo que corrida contínua e TIAI.
-V. A natação substitui automaticamente todos os métodos de aptidão muscular.
+I. A natação integra obrigatoriamente os métodos de ACR previstos nos programas anuais.
+II. A natação pode substituir método regularmente planejado sem orientação de oficial
+    especializado, inclusive para grupos de idade mais avançada.
+III. A natação é listada como método no treinamento da aptidão cardiorrespiratória.
+IV. Pode contribuir para aptidão cardiorrespiratória em meio aquático.
+V. A natação aparece no mesmo capítulo que corrida contínua e TIAI.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, F, V, F  
-b) V, V, F, F, F  
-c) F, V, F, V, F  
-d) V, V, V, V, F  
-e) V, V, F, V, F  
+a) F, V, V, V, V
+b) F, F, F, V, V
+c) F, F, V, F, V
+d) F, F, V, V, F
+e) F, F, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa e.
 
-**Comentário:** A natação pode ser método cardiorrespiratório, mas não substitui automaticamente
-                todos os treinamentos musculares.
+**Comentário:** A natação é método válido de ACR, mas não integra os três métodos dos programas
+                anuais. Sua utilização como substituição requer orientação adequada.
 
 **Assunto cobrado:** Natação no TFM.
 
@@ -5181,27 +5216,27 @@ e) V, V, F, V, F
 
 Sobre a relação entre corrida contínua, caminhada e corrida variada, analise as assertivas.
 
-I. São métodos relacionados ao desenvolvimento cardiorrespiratório.
-II. A corrida variada alterna intensidades e estímulos.
-III. A caminhada pode ser usada como método ou componente de controle/recuperação dentro de
+I. A caminhada pode ser usada como método ou componente de controle/recuperação dentro de
      sessões.
-IV. Todos são métodos exclusivos de força máxima de membros superiores.
+II. São métodos relacionados ao desenvolvimento cardiorrespiratório.
+III. A caminhada somente pode ser empregada por militares sem qualquer restrição para corrida.
+IV. A corrida variada alterna intensidades e estímulos.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) II e III apenas.  
-c) I e III apenas.  
-d) I e II apenas.  
-e) I e II e III apenas.  
+a) I e II apenas.
+b) I e III apenas.
+c) II e IV apenas.
+d) I e IV apenas.
+e) I, II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa e.
 
-**Comentário:** Esses métodos têm foco cardiorrespiratório; a assertiva IV confunde com aptidão
-                muscular.
+**Comentário:** A caminhada também pode ser usada por militares cuja restrição impossibilite a
+                corrida e por aqueles que não suportem sua intensidade.
 
 **Assunto cobrado:** Métodos cardiorrespiratórios.
 
@@ -5213,23 +5248,26 @@ e) I e II e III apenas.
 
 ### Questão 171
 
-A aptidão muscular, segundo o Capítulo VII, é dividida em:
+A respeito da frequência do treinamento da aptidão muscular, assinale a alternativa correta:
 
-a) equilíbrio administrativo e avaliação documental.  
-b) apenas velocidade e agilidade.  
-c) somente frequência cardíaca e consumo de oxigênio.  
-d) caminhada e natação exclusivamente.  
-e) força, resistência e potência muscular.  
+a) Cada grupo muscular deve ser submetido a novo estímulo diariamente para preservar a
+   continuidade.
+b) O intervalo mínimo entre estímulos do mesmo grupo muscular é de 48 horas em qualquer situação.
+c) O treinamento deve ocorrer somente uma vez por semana quando envolver força e resistência.
+d) Recomenda-se treinar cada grupo muscular de duas a três vezes por semana, respeitando intervalo
+   mínimo de 24 horas antes de novo estímulo.
+e) A frequência semanal é definida apenas pelo número de repetições executadas no TAF.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa d.
 
-**Comentário:** O Capítulo VII divide a aptidão muscular em força, resistência e potência muscular.
+**Comentário:** O manual recomenda duas a três sessões por semana para cada grupo muscular, com
+                intervalo mínimo de 24 horas antes de novo estímulo do mesmo grupo.
 
-**Assunto cobrado:** Aptidão muscular.
+**Assunto cobrado:** Frequência do treinamento da aptidão muscular.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VII, item 7.1.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VII, item 7.1.5.
 
 </details>
 
@@ -5241,27 +5279,27 @@ Sobre o treinamento da aptidão muscular, julgue os itens.
 
 I. Força muscular relaciona-se à capacidade de exercer tarefa com poucas repetições antes da fadiga
    momentânea.
-II. Resistência muscular relaciona-se a esforços sucessivos com muitas repetições.
-III. Potência muscular relaciona-se à capacidade de exercer força por unidade de tempo.
+II. Potência muscular relaciona-se à capacidade de exercer força por unidade de tempo.
+III. Os resultados dos testes de força e resistência autorizam prescrever carga máxima sem
+    familiarização prévia com equipamento ou movimento.
 IV. A aptidão muscular não possui relação com saúde ou desempenho.
-V. Testes de força e resistência podem auxiliar na identificação do nível atual e prescrição de
-   carga.
+V. Resistência muscular relaciona-se a esforços sucessivos com muitas repetições.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, F, V  
-b) V, V, V, V, V  
-c) V, V, V, F, V  
-d) V, F, V, F, V  
-e) F, V, V, F, V  
+a) V, F, V, F, V
+b) V, V, V, F, F
+c) V, V, F, F, V
+d) F, V, F, F, V
+e) V, V, F, V, V
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa c.
 
-**Comentário:** O Capítulo VII relaciona aptidão muscular a saúde, prescrição de carga e
-                acompanhamento da evolução.
+**Comentário:** Testes auxiliam a identificação do nível atual e a prescrição, mas não dispensam
+                familiarização nem critérios de prevenção de lesões.
 
 **Assunto cobrado:** Aptidão muscular: conceitos.
 
@@ -5276,24 +5314,26 @@ e) F, V, V, F, V
 Para minimizar o risco de lesões no treinamento da aptidão muscular, o Manual indica princípios
 como:
 
-I. Realizar sessões de familiarização com equipamento ou movimento.
-II. Executar aquecimento adequado antes de teste ou sessão de exercícios.
-III. Adotar postura correta na execução.
-IV. Eliminar fiscalização por instrutores e monitores.
+I. Executar aquecimento adequado antes de teste ou sessão de exercícios.
+II. Adotar postura correta na execução.
+III. A familiarização pode ser dispensada quando a carga inicial for baixa, pois a correção da
+     postura somente é necessária em testes máximos.
+IV. Realizar sessões de familiarização com equipamento ou movimento.
 
 Está correto o que se afirma em:
 
-a) II e III apenas.  
-b) I e II apenas.  
-c) I e III apenas.  
-d) III e IV apenas.  
-e) I e II e III apenas.  
+a) II e IV apenas.
+b) I e IV apenas.
+c) I, II e IV apenas.
+d) II e III apenas.
+e) I e II apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa c.
 
-**Comentário:** A fiscalização por instrutores e monitores é recomendada, não eliminada.
+**Comentário:** Familiarização, aquecimento, postura correta, controle dos movimentos e
+                fiscalização são cuidados relevantes mesmo antes de cargas máximas.
 
 **Assunto cobrado:** Prevenção de lesões na aptidão muscular.
 
@@ -5305,25 +5345,25 @@ e) I e II e III apenas.
 
 ### Questão 174
 
-A frequência semanal recomendada para o treinamento da aptidão muscular, para cada grupo muscular, é
-de:
+Na ginástica básica, após a adaptação ao treinamento, a sobrecarga deve ser aplicada:
 
-a) 1 vez por mês.  
-b) apenas uma sessão anual.  
-c) 7 vezes por dia.  
-d) somente após o TAF.  
-e) 2 a 3 vezes por semana.  
+a) elevando simultaneamente repetições e passagens desde a primeira sessão.
+b) aumentando as repetições de duas em duas até o máximo de nove e, após alcançar a carga máxima da
+   fase, aumentando o número de passagens.
+c) mantendo cinco repetições fixas durante todo o ano de instrução.
+d) substituindo exercícios localizados por corrida contínua sempre que houver adaptação.
+e) elevando uma repetição por sessão sem limite máximo.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
-**Comentário:** O manual recomenda 2 a 3 vezes por semana para cada grupo muscular, com intervalo
-                mínimo de 24 horas para novo estímulo do mesmo grupo.
+**Comentário:** A progressão ocorre de duas em duas repetições até o máximo de nove; depois, a
+                sobrecarga pode avançar pelo número de passagens.
 
-**Assunto cobrado:** Frequência de treino muscular.
+**Assunto cobrado:** Sobrecarga na ginástica básica.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VII, item 7.1.5.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo VII, item 7.2.2.2.
 
 </details>
 
@@ -5333,27 +5373,29 @@ e) 2 a 3 vezes por semana.
 
 São métodos de treinamento da aptidão muscular previstos no Capítulo VII:
 
-I. Ginástica básica.
-II. Treinamento em circuito.
-III. Treinamento para o core.
-IV. Treinamento da aptidão muscular na sala de musculação.
-V. Publicação de ata de TAF em BGO.
+I. Treinamento para o core.
+II. O fortalecimento do core é classificado exclusivamente como método de ACR, sem relação com
+    treinamento da aptidão muscular.
+III. Treinamento em circuito não integra os métodos de aptidão muscular, pois pertence
+     exclusivamente ao treinamento cardiorrespiratório.
+IV. Ginástica básica.
+V. Treinamento da aptidão muscular na sala de musculação.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, V, F  
-b) V, F, V, V, F  
-c) V, V, V, F, F  
-d) F, V, V, V, F  
-e) V, V, V, V, F  
+a) V, F, V, V, F
+b) V, F, F, V, F
+c) F, F, F, V, V
+d) V, F, F, V, V
+e) V, F, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa d.
 
-**Comentário:** A publicação de ata é procedimento administrativo da Portaria, não método de
-                aptidão muscular.
+**Comentário:** Ginástica básica, circuito, core e musculação são métodos relacionados à aptidão
+                muscular. Circuito e core não são exclusivamente cardiorrespiratórios.
 
 **Assunto cobrado:** Métodos de aptidão muscular.
 
@@ -5365,20 +5407,21 @@ e) V, V, V, V, F
 
 ### Questão 176
 
-A ginástica básica, no contexto do Manual, está relacionada principalmente ao desenvolvimento:
+A ginástica básica, no contexto do Manual, caracteriza-se por:
 
-a) apenas da natação em piscina de 25m.  
-b) da burocracia de publicação de resultados.  
-c) da inspeção de saúde por laudo médico.  
-d) exclusivamente da velocidade de 50m.  
-e) da resistência muscular por meio de exercícios localizados e de efeito geral.  
+a) utilizar prioritariamente aparelhos e cargas externas para desenvolver força máxima.
+b) constituir atividade calistênica com exercícios localizados e de efeito geral, voltada
+   predominantemente à coordenação motora e à resistência muscular.
+c) substituir o treinamento cardiorrespiratório em qualquer sessão mista.
+d) limitar-se a exercícios isométricos para o core.
+e) adotar número fixo de repetições, sem progressão por adaptação.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
-**Comentário:** A ginástica básica é método calistênico ligado a exercícios localizados e ao
-                desenvolvimento da aptidão muscular.
+**Comentário:** A ginástica básica é calistênica e trabalha exercícios localizados e de efeito
+                geral, com ênfase em coordenação e resistência muscular.
 
 **Assunto cobrado:** Ginástica básica.
 
@@ -5392,27 +5435,27 @@ e) da resistência muscular por meio de exercícios localizados e de efeito gera
 
 Sobre treinamento em circuito, core e musculação, analise as assertivas.
 
-I. O treinamento em circuito é método de aptidão muscular previsto no Manual.
-II. O treinamento para o core busca fortalecimento da parte central do corpo.
+I. O treinamento em circuito deve ser classificado exclusivamente como método cardiorrespiratório,
+   ainda que utilize exercícios de aptidão muscular.
+II. O treinamento em circuito é método de aptidão muscular previsto no Manual.
 III. A sala de musculação pode ser usada para treinamento da aptidão muscular.
-IV. Esses métodos pertencem exclusivamente ao Capítulo XII de avaliação, sem relação com
-    treinamento.
+IV. O treinamento para o core busca fortalecimento da parte central do corpo.
 
 Está correto o que se afirma em:
 
 
-a) I e III apenas.  
-b) II e III apenas.  
-c) III e IV apenas.  
-d) I e II apenas.  
-e) I e II e III apenas.  
+a) III e IV apenas.
+b) I e III apenas.
+c) II, III e IV apenas.
+d) II e III apenas.
+e) II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa c.
 
-**Comentário:** Os métodos citados pertencem ao Capítulo VII, voltado ao treinamento da aptidão
-                muscular.
+**Comentário:** Circuito, core e musculação integram o treinamento da aptidão muscular. O circuito
+                não perde essa natureza por também solicitar o sistema cardiorrespiratório.
 
 **Assunto cobrado:** Métodos da aptidão muscular.
 
@@ -5424,20 +5467,21 @@ e) I e II e III apenas.
 
 ### Questão 178
 
-A flexão na barra fixa, no meio militar, é tradicionalmente utilizada como teste para avaliar:
+A flexão na barra fixa é especialmente útil à preparação militar porque:
 
-a) composição corporal por bioimpedância.  
-b) apenas velocidade de corrida.  
-c) flexibilidade de tornozelo.  
-d) resistência ao frio.  
-e) capacidade de força e resistência muscular da parte superior do corpo.  
+a) avalia e desenvolve força e resistência muscular da parte superior do corpo, com aplicação em
+   tarefas de tração, escalada e subida em corda.
+b) mede prioritariamente potência aeróbica, substituindo o teste de corrida de 12 minutos.
+c) independe da massa corporal e dos níveis iniciais de força do praticante.
+d) deve ser treinada apenas por execução completa, sem exercícios facilitadores.
+e) avalia exclusivamente força de preensão manual.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
-**Comentário:** O Manual relaciona a barra fixa à força e resistência muscular da parte superior do
-                corpo.
+**Comentário:** Barra fixa relaciona-se a força e resistência da parte superior do corpo e favorece
+                tarefas militares de tração.
 
 **Assunto cobrado:** Flexão na barra fixa.
 
@@ -5451,27 +5495,28 @@ e) capacidade de força e resistência muscular da parte superior do corpo.
 
 Sobre a flexão na barra fixa, julgue os itens.
 
-I. Facilita desempenho em atividades de tração, como escaladas e subida em corda.
+I. Materiais como fitas elásticas ou aparelho graviton podem facilitar o treinamento específico.
 II. Exige ações de erguer e suportar a massa corporal.
-III. Não requer qualquer força de membros superiores.
+III. Materiais facilitadores, como fitas elásticas ou aparelho graviton, devem ser evitados por
+     iniciantes porque impedem qualquer adaptação específica para a barra fixa.
 IV. Níveis iniciais de força e massa gorda são variáveis importantes.
-V. Materiais como fitas elásticas ou aparelho graviton podem facilitar o treinamento específico.
+V. Sua aplicação militar limita-se ao teste físico, sem relação com escaladas ou subida em corda.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, F, V  
-b) V, V, V, V, V  
-c) V, F, F, V, V  
-d) F, V, F, V, V  
-e) V, V, F, V, V  
+a) V, V, F, V, V
+b) V, F, F, V, F
+c) V, V, V, V, F
+d) V, V, F, F, F
+e) V, V, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa e.
 
-**Comentário:** A barra fixa exige força de membros superiores e a massa corporal influencia o
-                desempenho.
+**Comentário:** A barra fixa exige força de membros superiores, é influenciada pela massa corporal
+                e favorece tarefas de tração, como escaladas e subida em corda.
 
 **Assunto cobrado:** Treinamento para barra fixa.
 
@@ -5483,28 +5528,24 @@ e) V, V, F, V, V
 
 ### Questão 180
 
-Sobre segurança no treinamento muscular, analise as assertivas.
-
-I. Aquecimento adequado precede testes e sessões.
-II. Postura correta deve ser adotada.
-III. Deve haver controle de duração e amplitude dos movimentos.
-IV. A escolha da carga adequada deve ser orientada por instrutores e monitores.
-
-Está correto o que se afirma em:
+Durante uma sessão de musculação, um militar sem familiarização com o equipamento pretende elevar a
+carga apesar de perder a postura correta e reduzir a amplitude do movimento. À luz das orientações
+de prevenção de lesões, a conduta adequada é:
 
 
-a) I, II, III e IV.  
-b) I e III apenas.  
-c) III e IV apenas.  
-d) II e III apenas.  
-e) I e II apenas.  
+a) manter a carga e reduzir o aquecimento, pois a adaptação técnica ocorre sob fadiga.
+b) reduzir a carga, corrigir a execução e assegurar familiarização, aquecimento e fiscalização por
+   instrutores ou monitores.
+c) substituir a musculação por corrida máxima, pois exercícios localizados não admitem adaptação.
+d) manter a carga caso o militar consiga completar ao menos uma repetição.
+e) aumentar a velocidade do movimento para diminuir o tempo sob tensão.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
-**Comentário:** Todas as assertivas reproduzem medidas de segurança no treinamento da aptidão
-                muscular.
+**Comentário:** Familiarização, aquecimento, postura correta, controle da duração e da amplitude dos
+                movimentos e escolha adequada da carga reduzem o risco de lesões.
 
 **Assunto cobrado:** Segurança no treinamento muscular.
 
@@ -5520,23 +5561,26 @@ e) I e II apenas.
 
 ### Questão 181
 
-O Capítulo III do Manual EB70-MC-10.375 trata principalmente de:
+Ao planejar o TFM de uma OM, a autoridade responsável precisa selecionar o programa anual adequado.
+Segundo o Manual, essa tarefa cabe:
 
-a) publicação de resultados em BGO.  
-b) apenas regras do TAF IV da PMAL.  
-c) exclusivamente alimentação pós-treino.  
-d) somente protocolos de natação do TAF III.  
-e) planejamento e condução do Treinamento Físico Militar.  
+a) ao OTFM, isoladamente, sem considerar o tipo da OM ou o número de sessões semanais.
+b) ao oficial de operações (S-3), assessorado pelo OTFM, considerando o tipo de OM e o número de
+   sessões realizadas na semana.
+c) ao oficial médico, que deverá escolher obrigatoriamente o programa de cinco sessões semanais.
+d) ao comandante de subunidade, independentemente dos anexos A e B.
+e) ao próprio militar, conforme sua preferência entre treinamento muscular ou cardiorrespiratório.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa b.
 
-**Comentário:** O Capítulo III é dedicado ao planejamento e à condução do TFM.
+**Comentário:** O S-3 planeja o TFM da OM com assessoramento técnico do OTFM, observando os anexos A
+                e B, o tipo de OM e o número de sessões semanais.
 
-**Assunto cobrado:** Planejamento e condução do TFM.
+**Assunto cobrado:** Planejamento do TFM na OM.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III, item 3.1.
 
 </details>
 
@@ -5544,33 +5588,34 @@ e) planejamento e condução do Treinamento Físico Militar.
 
 ### Questão 182
 
-Sobre temas do Capítulo III do Manual, julgue os itens.
+Sobre a direção da instrução no TFM, julgue os itens.
 
-I. A direção da instrução é tema do capítulo.
-II. Exames para a prática do TFM são tema do capítulo.
-III. Programas de TFM são tema do capítulo.
-IV. Condições de execução do TFM são tema do capítulo.
-V. O capítulo trata exclusivamente de rabdomiólise.
+I. O exemplo dos comandantes, executando o TFM com seus subordinados, favorece a motivação.
+II. O horário destinado ao TFM deve permitir a participação dos militares e ser preservado.
+III. O horário de TFM pode ser desviado rotineiramente para outras atividades, pois a regularidade
+     é secundária.
+IV. O controle permanente do TFM deve ocorrer em todos os níveis.
+V. Competições desportivas devem ser evitadas, pois contrariam espírito de corpo e camaradagem.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, F, V, V, F  
-b) F, V, V, V, F  
-c) V, V, V, V, F  
-d) V, V, F, V, F  
-e) V, V, V, F, F  
+a) V, F, F, V, F
+b) V, V, F, F, F
+c) F, V, F, V, F
+d) V, V, F, V, F
+e) V, V, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa d.
 
-**Comentário:** Rabdomiólise aparece no Capítulo II; o Capítulo III foca planejamento e condução do
-                TFM.
+**Comentário:** A ação de comando é decisiva para a prática do TFM. O manual valoriza exemplo,
+                horários adequados e preservados, meios, competições e controle permanente.
 
-**Assunto cobrado:** Estrutura do Capítulo III.
+**Assunto cobrado:** Direção da instrução.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III, item 3.2.
 
 </details>
 
@@ -5578,31 +5623,36 @@ e) V, V, V, F, F
 
 ### Questão 183
 
-A respeito do planejamento do TFM, analise as assertivas.
+A respeito das adaptações admitidas nos programas anuais de TFM, analise as assertivas.
 
-I. Deve considerar organização, coordenação e condução das sessões.
-II. Deve levar em conta condições de execução.
-III. Pode envolver organização por grupamentos.
-IV. Dispensa o conhecimento do nível de condicionamento dos militares.
+I. Na confecção do QTS, a ordem das atividades semanais pode ser alterada se o objetivo dos métodos
+   não for descaracterizado.
+II. Na falta de instalação ou equipamento para uma sessão de aptidão muscular, admite-se a
+    substituição por outra atividade voltada ao mesmo objetivo.
+III. Em OM não operativa, o treinamento utilitário é facultativo e pode ser substituído por sessão
+     cardiorrespiratória.
+IV. A falta de espaço para corrida autoriza substituí-la por musculação, ainda que se altere a
+    qualidade física trabalhada.
 
 Está correto o que se afirma em:
 
-a) III e IV apenas.  
-b) I e II apenas.  
-c) I e III apenas.  
-d) II e III apenas.  
-e) I e II e III apenas.  
+a) I, II e III apenas.
+b) I e II apenas.
+c) II e IV apenas.
+d) I e III apenas.
+e) II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
-**Comentário:** A organização por grupamentos pressupõe considerar o nível e as condições dos
-                militares; não se planeja ignorando o condicionamento.
+**Comentário:** O planejamento admite adaptações, mas a substituição deve preservar o objetivo do
+                método. Uma sessão cardiorrespiratória não deve ser trocada por musculação apenas
+                por conveniência.
 
-**Assunto cobrado:** Planejamento do TFM.
+**Assunto cobrado:** Adaptação dos programas anuais.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III, item 3.4 e Anexos A e B.
 
 </details>
 
@@ -5610,22 +5660,24 @@ e) I e II e III apenas.
 
 ### Questão 184
 
-A organização por grupamentos no TFM busca, de forma geral:
+Após o TAF, alguns militares obtiveram índice não suficiente. Para a continuidade do treinamento,
+o Manual orienta que eles:
 
-a) realizar apenas provas de natação.  
-b) impedir qualquer individualização.  
-c) substituir todos os exames médicos.  
-d) eliminar a função do instrutor.  
-e) adequar a execução ao nível de condicionamento e às condições dos militares.  
+a) permaneçam obrigatoriamente na fração, pois a separação reduziria o espírito de corpo.
+b) realizem apenas sessões individuais sem acompanhamento técnico.
+c) constituam grupamento à parte, sob supervisão direta do OTFM, com planejamento individualizado
+   após cada TAF.
+d) sejam dispensados do TFM até o próximo TAF.
+e) treinem com a carga dos militares de maior aptidão para acelerar a adaptação.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa c.
 
-**Comentário:** A organização por grupamentos é instrumento de adequação do treinamento e melhor
-                controle da execução.
+**Comentário:** Militares com índice não suficiente devem formar grupamento à parte e executar TFM
+                sob supervisão direta do OTFM, com planejamento individualizado.
 
-**Assunto cobrado:** Organização por grupamentos.
+**Assunto cobrado:** Grupamento de militares com índice não suficiente.
 
 **Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III, item 3.6.
 
@@ -5635,28 +5687,31 @@ e) adequar a execução ao nível de condicionamento e às condições dos milit
 
 ### Questão 185
 
-Sobre programas de TFM, julgue os itens.
+Sobre os programas anuais de TFM, julgue os itens.
 
-I. O Manual prevê programa anual de TFM com 5 sessões por semana em anexo.
-II. O Manual prevê programa anual de TFM com 4 sessões por semana em anexo.
-III. Os programas auxiliam o planejamento sistemático.
-IV. Os programas eliminam a necessidade de observar princípios como adaptação e sobrecarga.
-V. Programas anuais ajudam a organizar a progressão do treinamento.
+I. O Anexo A apresenta programa anual com cinco sessões por semana.
+II. O Anexo B apresenta programa anual com quatro sessões por semana.
+III. Em todas as sessões, são obrigatórios aquecimento e volta à calma.
+IV. A sessão de alongamento prevista no programa anual confunde-se com os exercícios da volta à
+    calma e, por isso, pode ser omitida.
+V. A ordem das sessões dentro da semana é rígida e não pode ser alterada, ainda que o objetivo do
+   método seja preservado.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) F, V, V, F, V  
-b) V, V, V, V, V  
-c) V, F, V, F, V  
-d) V, V, F, F, V  
-e) V, V, V, F, V  
+a) V, V, V, F, F
+b) V, V, F, F, F
+c) F, V, V, F, F
+d) V, F, V, F, F
+e) V, V, V, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa e.
+**Gabarito:** alternativa a.
 
-**Comentário:** Programas não dispensam princípios do treinamento; devem ser usados com
-                planejamento e controle.
+**Comentário:** Os anexos A e B organizam programas de cinco e quatro sessões. Aquecimento e volta à
+                calma são obrigatórios, a sessão de alongamento não se confunde com a volta à calma
+                e a ordem semanal admite ajuste sem descaracterizar o método.
 
 **Assunto cobrado:** Programas anuais de TFM.
 
@@ -5668,27 +5723,30 @@ e) V, V, V, F, V
 
 ### Questão 186
 
-Sobre exames para a prática do TFM, analise as assertivas.
+Sobre os exames para a prática do TFM, analise as assertivas.
 
-I. São relevantes para segurança do praticante.
-II. Relacionam-se à aptidão para prática de esforço físico.
-III. Podem auxiliar a prevenção de riscos durante o treinamento.
-IV. Tornam desnecessária qualquer observação durante a sessão.
+I. No início do ano de instrução e antes do primeiro TAF, o militar deve ser submetido a exame
+   médico e odontológico.
+II. Exames complementares podem ser solicitados quando houver indicação médica.
+III. Os exames buscam verificar higidez e possíveis limitações, liberando o militar para TFM e TAF.
+IV. Exames complementares são obrigatórios para todos os militares, independentemente de indicação
+    médica.
 
 Está correto o que se afirma em:
 
 
-a) I e II e III apenas.  
-b) III e IV apenas.  
-c) II e III apenas.  
-d) I e III apenas.  
-e) I e II apenas.  
+a) I e III apenas.
+b) II e IV apenas.
+c) I e II apenas.
+d) II e III apenas.
+e) I, II e III apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa e.
 
-**Comentário:** Mesmo com exames, a sessão deve ser conduzida com observação, controle e prevenção.
+**Comentário:** O exame médico e o odontológico integram a regra geral. Exames complementares são
+                realizados conforme necessidade e indicação médica.
 
 **Assunto cobrado:** Exames para prática do TFM.
 
@@ -5700,21 +5758,25 @@ e) I e II apenas.
 
 ### Questão 187
 
-A direção da instrução no TFM está mais relacionada a:
+Quanto às responsabilidades na direção do TFM, assinale a alternativa correta:
 
-a) conduzir, orientar e organizar a instrução física de forma planejada.  
-b) dispensar instrutores e monitores.  
-c) publicar exclusivamente gabaritos de prova.  
-d) definir apenas trajes civis para inteligência.  
-e) determinar o resultado administrativo do TAF.  
+a) O OTFM é o único responsável pelo condicionamento da tropa, cabendo ao comandante apenas
+   homologar o planejamento.
+b) O adequado condicionamento físico da tropa para o cumprimento da missão é responsabilidade do
+   comandante, que conta com assessoramento técnico do OTFM.
+c) A manutenção da aptidão física é responsabilidade exclusiva da OM, sem dever individual do
+   militar.
+d) O oficial médico substitui o S-3 na elaboração do QTS e na distribuição dos grupamentos.
+e) O comandante de subunidade não participa da execução, fiscalização ou controle do TFM.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa b.
 
-**Comentário:** Direção da instrução envolve condução e organização planejada da instrução física.
+**Comentário:** A responsabilidade pelo condicionamento da tropa é do comandante. O OTFM atua como
+                assessor técnico, e os demais agentes possuem atribuições próprias.
 
-**Assunto cobrado:** Direção da instrução.
+**Assunto cobrado:** Responsabilidades no TFM.
 
 **Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III, item 3.2.
 
@@ -5724,28 +5786,28 @@ e) determinar o resultado administrativo do TAF.
 
 ### Questão 188
 
-Sobre condições de execução do TFM, julgue os itens.
+Sobre as condições de execução do TFM, julgue os itens.
 
-I. Devem ser consideradas no planejamento.
-II. Relacionam-se à segurança e efetividade das sessões.
-III. Podem envolver local, meios disponíveis e organização dos militares.
-IV. São irrelevantes quando há motivação.
-V. Devem dialogar com os objetivos do treinamento.
+I. O treinamento ao ar livre é considerado mais salutar, sempre com atenção à segurança.
+II. Deve-se respeitar intervalo de três horas após almoço ou jantar.
+III. Quando o TFM ocorre cedo, recomenda-se jejum para evitar qualquer ingestão antes da sessão.
+IV. Em clima desfavorável, deve-se escolher horário com temperatura mais adequada.
+V. Áreas cobertas e fechadas dispensam ventilação adequada quando a sessão for de curta duração.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) V, V, V, F, V  
-b) V, V, F, F, V  
-c) F, V, V, F, V  
-d) V, V, V, V, V  
-e) V, F, V, F, V  
+a) V, V, F, V, F
+b) V, V, F, F, F
+c) V, F, F, V, F
+d) V, V, V, V, F
+e) V, V, F, F, V
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa a.
 
-**Comentário:** Condições de execução são relevantes para segurança, controle e alcance dos
-                objetivos.
+**Comentário:** Quando a sessão ocorre cedo, o café da manhã deve ser leve; o manual não recomenda
+                jejum como regra. Áreas fechadas devem possuir ventilação adequada.
 
 **Assunto cobrado:** Condições de execução.
 
@@ -5757,32 +5819,36 @@ e) V, F, V, F, V
 
 ### Questão 189
 
-Sobre planejamento, programas e grupamentos, analise as assertivas.
+Sobre as formas de organização dos grupamentos no TFM, analise as assertivas.
 
-I. O planejamento deve dar coerência às sessões de TFM.
-II. Programas anuais auxiliam a distribuição das sessões ao longo do tempo.
-III. Grupamentos favorecem adequação do treinamento a níveis de condicionamento.
-IV. Planejamento significa aplicar carga máxima todos os dias.
+I. A organização por nível de aptidão física tem como vantagem principal manter centralizado o
+   controle do comandante sobre sua fração.
+II. A organização por frações favorece espírito de corpo, embora não considere plenamente a
+    individualidade biológica.
+III. A organização individual permite ajustar melhor a carga, mas dificulta controle e espírito de
+     corpo.
+IV. Militares acima de 40 anos realizam as sessões previstas, em frações ou grupo diferenciado,
+    observada rigidamente a individualidade biológica.
 
 Está correto o que se afirma em:
 
 
-a) II e III apenas.  
-b) I e III apenas.  
-c) I e II e III apenas.  
-d) I e II apenas.  
-e) III e IV apenas.  
+a) I e IV apenas.
+b) II e IV apenas.
+c) II e III apenas.
+d) III e IV apenas.
+e) II, III e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa e.
 
-**Comentário:** Planejamento não é carga máxima diária; envolve progressão, controle, continuidade
-                e segurança.
+**Comentário:** A organização por nível de aptidão física individualiza melhor, mas descentraliza o
+                controle. Frações favorecem coesão; treino individual favorece ajuste da carga.
 
-**Assunto cobrado:** Planejamento e programação.
+**Assunto cobrado:** Formas de organização por grupamentos.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III, item 3.6.
 
 </details>
 
@@ -5790,24 +5856,26 @@ e) III e IV apenas.
 
 ### Questão 190
 
-A existência de programas anuais com 4 e 5 sessões semanais indica que o Manual valoriza:
+Uma OM não possui pista de treinamento em circuito para executar sessão de aptidão muscular prevista
+no programa anual. A solução compatível com o Manual é:
 
-a) sistematização e regularidade do TFM.  
-b) treinamento ocasional sem planejamento.  
-c) ausência de continuidade.  
-d) eliminação de métodos variados.  
-e) apenas avaliação documental.  
+a) cancelar a sessão, pois programas anuais não admitem adaptação.
+b) substituir a sessão por corrida contínua, ainda que se altere a qualidade física trabalhada.
+c) substituir a pista de treinamento em circuito por ginástica básica, preservando o objetivo de
+   aptidão muscular.
+d) converter a sessão em TAF, independentemente do planejamento anual.
+e) manter a pista de treinamento em circuito apenas de forma teórica.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa a.
+**Gabarito:** alternativa c.
 
-**Comentário:** Programas anuais demonstram preocupação com organização sistemática e regular do
-                treinamento.
+**Comentário:** Na falta de equipamento ou instalação, a substituição deve preservar o objetivo do
+                método. PTC e ginástica básica trabalham aptidão muscular.
 
-**Assunto cobrado:** Programas anuais.
+**Assunto cobrado:** Substituição de atividade no programa anual.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III e Anexos A e B.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo III, item 3.4 e Anexos A e B.
 
 </details>
 
@@ -5817,22 +5885,25 @@ e) apenas avaliação documental.
 
 ### Questão 191
 
-O Capítulo X do Manual EB70-MC-10.375 trata do TFM para militares:
+Um militar apresenta condição especial de saúde e deseja retomar o TFM. Segundo o Manual, é correto
+afirmar que:
 
-a) apenas em cursos operacionais fora da Corporação.  
-b) exclusivamente candidatos a ingresso na PMAL.  
-c) em condição especial de saúde.  
-d) somente aptos no TAF V.  
-e) que não necessitam de qualquer adaptação.  
+a) toda condição especial impõe automaticamente TFM e TAF alternativos.
+b) o OTFM pode liberar o militar sem avaliação médica, desde que reduza a intensidade.
+c) o militar deve estar liberado pelo médico, que discutirá riscos e cuidados com o OTFM; eventual
+   TFM ou TAF alternativo dependerá da necessidade verificada.
+d) o treinamento deve ser suspenso definitivamente, mesmo quando a atividade física puder auxiliar
+   a recuperação.
+e) basta a autodeclaração do militar para reiniciar sessões de baixo impacto.
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa c.
 
-**Comentário:** O Capítulo X aborda militares em condição especial de saúde, como gestantes,
-                hipertensos, diabéticos e obesos.
+**Comentário:** Condição especial de saúde requer liberação médica e planejamento do OTFM. TFM ou
+                TAF alternativo não decorrem automaticamente da condição.
 
-**Assunto cobrado:** TFM para condição especial de saúde.
+**Assunto cobrado:** Regra geral para condição especial de saúde.
 
 **Fonte de estudo:** Manual EB70-MC-10.375, Capítulo X.
 
@@ -5842,31 +5913,34 @@ e) que não necessitam de qualquer adaptação.
 
 ### Questão 192
 
-São grupos tratados no Capítulo X do Manual:
+Sobre o treinamento físico durante e após a gestação, julgue os itens.
 
-I. Gestantes.
-II. Hipertensos.
-III. Diabéticos.
-IV. Militares obesos.
-V. Somente atletas olímpicos.
+I. A liberação do médico obstetra é indispensável.
+II. Caminhada, natação e bicicleta estacionária são atividades preferenciais.
+III. A corrida é proibida em qualquer hipótese, ainda que a gestante já corresse antes da gravidez
+     e esteja liberada pelo obstetra.
+IV. Após parto normal, o retorno deve ocorrer imediatamente, dispensada liberação médica quando não
+    houver dor.
+V. Após cesárea, o retorno gradual geralmente pode ocorrer entre oito e dez semanas.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, V, F  
-b) V, F, V, V, F  
-c) V, V, V, F, F  
-d) V, V, V, V, F  
-e) V, V, F, V, F  
+a) V, V, F, V, F
+b) F, V, F, F, V
+c) V, F, F, F, V
+d) V, V, F, F, V
+e) V, V, V, F, V
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa d.
 
-**Comentário:** O capítulo trata de gestantes, hipertensos, diabéticos e obesos; não se limita a
-                atletas.
+**Comentário:** Corrida não é absolutamente proibida: pode ser admitida quando já fazia parte da
+                rotina pré-gestacional e houver liberação do obstetra. O retorno pós-parto é gradual
+                e depende de liberação médica.
 
-**Assunto cobrado:** Condições especiais de saúde.
+**Assunto cobrado:** TFM para gestantes.
 
 **Fonte de estudo:** Manual EB70-MC-10.375, Capítulo X.
 
@@ -5876,30 +5950,32 @@ e) V, V, F, V, F
 
 ### Questão 193
 
-Sobre TFM para militares em condição especial de saúde, analise as assertivas.
+Sobre o treinamento físico de militares hipertensos, analise as assertivas.
 
-I. Reforça a tônica do foco no indivíduo.
-II. Exige atenção a limitações e necessidades específicas.
-III. Deve dialogar com segurança, orientação e controle.
-IV. Determina que todos realizem cargas idênticas, sem adaptação.
+I. O treinamento aeróbico e o concorrente de força e aeróbico podem contribuir para reduzir PAS e
+   PAD de repouso.
+II. O militar deve verificar a pressão arterial antes da sessão.
+III. Pressão arterial elevada em repouso não contraindica o exercício daquele dia quando o militar
+     estiver sem sintomas.
+IV. No treinamento contrarresistência, devem ser evitadas cargas máximas e manobra de Valsalva.
 
 Está correto o que se afirma em:
 
 
-a) III e IV apenas.  
-b) I e II apenas.  
-c) II e III apenas.  
-d) I e II e III apenas.  
-e) I e III apenas.  
+a) I, II e IV apenas.
+b) III e IV apenas.
+c) I e II apenas.
+d) I e IV apenas.
+e) II e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa a.
 
-**Comentário:** A assertiva IV contraria o foco individual e a necessidade de adequação do
-                treinamento.
+**Comentário:** Mesmo sem sintomas, pressão arterial elevada em repouso contraindica a atividade
+                física naquele dia e exige contato com médico da OM e OTFM.
 
-**Assunto cobrado:** Condição especial de saúde.
+**Assunto cobrado:** TFM para hipertensos.
 
 **Fonte de estudo:** Manual EB70-MC-10.375, Capítulo X.
 
@@ -5909,22 +5985,24 @@ e) I e III apenas.
 
 ### Questão 194
 
-A existência de orientações para gestantes, hipertensos, diabéticos e obesos no Manual demonstra:
+No planejamento do TFM para um militar diabético, a orientação mais adequada é:
 
-a) que não há relação entre saúde e TFM.  
-b) preocupação com adaptação, segurança e individualização do TFM.  
-c) que o TFM dispensa orientação técnica.  
-d) que o treinamento deve ser sempre máximo.  
-e) que esses militares estão proibidos de qualquer atividade física em todos os casos.  
+a) excluir atividade aeróbica, pois ela reduz a sensibilidade à insulina.
+b) aplicar o mesmo protocolo a diabetes tipo 1 e tipo 2, sem atenção à glicemia.
+c) concentrar o tratamento apenas no exercício, dispensando alimentação e acompanhamento médico.
+d) reconhecer o TFM como medida não farmacológica relevante, com atenção ao controle glicêmico e
+   ao risco de hipoglicemia.
+e) evitar qualquer progressão de carga, pois o diabético não pode realizar sessões intermitentes.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
-**Comentário:** O Capítulo X reforça a necessidade de adaptar o treinamento às condições especiais,
-                com segurança e foco no indivíduo.
+**Comentário:** O TFM pode aumentar a sensibilidade à insulina e auxiliar o controle glicêmico, mas
+                requer cuidado com hipoglicemia, especialmente em associação com insulina ou
+                medicamentos.
 
-**Assunto cobrado:** Foco no indivíduo.
+**Assunto cobrado:** TFM para diabéticos.
 
 **Fonte de estudo:** Manual EB70-MC-10.375, Capítulo X.
 
@@ -5934,29 +6012,33 @@ e) que esses militares estão proibidos de qualquer atividade física em todos o
 
 ### Questão 195
 
-Sobre a abordagem de militares obesos, hipertensos, diabéticos e gestantes, julgue os itens.
+Sobre o treinamento físico de militares obesos, julgue os itens.
 
-I. Integra o capítulo de condições especiais de saúde.
-II. Reforça a necessidade de cuidado individual.
-III. Relaciona-se à segurança do TFM.
-IV. Afasta a ideia de aplicação indistinta e cega de carga.
-V. Elimina a necessidade de acompanhamento técnico.
+I. Benefícios significativos à saúde somente aparecem após o militar alcançar o peso corporal
+   ideal.
+II. A perda de 5% a 10% do peso corporal já pode promover benefícios relevantes.
+III. Corrida deve ser prescrita como primeira escolha para todo militar obeso, ainda que haja
+     sobrecarga articular.
+IV. O treinamento concorrente pode auxiliar gasto energético e preservação da massa muscular.
+V. Quando houver liberação para TIAI, recomenda-se aplicá-lo em dias não consecutivos.
 
 Assinale a alternativa que apresenta a sequência correta:
 
-a) V, V, V, F, F  
-b) V, V, V, V, F  
-c) V, V, F, V, F  
-d) V, F, V, V, F  
-e) F, V, V, V, F  
+a) F, F, F, V, V
+b) F, V, F, V, V
+c) F, V, V, F, V
+d) F, V, F, V, F
+e) F, V, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
 **Gabarito:** alternativa b.
 
-**Comentário:** Condições especiais exigem maior atenção e acompanhamento, não sua eliminação.
+**Comentário:** A perda de 5% a 10% do peso já traz benefícios. O programa deve considerar impacto
+                articular, progressão e preservação da massa muscular; corrida não é prescrição
+                automática.
 
-**Assunto cobrado:** Condições especiais de saúde.
+**Assunto cobrado:** TFM para militares obesos.
 
 **Fonte de estudo:** Manual EB70-MC-10.375, Capítulo X.
 
@@ -5966,23 +6048,24 @@ e) F, V, V, V, F
 
 ### Questão 196
 
-O Capítulo XII do Manual EB70-MC-10.375 trata de:
+Quanto à concepção geral da avaliação física no Manual, assinale a alternativa correta:
 
-a) técnicas de camuflagem.  
-b) avaliação do desempenho físico.  
-c) somente alimentação pré-treino.  
-d) exclusivamente TAF V da PMAL.  
-e) apenas protocolos administrativos de trajes civis.  
+a) Restrições médicas impedem qualquer avaliação diferenciada.
+b) A avaliação deve considerar exclusivamente a condição física, sem relação com saúde.
+c) A avaliação constitui procedimento subjetivo, sem critérios preestabelecidos.
+d) A avaliação organiza-se em dupla vertente: condição física do indivíduo e estado de saúde.
+e) A avaliação deve exigir instalações caras para assegurar validade.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa d.
 
-**Comentário:** O Capítulo XII é destinado à avaliação do desempenho físico.
+**Comentário:** A avaliação física mede a capacidade do militar em relação à aptidão requerida e se
+                organiza considerando condição física e estado de saúde.
 
-**Assunto cobrado:** Avaliação do desempenho físico.
+**Assunto cobrado:** Concepção da avaliação física.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo XII.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo XII, item 12.2.
 
 </details>
 
@@ -5992,27 +6075,28 @@ e) apenas protocolos administrativos de trajes civis.
 
 A avaliação do desempenho físico, segundo o Capítulo XII, deve apresentar características como:
 
-I. Universalidade.
-II. Simplicidade.
+I. Economicidade significa que limitações de recursos inviabilizam a aplicação da avaliação.
+II. Simplicidade exige metodologia complexa e instalações caras para assegurar precisão.
 III. Rapidez.
-IV. Flexibilidade.
-V. Subjetividade absoluta e ausência de critério.
+IV. Universalidade.
+V. Flexibilidade.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) V, V, F, V, F  
-b) V, V, V, F, F  
-c) F, V, V, V, F  
-d) V, V, V, V, F  
-e) V, F, V, V, F  
+a) F, V, F, V, V
+b) F, F, V, F, V
+c) F, V, V, V, F
+d) F, F, V, V, F
+e) F, F, V, V, V
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa e.
 
-**Comentário:** O manual cita características como universal, simples, rápida, flexível, duradoura,
-                coerente, objetiva e econômica.
+**Comentário:** A avaliação deve ser universal, simples, rápida, flexível, duradoura, coerente,
+                objetiva e econômica. Simplicidade não pressupõe metodologia complexa ou
+                instalações caras.
 
 **Assunto cobrado:** Características da avaliação.
 
@@ -6026,25 +6110,25 @@ e) V, F, V, V, F
 
 Quanto aos fatores da avaliação do desempenho físico, analise as assertivas.
 
-I. Padrão de desempenho físico.
-II. Idade do militar.
+I. Graduação do militar.
+II. Padrão de desempenho físico.
 III. Sexo do militar.
-IV. Cor do uniforme de passeio.
+IV. Idade do militar.
 
 Está correto o que se afirma em:
 
-a) II e III apenas.  
-b) I e II e III apenas.  
-c) I e II apenas.  
-d) I e III apenas.  
-e) III e IV apenas.  
+a) I e III apenas.
+b) III e IV apenas.
+c) II e III apenas.
+d) II e IV apenas.
+e) II, III e IV apenas.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa b.
+**Gabarito:** alternativa e.
 
-**Comentário:** Os fatores da avaliação são padrão de desempenho físico, idade e sexo; cor de
-                uniforme não é fator de avaliação física.
+**Comentário:** Os fatores expressamente indicados são padrão de desempenho físico, idade e sexo. A
+                graduação não aparece nessa enumeração.
 
 **Assunto cobrado:** Fatores da avaliação.
 
@@ -6056,24 +6140,25 @@ e) III e IV apenas.
 
 ### Questão 199
 
-A avaliação física tratada no Manual organiza-se, de forma geral, em dupla vertente:
+Quanto aos padrões de desempenho físico, assinale a alternativa correta:
 
-a) somente idade e matrícula.  
-b) cor do tênis e modelo da camisa.  
-c) boletim administrativo e escala de serviço.  
-d) condição física do indivíduo e estado de saúde.  
-e) apenas natação e caminhada.  
+a) O PAFI corresponde ao padrão mais elevado exigido para situações funcionais especiais.
+b) PBD, PAD e PED são definidos exclusivamente pela idade, sem relação com a situação funcional.
+c) Para os conscritos, o PAFI serve como orientação inicial para o prosseguimento das atividades
+   previstas no TFM.
+d) Cada OM pode substituir livremente os quatro padrões por tabela própria.
+e) Os padrões não influenciam o planejamento do treinamento físico.
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa d.
+**Gabarito:** alternativa c.
 
-**Comentário:** O Manual indica que a avaliação física se organiza considerando condição física e
-                estado de saúde.
+**Comentário:** O PAFI orienta inicialmente o treinamento dos conscritos. Os padrões consideram as
+                exigências da Força e a situação funcional do militar.
 
-**Assunto cobrado:** Concepção geral da avaliação.
+**Assunto cobrado:** Padrões de desempenho físico.
 
-**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo XII, item 12.2.
+**Fonte de estudo:** Manual EB70-MC-10.375, Capítulo XII, item 12.4.2.
 
 </details>
 
@@ -6083,27 +6168,29 @@ e) apenas natação e caminhada.
 
 Sobre padrões de desempenho físico no Capítulo XII, julgue os itens.
 
-I. Os padrões são estabelecidos conforme necessidades e conveniências da Força.
-II. Servem para nortear o treinamento físico dos militares.
-III. Incluem PAFI, PBD, PAD e PED.
-IV. Não possuem qualquer relação com a situação funcional do militar.
-V. Cada OII corresponde a um teste físico, conforme diretriz reguladora.
+I. Servem para nortear o treinamento físico dos militares.
+II. São definidos exclusivamente pela idade do militar, sem relação com sua situação funcional.
+III. Os padrões são estabelecidos conforme necessidades e conveniências da Força.
+IV. Os OII são permanentes e independem de legislação complementar, pois não sofrem influência da
+    evolução da aptidão física.
+V. Incluem PAFI, PBD, PAD e PED.
 
 Assinale a alternativa que apresenta a sequência correta:
 
 
-a) F, V, V, F, V  
-b) V, V, F, F, V  
-c) V, V, V, F, V  
-d) V, F, V, F, V  
-e) V, V, V, V, V  
+a) V, F, V, V, F
+b) V, F, V, F, V
+c) F, F, V, F, V
+d) V, V, V, F, V
+e) V, F, F, V, F
 <details>
 <summary>Ver resposta</summary>
 
-**Gabarito:** alternativa c.
+**Gabarito:** alternativa b.
 
-**Comentário:** Os padrões consideram a situação funcional do militar e norteiam o treinamento
-                conforme as exigências da Força.
+**Comentário:** Os padrões consideram a situação funcional do militar e norteiam o treinamento.
+                Os OII são regulados por legislação complementar em razão de seu caráter
+                transitório.
 
 **Assunto cobrado:** Padrões de desempenho físico.
 
