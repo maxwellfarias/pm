@@ -1,7 +1,5 @@
 # Visão geral
 
-Apesar de estar dentro de uma infraestrutura Docker, o arquivo `provision.php` **não é Shell**. Ele é um script PHP executado por linha de comando dentro do container.
-
 O papel dele é semelhante ao de um `Program.cs` ou de um serviço de inicialização em .NET que:
 
 1. lê configurações de variáveis de ambiente;
